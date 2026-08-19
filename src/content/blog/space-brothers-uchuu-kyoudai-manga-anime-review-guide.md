@@ -14,7 +14,7 @@ faq:
     answer: 'The Space Brothers manga is still ongoing, continuing the story beyond where the anime concluded. As of late 2023, it has over 40 volumes released in Japan. The anime adaptation, which ran for 99 episodes, faithfully covers a significant portion of the manga, bringing Mutta through many crucial stages of his astronaut training and Hibito''s early missions. While the anime is an excellent and highly recommended adaptation, offering a complete and satisfying arc up to its stopping point, the manga provides the full, continuing narrative with more intricate details, character development, and the eventual progression towards Mutta''s ultimate goal of reaching Mars. For the complete experience, reading the manga is essential after watching the anime.'
 ---
 
-# Beyond the Stars: Why 'Space Brothers' is a [Must-Read](/blog/super-sengoku-chronicle-manga-review-complete-reading-guide-one-coin-deal/) Manga and Must-Watch Anime
+# Beyond the Stars: Why 'Space Brothers' is a Must-Read Manga and Must-Watch Anime
 
 From the bustling streets of Tokyo to the silent, infinite expanse of the cosmos, the dream of touching the stars has captivated humanity for millennia. Yet, few stories capture this aspiration with the profound human depth, meticulous realism, and sheer emotional resonance of Chūya Koyama's masterpiece, *Space Brothers* (宇宙兄弟, *Uchuu Kyoudai*). For international manga and anime enthusiasts, collectors, and casual fans alike, this series isn't just a tale about astronauts; it's an inspiring saga of sibling bonds, unwavering perseverance, and the often-messy, always-rewarding journey of chasing a childhood promise into adulthood.
 
