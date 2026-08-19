@@ -294,9 +294,6 @@ const mediaBadgeMap: Record<string, { label: string; icon: string; className: st
 				object-fit: cover;
 				display: block;
 			}
-				object-fit: cover;
-				display: block;
-			}
 			.card-body {
 				padding: 1.25rem;
 				display: flex;
@@ -580,7 +577,7 @@ const mediaBadgeMap: Record<string, { label: string; icon: string; className: st
 
 					// 件数表示の更新
 					if (countDisplay) {
-						countDisplay.textContent = `表示中: ${visibleCount} 件 / 全 ${articles.length} 件`;
+						countDisplay.textContent = `Showing ${visibleCount} of ${articles.length} reviews`;
 					}
 
 					// 0件メッセージ

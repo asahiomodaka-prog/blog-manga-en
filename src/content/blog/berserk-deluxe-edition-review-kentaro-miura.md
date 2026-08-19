@@ -47,7 +47,7 @@ In the vast, sprawling cosmos of manga, few titles shine with the incandescent, 
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※Prices and availability are subject to change on merchant sites.
+        *Prices and availability are subject to change on merchant sites.
     </div>
 </div>
 
@@ -110,7 +110,7 @@ For those introduced to *Berserk* through its anime adaptations, it's important 
 
 If you've heard the whispers of *Berserk*'s legend and are ready to dive in, or if you're a long-time fan looking to elevate your collection, the Deluxe Edition is unequivocally the way to go. It is far more than just a re-release; it's a celebration of a masterpiece.
 
-### Why the Deluxe Edition is the [Ultimate](/blog/cowboy-bebop-anime-legacy/) Experience
+### Why the Deluxe Edition is the Ultimate Experience
 
 Each *Berserk Deluxe Edition* volume collects three standard manga volumes into a single, hefty tome. The faux leather binding with embossed Brand of Sacrifice emblem, the robust construction, and the high-quality paper stock make these books feel substantial and luxurious. They are designed to be heirlooms, built to withstand countless re-reads. The larger format ensures that every intricate detail of Miura's art, from the sprawling landscapes to the grotesque demon designs, is presented with breathtaking clarity and impact. This isn't just a reading experience; it's an immersion into a dark, beautiful world. For a complete reading guide, starting with Deluxe Edition Vol. 1 is the only logical choice.
 
@@ -151,7 +151,7 @@ To embark on this unforgettable journey, begin with **Berserk Deluxe Edition Vol
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※Prices and availability are subject to change on merchant sites.
+        *Prices and availability are subject to change on merchant sites.
     </div>
 </div>
 

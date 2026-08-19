@@ -3,7 +3,7 @@ title: 'Why Cowboy Bebop Remains the Ultimate Anime Masterpiece: A Timeless Jazz
 description: 'An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover why its genre-blending jazz soundtrack, neo-noir aesthetic, and philosophical themes make it an untouchable classic.'
 pubDate: '2026-08-19'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600'
-genre: 'SF・ファンタジー'
+genre: 'Sci-Fi & Fantasy'
 mediaType: 'anime'
 ---
 
@@ -42,7 +42,7 @@ When Shinichiro Watanabe and Studio Sunrise released *Cowboy Bebop* in 1998, the
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※Prices and availability are subject to change on merchant sites.
+        *Prices and availability are subject to change on merchant sites.
     </div>
 </div>
 
@@ -97,7 +97,7 @@ A3: The complete original TV series spans 26 episodes, accompanied by a feature-
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※Prices and availability are subject to change on merchant sites.
+        *Prices and availability are subject to change on merchant sites.
     </div>
 </div>
 

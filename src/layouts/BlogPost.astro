@@ -13,22 +13,19 @@ const { title, description, pubDate, updatedDate, heroImage, genre, sidebarProdu
 
 const defaultProducts = [
 	{
-		title: '秋田文庫 BLACK JACK 全17巻セット（化粧箱入り）',
-		url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
-		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3592/9784253903592.jpg?_ex=600x600',
-		price: 14960
+		title: 'Berserk Deluxe Edition Vol.1',
+		url: 'https://www.amazon.com/s?k=Berserk+Deluxe+Edition',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3592/9784253903592.jpg?_ex=600x600'
 	},
 	{
-		title: 'マンガで世界名作 名探偵シャーロック・ホームズ',
-		url: 'https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Fc6a58d7acedd376698538e15b5206cff%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F24974575%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
-		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4696/2000017724696.jpg?_ex=128x128',
-		price: 1320
+		title: 'Cowboy Bebop Blu-ray Collection',
+		url: 'https://www.amazon.com/s?k=Cowboy+Bebop+Blu-ray',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4696/2000017724696.jpg?_ex=128x128'
 	},
 	{
-		title: '齋藤孝のドラえもん読み解きクイズ 2 国語力を伸ばす （ドラえもんのドリル・プリント・ムック）',
-		url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F4352251%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F12033400%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
-		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0928/9784092530928_1_4.jpg?_ex=128x128',
-		price: 770
+		title: 'Fullmetal Alchemist Box Set',
+		url: 'https://www.amazon.com/s?k=Fullmetal+Alchemist+Box+Set',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0928/9784092530928_1_4.jpg?_ex=128x128'
 	}
 ];
 
@@ -281,6 +278,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 					gap: 1.5rem;
 					width: 100%;
 					max-width: calc(100% - 2rem);
+					min-height: auto;
 				}
 				.sidebar {
 					display: none;
@@ -929,13 +927,8 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 												<a href={prod.url} target="_blank" rel="nofollow noopener noreferrer" class="mobile-product-title-link">
 													{prod.title}
 												</a>
-												{prod.price && (
-													<div class="mobile-product-price">
-														{prod.price.toLocaleString()}円
-													</div>
-												)}
 												<a class="mobile-banner-button" href={prod.url} target="_blank" rel="nofollow noopener noreferrer">
-													{prod.microCopy || '詳細を見る'}
+													{prod.microCopy || 'Learn More'}
 												</a>
 											</div>
 										</div>
@@ -962,13 +955,8 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 									<a href={products[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
 										{products[0].title}
 									</a>
-									{products[0].price && (
-										<div class="sidebar-product-price">
-											{products[0].price.toLocaleString()}円
-										</div>
-									)}
 									<a class="banner-button" href={products[0].url} target="_blank" rel="nofollow noopener noreferrer">
-										{products[0].microCopy || '詳細を見る'}
+										{products[0].microCopy || 'Learn More'}
 									</a>
 								</div>
 							)}

@@ -14,7 +14,7 @@ faq:
     answer: 'The Space Brothers manga is still ongoing, continuing the story beyond where the anime concluded. As of late 2023, it has over 40 volumes released in Japan. The anime adaptation, which ran for 99 episodes, faithfully covers a significant portion of the manga, bringing Mutta through many crucial stages of his astronaut training and Hibito''s early missions. While the anime is an excellent and highly recommended adaptation, offering a complete and satisfying arc up to its stopping point, the manga provides the full, continuing narrative with more intricate details, character development, and the eventual progression towards Mutta''s ultimate goal of reaching Mars. For the complete experience, reading the manga is essential after watching the anime.'
 ---
 
-# Beyond the Stars: Why 'Space Brothers' is a [Must-Read](/blog/super-sengoku-chronicle-manga-review-complete-reading-guide-one-coin-deal/) Manga and Must-Watch [Anime](/blog/cowboy-bebop-anime-legacy/)
+# Beyond the Stars: Why 'Space Brothers' is a [Must-Read](/blog/super-sengoku-chronicle-manga-review-complete-reading-guide-one-coin-deal/) Manga and Must-Watch Anime
 
 From the bustling streets of Tokyo to the silent, infinite expanse of the cosmos, the dream of touching the stars has captivated humanity for millennia. Yet, few stories capture this aspiration with the profound human depth, meticulous realism, and sheer emotional resonance of Chūya Koyama's masterpiece, *Space Brothers* (宇宙兄弟, *Uchuu Kyoudai*). For international manga and anime enthusiasts, collectors, and casual fans alike, this series isn't just a tale about astronauts; it's an inspiring saga of sibling bonds, unwavering perseverance, and the often-messy, always-rewarding journey of chasing a childhood promise into adulthood.
 
@@ -49,7 +49,7 @@ As an anime critic and manga historian for Midnight Manga Vault, I've seen count
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※Prices and availability are subject to change on merchant sites.
+        *Prices and availability are subject to change on merchant sites.
     </div>
 </div>
 
@@ -82,7 +82,7 @@ The attention to detail extends to the environments as well. From the cluttered 
 
 For those who prefer their stories in motion, the *Space Brothers* anime adaptation is nothing short of stellar. Produced by A-1 Pictures, the anime ran for an impressive 99 episodes, faithfully translating the manga's charm, humor, and emotional depth to the screen. It's an example of an adaptation done right, capturing the essence of the source material while leveraging the unique strengths of the animated medium.
 
-### Voice Acting and Soundtrack: Elevating the [Experience](/blog/berserk-deluxe-edition-review-kentaro-miura/)
+### Voice Acting and Soundtrack: Elevating the Experience
 
 The voice acting in the anime is a particular highlight. Hiroaki Hirata as Mutta Nanba delivers a performance that is both nuanced and iconic, perfectly capturing Mutta's internal monologues, his self-deprecating humor, and his moments of profound determination. His voice becomes synonymous with Mutta's journey, making every victory and setback resonate deeply. The supporting cast, including KENN as Hibito, also delivers strong performances, adding layers to the ensemble.
 
@@ -141,7 +141,7 @@ Whether you choose to read the manga, watch the anime, or both, prepare for a st
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※Prices and availability are subject to change on merchant sites.
+        *Prices and availability are subject to change on merchant sites.
     </div>
 </div>
 
