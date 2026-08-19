@@ -1,0 +1,211 @@
+---
+// Import the global.css file here so that it is included on
+// all pages through the use of the <BaseHead /> component.
+import '../styles/global.css';
+import type { ImageMetadata } from 'astro';
+import FallbackImage from '../assets/ogp-default.png';
+import { SITE_TITLE, PUBLIC_GA_TRACKING_ID } from '../consts';
+import { Font } from 'astro:assets';
+
+interface Props {
+	title: string;
+	description: string;
+	image?: ImageMetadata;
+	type?: 'website' | 'article';
+	pubDate?: Date;
+	updatedDate?: Date;
+	faq?: Array<{ question: string; answer: string }>;
+	rating?: { score: number; count: number };
+	products?: Array<{ title: string; url: string; imageUrl?: string; price?: number }>;
+}
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+
+const { 
+	title, 
+	description, 
+	image = FallbackImage, 
+	type = Astro.url.pathname.includes('/blog/') ? 'article' : 'website',
+	pubDate,
+	updatedDate,
+	faq,
+	rating,
+	products
+} = Astro.props;
+
+const isHome = Astro.url.pathname === '/' || Astro.url.pathname === '/index.html';
+const displayTitle = isHome ? SITE_TITLE : `${title} | ${SITE_TITLE}`;
+
+// 構造化データの作成
+let jsonLd: any = null;
+
+if (isHome) {
+	jsonLd = {
+		"@context": "https://schema.org",
+		"@type": "WebSite",
+		"name": SITE_TITLE,
+		"url": Astro.site?.toString() || canonicalURL.origin,
+		"description": description
+	};
+} else if (type === 'article') {
+	const imageUrl = image ? new URL(image.src, Astro.url).toString() : undefined;
+	const items: any[] = [
+		{
+			"@context": "https://schema.org",
+			"@type": "BlogPosting",
+			"headline": title,
+			"description": description,
+			"image": imageUrl,
+			"datePublished": pubDate ? pubDate.toISOString() : undefined,
+			"dateModified": updatedDate ? updatedDate.toISOString() : (pubDate ? pubDate.toISOString() : undefined),
+			"mainEntityOfPage": {
+				"@type": "WebPage",
+				"@id": canonicalURL.toString()
+			},
+			"author": {
+				"@type": "Person",
+				"name": "Editor-in-Chief"
+			},
+			"publisher": {
+				"@type": "Organization",
+				"name": SITE_TITLE,
+				"logo": {
+					"@type": "ImageObject",
+					"url": new URL('/favicon.png', Astro.site || canonicalURL.origin).toString()
+				}
+			}
+		},
+		{
+			"@context": "https://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": Astro.site?.toString() || canonicalURL.origin
+				},
+				{
+					"@type": "ListItem",
+					"position": 2,
+					"name": title,
+					"item": canonicalURL.toString()
+				}
+			]
+		}
+	];
+
+	// FAQ構造化データ (FAQPage)
+	if (faq && faq.length > 0) {
+		items.push({
+			"@context": "https://schema.org",
+			"@type": "FAQPage",
+			"mainEntity": faq.map(item => ({
+				"@type": "Question",
+				"name": item.question,
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": item.answer
+				}
+			}))
+		});
+	}
+
+	// 商品レビュー構造化データ (Product / Review)
+	if (products && products.length > 0) {
+		const mainProd = products[0];
+		const score = rating?.score || 4.5;
+		const reviewCount = rating?.count || 1;
+		
+		const productSchema: any = {
+			"@context": "https://schema.org",
+			"@type": "Product",
+			"name": mainProd.title,
+			"image": mainProd.imageUrl || imageUrl,
+			"description": description,
+			"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": score.toString(),
+				"reviewCount": reviewCount.toString(),
+				"bestRating": "5",
+				"worstRating": "1"
+			}
+		};
+
+		if (mainProd.price) {
+			productSchema.offers = {
+				"@type": "Offer",
+				"price": mainProd.price.toString(),
+				"priceCurrency": "JPY",
+				"availability": "https://schema.org/InStock",
+				"url": mainProd.url
+			};
+		}
+
+		items.push(productSchema);
+	}
+
+	jsonLd = items;
+}
+---
+
+<!-- Global Metadata -->
+{PUBLIC_GA_TRACKING_ID && (
+	<script async src={`https://www.googletagmanager.com/gtag/js?id=${PUBLIC_GA_TRACKING_ID}`}></script>
+	<script is:inline define:vars={{ gaId: PUBLIC_GA_TRACKING_ID }}>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', gaId);
+	</script>
+)}
+<meta name="google-site-verification" content="aj3MDKAk2rGfFa3kIAgTPxsHvkBmoJy45c0Z-NJkMbc" />
+<meta name="robots" content="max-image-preview:large" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5244593798922699" crossorigin="anonymous"></script>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="icon" type="image/png" href="/favicon.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" href="/favicon.ico" />
+<link rel="sitemap" href="/sitemap-index.xml" />
+<link
+	rel="alternate"
+	type="application/rss+xml"
+	title={SITE_TITLE}
+	href={new URL('rss.xml', Astro.site)}
+/>
+<meta name="generator" content={Astro.generator} />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+<Font cssVariable="--font-atkinson" preload />
+
+<!-- Canonical URL -->
+<link rel="canonical" href={canonicalURL} />
+
+<!-- Primary Meta Tags -->
+<title>{displayTitle}</title>
+<meta name="title" content={displayTitle} />
+<meta name="description" content={description} />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content={type} />
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content={Astro.url} />
+<meta property="og:title" content={displayTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={new URL(image.src, Astro.url)} />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content={Astro.url} />
+<meta property="twitter:title" content={title} />
+<meta property="twitter:description" content={description} />
+<meta property="twitter:image" content={new URL(image.src, Astro.url)} />
+
+<!-- JSON-LD Structured Data -->
+{jsonLd && (
+	<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+)}

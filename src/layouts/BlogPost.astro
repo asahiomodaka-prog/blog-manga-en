@@ -1,0 +1,1160 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+
+type Props = CollectionEntry<'blog'>['data'] & { genre?: string };
+
+const { title, description, pubDate, updatedDate, heroImage, genre, sidebarProducts, faq, rating } = Astro.props;
+
+const defaultProducts = [
+	{
+		title: '秋田文庫 BLACK JACK 全17巻セット（化粧箱入り）',
+		url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3592/9784253903592.jpg?_ex=600x600',
+		price: 14960
+	},
+	{
+		title: 'マンガで世界名作 名探偵シャーロック・ホームズ',
+		url: 'https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Fc6a58d7acedd376698538e15b5206cff%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F24974575%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4696/2000017724696.jpg?_ex=128x128',
+		price: 1320
+	},
+	{
+		title: '齋藤孝のドラえもん読み解きクイズ 2 国語力を伸ばす （ドラえもんのドリル・プリント・ムック）',
+		url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F4352251%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F12033400%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0928/9784092530928_1_4.jpg?_ex=128x128',
+		price: 770
+	}
+];
+
+const products = sidebarProducts && sidebarProducts.length > 0
+	? [
+			...sidebarProducts,
+			...defaultProducts.slice(sidebarProducts.length)
+		].slice(0, 3)
+	: defaultProducts;
+
+// 過去の投稿（最新記事・今見ている記事を除く10件）を取得
+const allPosts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const currentId = Astro.url.pathname.split('/').filter(Boolean).pop();
+const excludeId = currentId || (allPosts.length > 0 ? allPosts[0].id : null);
+const candidatePosts = allPosts.filter(post => post.id !== excludeId);
+const sidebarPosts = candidatePosts.slice(0, 10);
+
+// ジャンル・メディア種別・カテゴリ・タグが一致する記事を優先的に関連記事として3件抽出
+const currentPost = allPosts.find(post => post.id === excludeId);
+const currentGenre = currentPost?.data.genre || genre;
+const currentMediaType = currentPost?.data.mediaType;
+const currentCategory = currentPost?.data.category;
+const currentTags = currentPost?.data.tags || [];
+
+const genreMatched = candidatePosts.filter(post => currentGenre && post.data.genre === currentGenre);
+const mediaMatched = candidatePosts.filter(post => currentMediaType && post.data.mediaType === currentMediaType);
+const categoryMatched = candidatePosts.filter(post => currentCategory && post.data.category === currentCategory);
+const tagMatched = candidatePosts.filter(post => post.data.tags && post.data.tags.some(t => currentTags.includes(t)));
+
+// 同一ジャンル優先 -> 同一メディア種別 -> カテゴリ/タグ -> その他の記事の順で重複排除して上位3件
+const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...categoryMatched, ...tagMatched, ...candidatePosts])).slice(0, 3);
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} pubDate={pubDate} updatedDate={updatedDate} faq={faq} rating={rating} products={products} />
+		<style>
+			main {
+				width: 100%;
+				max-width: 100%;
+				margin: 0;
+				padding: 2.5rem 0;
+			}
+			.hero-image {
+				width: 100%;
+				margin-bottom: 2rem;
+			}
+			.hero-image img {
+				display: block;
+				margin: 0 auto;
+				border-radius: 16px;
+				box-shadow: var(--box-shadow);
+				max-height: 440px;
+				object-fit: cover;
+			}
+			.blog-layout-container {
+				display: flex;
+				flex-direction: row;
+				gap: 3.5rem;
+				width: 1120px;
+				max-width: calc(100% - 2rem);
+				margin: 0 auto;
+				align-items: stretch;
+				min-height: 1000px; /* 記事が短い場合でもサイドバーがスクロールする高さを確保 */
+			}
+			.main-content {
+				flex: 1;
+				min-width: 0;
+				align-self: flex-start;
+			}
+			.prose {
+				width: 100%;
+				max-width: 100%;
+				color: #334155;
+			}
+			.title {
+				margin-bottom: 2.5rem;
+				padding: 1.5rem 0;
+				text-align: left;
+				line-height: 1.3;
+				border-bottom: 1px solid rgb(var(--gray-light));
+			}
+			.title h1 {
+				margin: 0 0 0.75rem 0;
+				font-size: 2rem;
+				font-weight: 700;
+				color: #0f172a;
+				letter-spacing: -0.02em;
+			}
+			.date {
+				margin-bottom: 0.75rem;
+				color: #64748b;
+				font-size: 0.9rem;
+				font-weight: 500;
+			}
+			.last-updated-on {
+				font-style: italic;
+				display: inline-block;
+				margin-left: 0.5rem;
+			}
+			
+			/* PCのサイドバーの装飾 */
+			.sidebar {
+				width: 280px;
+				flex-shrink: 0;
+				align-self: stretch;
+				position: relative;
+			}
+			.sidebar-sticky {
+				position: sticky;
+				top: 6.5rem;
+				width: 100%;
+			}
+			.sidebar-sticky-inner {
+				width: 100%;
+			}
+			.sidebar-widget {
+				background-color: #ffffff;
+				border: 1px solid #e2e8f0;
+				border-radius: 16px;
+				padding: 1.5rem;
+				margin-bottom: 1.5rem;
+				box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.02);
+			}
+			.sidebar-widget h4 {
+				font-size: 1.05rem;
+				margin-bottom: 0.85rem;
+				color: #0f172a;
+				border-bottom: 2px solid var(--accent);
+				padding-bottom: 0.5rem;
+				font-weight: 700;
+			}
+			.sidebar-widget p {
+				font-size: 0.85rem;
+				color: #64748b;
+				line-height: 1.6;
+				margin-bottom: 1rem;
+			}
+			.sidebar-widget ul {
+				padding-left: 1.2rem;
+				margin-bottom: 1.25rem;
+			}
+			.sidebar-widget li {
+				font-size: 0.85rem;
+				margin-bottom: 0.5rem;
+			}
+			.sidebar-widget a {
+				color: var(--accent);
+				text-decoration: none;
+				font-weight: 600;
+			}
+			.sidebar-widget a:hover {
+				color: var(--accent-dark);
+				text-decoration: underline;
+			}
+			
+			/* サイドバー商品カードのデザインリッチ化 */
+			.sidebar-product-card {
+				background: #f8fafc;
+				border: 1px solid #f1f5f9;
+				border-radius: 12px;
+				padding: 1rem;
+				margin-bottom: 1.2rem;
+				text-align: left;
+				transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+			}
+			.sidebar-product-card:hover {
+				transform: translateY(-2px);
+				box-shadow: 0 8px 20px -4px rgba(15, 23, 42, 0.06);
+				border-color: #e2e8f0;
+			}
+			.sidebar-product-image-link {
+				display: block;
+				margin-bottom: 0.75rem;
+				text-align: center;
+			}
+			.sidebar-product-image {
+				max-width: 100%;
+				max-height: 120px;
+				border-radius: 6px;
+				object-fit: contain;
+				margin: 0 auto;
+				box-shadow: none; /* 商品画像にはグローバルシャドウを適用しない */
+			}
+			.sidebar-product-title-link {
+				display: block;
+				font-size: 0.85rem;
+				font-weight: bold;
+				line-height: 1.4;
+				color: #1e293b;
+				text-decoration: none;
+				margin-bottom: 0.5rem;
+			}
+			.sidebar-product-title-link:hover {
+				color: var(--accent);
+			}
+			.sidebar-product-price {
+				font-size: 0.9rem;
+				color: #dc2626; /* 警告赤 */
+				font-weight: 700;
+				margin-bottom: 0.75rem;
+			}
+			
+			.widget-banner {
+				background: linear-gradient(135deg, #0f172a, #334155);
+				color: white;
+				border-radius: 12px;
+				padding: 1.25rem;
+				text-align: center;
+				box-shadow: 0 4px 12px rgba(15, 23, 42, 0.08);
+			}
+			.widget-banner p {
+				color: #f1f5f9;
+				font-weight: bold;
+				font-size: 0.9rem;
+				margin-bottom: 0.75rem;
+			}
+			.banner-button {
+				display: inline-block;
+				background-color: var(--accent);
+				color: #ffffff !important;
+				font-size: 0.8rem;
+				font-weight: bold;
+				padding: 0.55rem 1rem;
+				border-radius: 8px;
+				text-decoration: none !important;
+				transition: all 0.2s ease;
+				box-shadow: 0 2px 4px rgba(180, 83, 9, 0.2);
+				width: 100%;
+				box-sizing: border-box;
+				text-align: center;
+			}
+			.banner-button:hover {
+				background-color: var(--accent-dark);
+				transform: translateY(-1px);
+				box-shadow: 0 4px 8px rgba(180, 83, 9, 0.3);
+			}
+
+			/* モバイル関連商品表示セクション（デフォルトは非表示でPCでは出さない） */
+			.mobile-related-products {
+				display: none;
+			}
+
+			/* スマホ・タブレット向けレスポンシブ（サイドバーは非表示） */
+			@media (max-width: 800px) {
+				.blog-layout-container {
+					flex-direction: column;
+					gap: 1.5rem;
+					width: 100%;
+					max-width: calc(100% - 2rem);
+				}
+				.sidebar {
+					display: none;
+				}
+				.title h1 {
+					font-size: 1.8rem;
+				}
+
+				/* モバイル時のみ関連商品セクションを表示 */
+				.mobile-related-products {
+					display: block;
+					margin-top: 3.5rem;
+					padding-top: 2.5rem;
+					border-top: 2px dashed #e2e8f0;
+				}
+				.mobile-section-title {
+					font-size: 1.25rem;
+					font-weight: 800;
+					color: #0f172a;
+					margin-bottom: 1.5rem;
+					text-align: left;
+					position: relative;
+					padding-left: 0.85rem;
+					letter-spacing: -0.01em;
+				}
+				.mobile-section-title::before {
+					content: "";
+					position: absolute;
+					left: 0;
+					top: 0.15rem;
+					bottom: 0.15rem;
+					width: 5px;
+					background: linear-gradient(to bottom, #8b5cf6, #6d28d9);
+					border-radius: 4px;
+				}
+				.mobile-products-grid {
+					display: flex;
+					flex-direction: column;
+					gap: 1.25rem;
+				}
+				.mobile-product-card {
+					display: flex;
+					flex-direction: row;
+					background: #ffffff;
+					border: 1px solid #e2e8f0;
+					border-radius: 16px;
+					padding: 1.25rem;
+					gap: 1.25rem;
+					position: relative;
+					align-items: center;
+					box-shadow: 0 4px 15px -3px rgba(0, 0, 0, 0.04);
+					transition: transform 0.2s ease, box-shadow 0.2s ease;
+				}
+				.mobile-product-card:active {
+					transform: scale(0.98);
+					box-shadow: 0 2px 8px -2px rgba(0, 0, 0, 0.04);
+				}
+				.mobile-product-card .ad-label {
+					position: absolute;
+					top: 0.75rem;
+					right: 1rem;
+					font-size: 0.6rem;
+					color: #94a3b8;
+					font-weight: 700;
+					letter-spacing: 0.05em;
+				}
+				.mobile-product-image-link {
+					flex-shrink: 0;
+					width: 90px;
+					height: 90px;
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					background: #f8fafc;
+					border-radius: 12px;
+					border: 1px solid #f1f5f9;
+					overflow: hidden;
+				}
+				.mobile-product-image {
+					max-width: 100%;
+					max-height: 100%;
+					object-fit: contain;
+					border-radius: 8px;
+				}
+				.mobile-product-info {
+					flex: 1;
+					display: flex;
+					flex-direction: column;
+					min-width: 0;
+					gap: 0.35rem;
+				}
+				.mobile-platform-badge {
+					align-self: flex-start;
+					font-size: 0.65rem;
+					font-weight: 800;
+					padding: 0.15rem 0.5rem;
+					border-radius: 9999px;
+					margin-bottom: 0.15rem;
+				}
+				.mobile-platform-dmm {
+					background-color: #fef3c7;
+					color: #d97706;
+					border: 1px solid #fde68a;
+				}
+				.mobile-platform-rakuten {
+					background-color: #fee2e2;
+					color: #dc2626;
+					border: 1px solid #fca5a5;
+				}
+				.mobile-product-title-link {
+					font-size: 0.9rem;
+					font-weight: 700;
+					color: #1e293b;
+					text-decoration: none;
+					line-height: 1.4;
+					display: -webkit-box;
+					-webkit-line-clamp: 2;
+					-webkit-box-orient: vertical;
+					overflow: hidden;
+				}
+				.mobile-product-price {
+					font-size: 1rem;
+					color: #dc2626;
+					font-weight: 800;
+				}
+				.mobile-banner-button {
+					display: inline-block;
+					background: linear-gradient(135deg, #8b5cf6, #6d28d9);
+					color: #ffffff !important;
+					font-size: 0.8rem;
+					font-weight: 800;
+					padding: 0.5rem 1rem;
+					border-radius: 8px;
+					text-decoration: none !important;
+					text-align: center;
+					box-shadow: 0 4px 10px rgba(109, 40, 217, 0.25);
+					align-self: flex-start;
+					transition: background-color 0.2s;
+				}
+				.mobile-banner-button:hover {
+					background: linear-gradient(135deg, #7c3aed, #5b21b6);
+				}
+			}
+
+			/* 特集ウィジェットのスタイル */
+			.feature-widget {
+				background-color: transparent !important;
+				border: none !important;
+				box-shadow: none !important;
+				padding: 0 !important;
+				text-align: center;
+				margin-top: 2rem;
+			}
+			.feature-widget h4 {
+				font-size: 0.75rem;
+				color: #94a3b8;
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+				border-bottom: 1px solid #e2e8f0;
+				padding-bottom: 0.25rem;
+				margin-bottom: 0.75rem;
+				font-weight: 600;
+			}
+			.feature-banner img {
+				width: 100%;
+				max-width: 280px;
+				height: auto;
+				border-radius: 12px;
+				box-shadow: 0 6px 15px rgba(0, 0, 0, 0.05);
+				transition: transform 0.2s ease, box-shadow 0.2s ease;
+			}
+			.feature-banner img:hover {
+				transform: translateY(-2px);
+				box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+			}
+			.dummy-feature-ad {
+				width: 280px;
+				height: 250px;
+				margin: 0 auto;
+				background-color: #f1f5f9;
+				border: 2px dashed #cbd5e1;
+				border-radius: 12px;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				align-items: center;
+				color: #64748b;
+				text-decoration: none;
+				transition: border-color 0.2s ease, background-color 0.2s ease;
+			}
+			.dummy-feature-ad:hover {
+				border-color: var(--accent);
+				background-color: #f8fafc;
+			}
+			.dummy-feature-ad span {
+				font-weight: bold;
+				font-size: 0.9rem;
+			}
+			.dummy-feature-ad p {
+				font-size: 0.75rem;
+				margin: 0.5rem 0 0 0;
+			}
+			
+			/* 追加・変更されたスタイル */
+			.title-date-suffix {
+				font-size: 0.9rem;
+				font-weight: 500;
+				color: #71717a;
+				margin-left: 0.5rem;
+				display: inline-block;
+				font-family: 'Outfit', sans-serif;
+			}
+			.post-end-date {
+				margin-top: 3rem;
+				padding-top: 1.5rem;
+				border-top: 1px dashed #e4e4e7;
+				text-align: right;
+				font-size: 0.9rem;
+				color: #71717a;
+			}
+			.ad-label {
+				font-size: 0.65rem;
+				color: #a1a1aa;
+				letter-spacing: 0.1em;
+				text-transform: uppercase;
+				margin-bottom: 0.5rem;
+				font-weight: 700;
+				text-align: left;
+			}
+			.dummy-ad-box {
+				border-radius: 12px;
+				padding: 1.5rem 1.25rem;
+				color: white;
+				text-align: center;
+				display: flex;
+				flex-direction: column;
+				gap: 0.5rem;
+				box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+				border: 2px solid #18181b;
+			}
+			.dummy-ad-box .ad-title {
+				font-weight: 800;
+				font-size: 1.05rem;
+				display: block;
+			}
+			.dummy-ad-box .ad-desc {
+				font-size: 0.8rem;
+				line-height: 1.4;
+				color: rgba(255, 255, 255, 0.95);
+				margin: 0 0 0.5rem 0;
+			}
+			.premium-ad-gradient-1 {
+				background: linear-gradient(135deg, #6d28d9, #8b5cf6);
+			}
+			.premium-ad-gradient-2 {
+				background: linear-gradient(135deg, #18181b, #3f3f46);
+			}
+			.premium-ad-gradient-3 {
+				background: linear-gradient(135deg, #6d28d9, #18181b);
+			}
+			.sidebar-archive-list {
+				list-style-type: none;
+				padding: 0 !important;
+				margin: 0 0 1.25rem 0 !important;
+				display: flex;
+				flex-direction: column;
+				gap: 0.75rem;
+			}
+			.sidebar-archive-list li {
+				font-size: 0.75rem !important;
+				line-height: 1.3;
+				padding-left: 0.65rem;
+				position: relative;
+			}
+			.sidebar-archive-list li::before {
+				content: "•";
+				color: var(--accent);
+				position: absolute;
+				left: 0;
+				top: 0;
+			}
+			.sidebar-archive-list a {
+				display: block;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: clip;
+				color: #18181b !important;
+				font-weight: 400 !important;
+				font-size: 0.75rem !important;
+				letter-spacing: -0.04em !important;
+			}
+			.sidebar-archive-list a:hover {
+				color: var(--accent) !important;
+				text-decoration: underline !important;
+			}
+			.sidebar-archive-link-container {
+				text-align: right;
+				margin-top: 0.5rem;
+			}
+			.sidebar-more-link {
+				font-size: 0.8rem;
+				font-weight: 700;
+				color: var(--accent);
+				text-decoration: none;
+			}
+			.sidebar-more-link:hover {
+				color: var(--accent-dark);
+				text-decoration: underline;
+			}
+
+			/* 関連記事カードスタイル */
+			.related-articles-section {
+				margin-top: 3rem;
+				padding-top: 2rem;
+				border-top: 2px dashed #e2e8f0;
+			}
+			.related-section-title {
+				font-size: 1.25rem;
+				font-weight: 800;
+				color: #0f172a;
+				margin-bottom: 1.5rem;
+				position: relative;
+				padding-left: 0.85rem;
+				letter-spacing: -0.01em;
+			}
+			.related-section-title::before {
+				content: "";
+				position: absolute;
+				left: 0;
+				top: 0.2rem;
+				bottom: 0.2rem;
+				width: 4px;
+				background: var(--accent);
+				border-radius: 2px;
+			}
+			.related-articles-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+				gap: 1.25rem;
+			}
+			.related-article-card {
+				display: flex;
+				flex-direction: column;
+				background: #ffffff;
+				border: 1px solid #e2e8f0;
+				border-radius: 12px;
+				overflow: hidden;
+				text-decoration: none !important;
+				transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+				box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+			}
+			.related-article-card:hover {
+				transform: translateY(-3px);
+				box-shadow: 0 8px 20px -4px rgba(15, 23, 42, 0.08);
+				border-color: #cbd5e1;
+			}
+			.related-article-image-box {
+				width: 100%;
+				height: 125px;
+				overflow: hidden;
+				background: #f8fafc;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+			.related-article-image-box img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				border: none;
+				border-radius: 0 !important;
+				box-shadow: none !important;
+				transition: transform 0.3s ease;
+			}
+			.related-article-card:hover .related-article-image-box img {
+				transform: scale(1.05);
+			}
+			.related-article-placeholder {
+				font-size: 0.8rem;
+				font-weight: 700;
+				color: #94a3b8;
+				letter-spacing: 0.05em;
+			}
+			.related-article-content {
+				padding: 0.85rem 1rem;
+				display: flex;
+				flex-direction: column;
+				gap: 0.35rem;
+			}
+			.related-article-date {
+				font-size: 0.75rem;
+				color: #64748b;
+			}
+			.related-article-title {
+				font-size: 0.88rem;
+				font-weight: 700;
+				color: #1e293b;
+				line-height: 1.4;
+				margin: 0;
+				display: -webkit-box;
+				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+				overflow: hidden;
+			}
+
+			/* FAQ アコーディオン スタイル */
+			.faq-section {
+				margin-top: 3rem;
+				padding-top: 2rem;
+				border-top: 2px dashed #e2e8f0;
+			}
+			.faq-section-title {
+				font-size: 1.25rem;
+				font-weight: 800;
+				color: #0f172a;
+				margin-bottom: 1.5rem;
+				position: relative;
+				padding-left: 0.85rem;
+				letter-spacing: -0.01em;
+			}
+			.faq-section-title::before {
+				content: "";
+				position: absolute;
+				left: 0;
+				top: 0.2rem;
+				bottom: 0.2rem;
+				width: 4px;
+				background: var(--accent);
+				border-radius: 2px;
+			}
+			.faq-list {
+				display: flex;
+				flex-direction: column;
+				gap: 0.85rem;
+			}
+			.faq-item {
+				background: #ffffff;
+				border: 1px solid #e2e8f0;
+				border-radius: 12px;
+				overflow: hidden;
+				transition: all 0.2s ease;
+			}
+			.faq-item[open] {
+				border-color: var(--accent);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+			}
+			.faq-question {
+				font-size: 0.95rem;
+				font-weight: 700;
+				color: #1e293b;
+				padding: 1rem 1.25rem;
+				cursor: pointer;
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				list-style: none;
+				user-select: none;
+			}
+			.faq-question::-webkit-details-marker {
+				display: none;
+			}
+			.faq-question::after {
+				content: "+";
+				font-size: 1.2rem;
+				font-weight: 600;
+				color: var(--accent);
+			}
+			.faq-item[open] .faq-question::after {
+				content: "−";
+			}
+			.faq-answer {
+				padding: 0 1.25rem 1.25rem;
+				font-size: 0.9rem;
+				color: #475569;
+				line-height: 1.7;
+				border-top: 1px solid #f1f5f9;
+				margin-top: 0.25rem;
+				padding-top: 0.85rem;
+			}
+
+			/* パンくずリスト */
+			.breadcrumb-nav {
+				margin-bottom: 1.25rem;
+			}
+			.breadcrumb-list {
+				display: flex;
+				align-items: center;
+				flex-wrap: wrap;
+				gap: 0.4rem;
+				list-style: none;
+				padding: 0;
+				margin: 0;
+				font-size: 0.82rem;
+				color: #64748b;
+			}
+			.breadcrumb-item {
+				display: inline-flex;
+				align-items: center;
+			}
+			.breadcrumb-link {
+				color: #64748b;
+				text-decoration: none;
+				transition: color 0.15s ease;
+			}
+			.breadcrumb-link:hover {
+				color: var(--accent);
+				text-decoration: underline;
+			}
+			.breadcrumb-separator {
+				color: #cbd5e1;
+				font-size: 0.85rem;
+				user-select: none;
+			}
+			.breadcrumb-genre {
+				color: var(--accent);
+				font-weight: 500;
+			}
+			.breadcrumb-current {
+				color: #1e293b;
+				font-weight: 600;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				max-width: 320px;
+			}
+			@media (max-width: 600px) {
+				.breadcrumb-current {
+					max-width: 180px;
+				}
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main>
+			<article class="blog-layout-container">
+				<div class="main-content">
+					<div class="prose">
+						<!-- パンくずリスト -->
+						<nav class="breadcrumb-nav" aria-label="パンくずリスト">
+							<ol class="breadcrumb-list">
+								<li class="breadcrumb-item">
+									<a href="/" class="breadcrumb-link">ホーム</a>
+								</li>
+								<li class="breadcrumb-separator">›</li>
+								{currentGenre && (
+									<>
+										<li class="breadcrumb-item">
+											<span class="breadcrumb-genre">{currentGenre}</span>
+										</li>
+										<li class="breadcrumb-separator">›</li>
+									</>
+								)}
+								<li class="breadcrumb-item breadcrumb-current" aria-current="page">
+									{title}
+								</li>
+							</ol>
+						</nav>
+
+						<div class="title">
+							{pubDate && (
+								<div class="date">
+									<FormattedDate date={pubDate} />
+									{
+										updatedDate && (
+											<div class="last-updated-on">
+												最終更新日: <FormattedDate date={updatedDate} />
+											</div>
+										)
+									}
+								</div>
+							)}
+							<h1>{title}{pubDate && <span class="title-date-suffix">（<FormattedDate date={pubDate} />）</span>}</h1>
+						</div>
+						<slot />
+						{pubDate && (
+							<div class="post-end-date">
+								<p>投稿日：<FormattedDate date={pubDate} />{updatedDate && <span>（最終更新日：<FormattedDate date={updatedDate} />）</span>}</p>
+							</div>
+						)}
+
+						<!-- FAQ（よくある質問）セクション -->
+						{faq && faq.length > 0 && (
+							<section class="faq-section">
+								<h3 class="faq-section-title">よくある質問（FAQ）</h3>
+								<div class="faq-list">
+									{faq.map((item) => (
+										<details class="faq-item">
+											<summary class="faq-question">{item.question}</summary>
+											<div class="faq-answer">{item.answer}</div>
+										</details>
+									))}
+								</div>
+							</section>
+						)}
+
+						<!-- 関連記事カードセクション -->
+						{relatedPosts && relatedPosts.length > 0 && (
+							<section class="related-articles-section">
+								<h3 class="related-section-title">あわせて読みたいおすすめ記事</h3>
+								<div class="related-articles-grid">
+									{relatedPosts.map((post) => (
+										<a href={`/blog/${post.id}/`} class="related-article-card">
+											<div class="related-article-image-box">
+												{post.data.heroImage ? (
+													<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+												) : (
+													<div class="related-article-placeholder">RECOMMEND</div>
+												)}
+											</div>
+											<div class="related-article-content">
+												<span class="related-article-date">
+													<FormattedDate date={post.data.pubDate} />
+												</span>
+												<h4 class="related-article-title">{post.data.title}</h4>
+											</div>
+										</a>
+									))}
+								</div>
+							</section>
+						)}
+
+						<!-- モバイル用関連商品表示セクション -->
+						<div class="mobile-related-products">
+							<h3 class="mobile-section-title">この記事のおすすめ関連商品</h3>
+							<div class="mobile-products-grid">
+								{products && products.map((prod) => {
+									const isDMM = prod.url.includes('dmm.co.jp') || prod.url.includes('dmm.com');
+									const isHobby = prod.url.includes('/mono/hobby/') || prod.url.includes('/hobby/') || (prod.imageUrl && prod.imageUrl.includes('/mono/hobby/')) || (prod.title && (prod.title.includes('フィギュア') || prod.title.includes('ねんどろいど') || prod.title.includes('BEATLESS') || prod.title.includes('プラモデル') || prod.title.includes('POP UP PARADE') || prod.title.includes('スケール') || prod.title.includes('造形')));
+									const platformName = isDMM ? (isHobby ? 'DMM.com (ホビー)' : '電子書籍 (DMM)') : '楽天市場';
+									const platformClass = isDMM ? 'mobile-platform-dmm' : 'mobile-platform-rakuten';
+									
+									return (
+										<div class="mobile-product-card">
+											<div class="ad-label">SPONSORED</div>
+											{prod.imageUrl && (
+												<a href={prod.url} target="_blank" rel="nofollow noopener noreferrer" class="mobile-product-image-link">
+													<img src={prod.imageUrl} alt={prod.title} class="mobile-product-image" />
+												</a>
+											)}
+											<div class="mobile-product-info">
+												<span class={`mobile-platform-badge ${platformClass}`}>
+													{platformName}
+												</span>
+												<a href={prod.url} target="_blank" rel="nofollow noopener noreferrer" class="mobile-product-title-link">
+													{prod.title}
+												</a>
+												{prod.price && (
+													<div class="mobile-product-price">
+														{prod.price.toLocaleString()}円
+													</div>
+												)}
+												<a class="mobile-banner-button" href={prod.url} target="_blank" rel="nofollow noopener noreferrer">
+													{prod.microCopy || '詳細を見る'}
+												</a>
+											</div>
+										</div>
+									);
+								})}
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<aside class="sidebar">
+					<div class="sidebar-sticky">
+						<div class="sidebar-sticky-inner">
+						<!-- 広告1: 特選おすすめ商品/バナー -->
+						<div class="sidebar-widget ad-widget">
+							<div class="ad-label">SPONSORED</div>
+							{products && products.length > 0 && (
+								<div class="sidebar-product-card">
+									{products[0].imageUrl && (
+										<a href={products[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+											<img src={products[0].imageUrl} alt={products[0].title} class="sidebar-product-image" />
+										</a>
+									)}
+									<a href={products[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+										{products[0].title}
+									</a>
+									{products[0].price && (
+										<div class="sidebar-product-price">
+											{products[0].price.toLocaleString()}円
+										</div>
+									)}
+									<a class="banner-button" href={products[0].url} target="_blank" rel="nofollow noopener noreferrer">
+										{products[0].microCopy || '詳細を見る'}
+									</a>
+								</div>
+							)}
+						</div>
+
+						<!-- 過去記事10件 -->
+						<div class="sidebar-widget archive-widget">
+							<h4>Recent Posts</h4>
+							<ul class="sidebar-archive-list">
+								{sidebarPosts.map(post => {
+									const shortTitle = post.data.title.length > 25
+										? post.data.title.slice(0, 25) + '...'
+										: post.data.title;
+									return (
+										<li>
+											<a href={`/blog/${post.id}/`} title={post.data.title}>{shortTitle}</a>
+										</li>
+									);
+								})}
+							</ul>
+							<div class="sidebar-archive-link-container">
+								<a href="/archive" class="sidebar-more-link">Browse Archive ➔</a>
+							</div>
+						</div>
+
+						<!-- 広告2: 汎用アフィリエイトプレースホルダー -->
+						<div class="sidebar-widget ad-widget">
+							<div class="ad-label">SPONSORED</div>
+							{products && products.length > 1 && (
+								<div class="sidebar-product-card">
+									{products[1].imageUrl && (
+										<a href={products[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+											<img src={products[1].imageUrl} alt={products[1].title} class="sidebar-product-image" />
+										</a>
+									)}
+									<a href={products[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+										{products[1].title}
+									</a>
+									<a class="banner-button" href={products[1].url} target="_blank" rel="nofollow noopener noreferrer">
+										{products[1].microCopy || 'Learn More'}
+									</a>
+								</div>
+							)}
+						</div>
+
+						<!-- 広告3: 最下部追従広告 -->
+						<div class="sidebar-widget ad-widget">
+							<div class="ad-label">SPONSORED</div>
+							{products && products.length > 2 && (
+								<div class="sidebar-product-card">
+									{products[2].imageUrl && (
+										<a href={products[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+											<img src={products[2].imageUrl} alt={products[2].title} class="sidebar-product-image" />
+										</a>
+									)}
+									<a href={products[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+										{products[2].title}
+									</a>
+									<a class="banner-button" href={products[2].url} target="_blank" rel="nofollow noopener noreferrer">
+										{products[2].microCopy || 'Learn More'}
+									</a>
+								</div>
+							)}
+						</div>
+						</div>
+					</div>
+				</aside>
+			</article>
+		</main>
+		<Footer />
+		<script is:inline>
+			// DOM構築完了後に確実に実行
+			document.addEventListener('DOMContentLoaded', () => {
+				const sticky = document.querySelector('.sidebar-sticky');
+				const container = document.querySelector('.blog-layout-container');
+				const sidebar = document.querySelector('.sidebar');
+				
+				if (sticky && container && sidebar) {
+					const inner = sticky.querySelector('.sidebar-sticky-inner');
+					const topSpacing = 104; // 6.5rem = 104px
+					const bottomSpacing = 32; // 2rem = 32px
+					
+					let lastScrollY = window.scrollY;
+
+					const updateSidebar = () => {
+						const viewportHeight = window.innerHeight;
+						const stickyHeight = inner ? inner.getBoundingClientRect().height : sticky.getBoundingClientRect().height;
+						const sidebarRect = sidebar.getBoundingClientRect();
+						const scrollY = window.scrollY;
+						const maxTop = Math.max(0, sidebarRect.height - stickyHeight);
+						
+						// スクリプト上のバグを防ぐため、1px以上のスクロール変化があった場合のみ方向判定する
+						let scrollDirection = 'down';
+						if (scrollY < lastScrollY) {
+							scrollDirection = 'up';
+						}
+						
+						// サイドバーが画面より短い場合は単純に上端固定
+						if (stickyHeight + topSpacing + bottomSpacing < viewportHeight) {
+							sticky.style.position = 'sticky';
+							sticky.style.top = `${topSpacing}px`;
+							sticky.style.bottom = 'auto';
+							lastScrollY = scrollY;
+							return;
+						}
+
+						// ページ最下部または親要素最下部への到達判定（チラつき・バウンシング防止）
+						const stickyRect = sticky.getBoundingClientRect();
+						let currentTopInParent = stickyRect.top - sidebarRect.top;
+						const isAtPageBottom = (window.innerHeight + window.scrollY) >= (document.documentElement.scrollHeight - 10);
+						const isAtSidebarBottom = currentTopInParent >= (maxTop - 5);
+
+						if (isAtPageBottom || (scrollDirection === 'down' && isAtSidebarBottom)) {
+							// 最下部に到達した場合は absolute で親の底に完全固定し、position: sticky との反転ループを防ぐ
+							sticky.style.position = 'absolute';
+							sticky.style.top = `${maxTop}px`;
+							sticky.style.bottom = 'auto';
+							lastScrollY = scrollY;
+							return;
+						}
+
+						// サイドバーが画面より長い場合のスマート追従
+						if (scrollDirection === 'down') {
+							// 下スクロール時：下端が画面下端に達したら固定
+							if (stickyRect.bottom <= viewportHeight - bottomSpacing) {
+								sticky.style.position = 'sticky';
+								sticky.style.top = `${viewportHeight - stickyHeight - bottomSpacing}px`;
+								sticky.style.bottom = 'auto';
+							} else {
+								// 達していない間は absolute でその場に配置
+								sticky.style.position = 'absolute';
+								sticky.style.top = `${currentTopInParent}px`;
+								sticky.style.bottom = 'auto';
+							}
+						} else {
+							// 上スクロール時：上端が画面上端に達したら固定
+							if (stickyRect.top >= topSpacing) {
+								sticky.style.position = 'sticky';
+								sticky.style.top = `${topSpacing}px`;
+								sticky.style.bottom = 'auto';
+							} else {
+								// 達していない間は absolute でその場に配置
+								sticky.style.position = 'absolute';
+								sticky.style.top = `${currentTopInParent}px`;
+								sticky.style.bottom = 'auto';
+							}
+						}
+
+						// 親要素の範囲を超えないように制限 (absolute時)
+						if (sticky.style.position === 'absolute') {
+							const currentTopVal = parseFloat(sticky.style.top);
+							if (currentTopVal < 0) {
+								sticky.style.top = '0px';
+							} else if (currentTopVal > maxTop) {
+								sticky.style.top = `${maxTop}px`;
+							}
+						}
+
+						lastScrollY = scrollY;
+					};
+
+					// スクリプト初期化時に transition は無効化
+					sticky.style.transition = 'none';
+					
+					// スクロールイベントを監視
+					window.addEventListener('scroll', updateSidebar, { passive: true });
+					window.addEventListener('resize', updateSidebar);
+					window.addEventListener('load', updateSidebar);
+
+					// 画像読み込み完了時に再計算
+					sticky.querySelectorAll('img').forEach(img => {
+						if (img.complete) {
+							updateSidebar();
+						} else {
+							img.addEventListener('load', updateSidebar);
+						}
+					});
+
+					// 段階的タイマー実行（レイアウト確定遅延対策）
+					setTimeout(updateSidebar, 50);
+					setTimeout(updateSidebar, 200);
+					setTimeout(updateSidebar, 600);
+					setTimeout(updateSidebar, 1500);
+				}
+			});
+		</script>
+	</body>
+</html>
+

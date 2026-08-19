@@ -1,0 +1,36 @@
+---
+import { SITE_TITLE } from '../consts';
+const today = new Date();
+---
+
+<footer>
+	<div class="footer-links">
+		<a href="/privacy">Privacy Policy</a>
+		<a href="/disclaimer">Disclaimer & About</a>
+		<a href="/contact">Contact</a>
+	</div>
+	&copy; {today.getFullYear()} {SITE_TITLE}. All rights reserved.
+</footer>
+<style>
+	footer {
+		padding: 2em 1em 6em 1em;
+		background: linear-gradient(var(--gray-gradient)) no-repeat;
+		color: rgb(var(--gray));
+		text-align: center;
+	}
+	.footer-links {
+		display: flex;
+		justify-content: center;
+		gap: 1.5em;
+		margin-bottom: 1.5em;
+	}
+	.footer-links a {
+		text-decoration: none;
+		color: rgb(var(--gray));
+		font-size: 0.9em;
+	}
+	.footer-links a:hover {
+		color: rgb(var(--gray-dark));
+		text-decoration: underline;
+	}
+</style>

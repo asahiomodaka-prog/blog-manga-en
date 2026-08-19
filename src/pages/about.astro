@@ -1,0 +1,153 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<Layout
+	title="About Midnight Manga Vault"
+	description="Discover the story behind Midnight Manga Vault: a lifelong passion for Japanese manga classics, anime masterpieces, and authentic collectible reviews."
+	pubDate={new Date('August 19 2026')}
+>
+	<div class="profile-container">
+		<section class="profile-hero">
+			<div class="profile-image-box">
+				<img src="/images/profile-manga.jpg" alt="Japanese Manga and Anime Bookshelf Collection" class="hero-img" />
+				<span class="img-caption">A glimpse into our curated collection of cherished Japanese manga, light novels, and anime media.</span>
+			</div>
+		</section>
+
+		<section class="profile-content">
+			<h2>Welcome to Midnight Manga Vault</h2>
+			<p>
+				Thank you for visiting <strong>Midnight Manga Vault</strong>.<br />
+				This archive is dedicated to celebrating the timeless masterpieces of Japanese manga, retro anime, suspenseful thrillers, and iconic collectible figures. Whether you are looking for hidden 90s gems or the next profound story to immerse yourself in late at night, we provide genuine, in-depth reviews and recommendations from a passionate collector's perspective.
+			</p>
+
+			<h3>Our Origin: Growing Up with Japanese Manga</h3>
+			<p>
+				Ever since early childhood, manga has been an essential part of my life. Reading classic titles like <em>Doraemon</em> and legendary shonen stories hundreds of times sparked not only a lifelong passion for storytelling, but also a deep appreciation for the artistry, panelling, and emotional resonance of Japanese visual literature.
+			</p>
+			<p>
+				Over the decades, reading hundreds of series across various genres—from pulse-pounding action and dark psychological suspense to intricate sci-fi—has taught us that the most impactful stories are those that stand the test of time. Our mission is to preserve and share that wonder with readers worldwide.
+			</p>
+
+			<h3>Editorial Standards & Philosophy</h3>
+			<ul>
+				<li><strong>Authentic First-Hand Insights</strong>: We write comprehensive reviews based on complete series read-throughs and hands-on collectible experiences.</li>
+				<li><strong>Deep Narrative Analysis</strong>: Beyond simple plot summaries, we explore overarching themes, psychological character growth, foreshadowing, and visual artistic nuance.</li>
+				<li><strong>Multi-Media Coverage</strong>: From physical comic volumes and official digital releases to anime adaptations, soundtrack CDs, and collector figures, we cover the full spectrum of Japanese pop culture.</li>
+			</ul>
+
+			<h3>Explore the Vault</h3>
+			<p>
+				Dive into our growing collection of reviews, analyses, and guides. We hope you find your next unforgettable read or display piece right here.
+			</p>
+
+			<div class="cta-box">
+				<a href="/archive" class="btn-archive">Explore All Reviews</a>
+				<a href="/contact" class="btn-contact">Get in Touch</a>
+			</div>
+		</section>
+	</div>
+</Layout>
+
+<style>
+	.profile-container {
+		max-width: 780px;
+		margin: 0 auto;
+		line-height: 1.8;
+		color: #334155;
+	}
+	.profile-hero {
+		margin-bottom: 2.5rem;
+		text-align: center;
+	}
+	.profile-image-box {
+		display: inline-block;
+		width: 100%;
+		border-radius: 16px;
+		overflow: hidden;
+		box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+		background-color: #f8fafc;
+		border: 1px solid #e2e8f0;
+	}
+	.hero-img {
+		width: 100%;
+		height: auto;
+		max-height: 480px;
+		object-fit: cover;
+		display: block;
+	}
+	.img-caption {
+		display: block;
+		padding: 0.6rem 1rem;
+		font-size: 0.85rem;
+		color: #64748b;
+		background: #f1f5f9;
+		border-top: 1px solid #e2e8f0;
+	}
+	.profile-content h2 {
+		font-size: 1.6rem;
+		color: #1e293b;
+		border-bottom: 2px solid #8b5cf6;
+		padding-bottom: 0.5rem;
+		margin-top: 2rem;
+		margin-bottom: 1.2rem;
+	}
+	.profile-content h3 {
+		font-size: 1.25rem;
+		color: #334155;
+		margin-top: 1.8rem;
+		margin-bottom: 0.8rem;
+	}
+	.profile-content p {
+		margin-bottom: 1.2rem;
+	}
+	.profile-content ul {
+		background-color: #f8fafc;
+		border: 1px solid #e2e8f0;
+		border-radius: 12px;
+		padding: 1.5rem 1.5rem 1.5rem 2.5rem;
+		margin-bottom: 1.5rem;
+	}
+	.profile-content li {
+		margin-bottom: 0.8rem;
+	}
+	.profile-content li:last-child {
+		margin-bottom: 0;
+	}
+	.cta-box {
+		display: flex;
+		gap: 1rem;
+		justify-content: center;
+		margin-top: 2.5rem;
+		flex-wrap: wrap;
+	}
+	.btn-archive, .btn-contact {
+		display: inline-block;
+		padding: 0.75rem 1.75rem;
+		border-radius: 9999px;
+		font-weight: 600;
+		font-size: 0.95rem;
+		text-decoration: none;
+		transition: all 0.2s ease;
+	}
+	.btn-archive {
+		background-color: #8b5cf6;
+		color: #ffffff !important;
+		box-shadow: 0 4px 6px -1px rgba(139, 92, 246, 0.3);
+	}
+	.btn-archive:hover {
+		background-color: #7c3aed;
+		transform: translateY(-2px);
+	}
+	.btn-contact {
+		background-color: #f1f5f9;
+		color: #475569 !important;
+		border: 1px solid #cbd5e1;
+	}
+	.btn-contact:hover {
+		background-color: #e2e8f0;
+		color: #1e293b !important;
+		transform: translateY(-2px);
+	}
+</style>
