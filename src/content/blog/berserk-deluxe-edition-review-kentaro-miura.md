@@ -19,32 +19,35 @@ faq:
 In the vast, sprawling cosmos of manga, few titles shine with the incandescent, terrifying brilliance of Kentaro Miura's *Berserk*. It is more than just a story; it is a primal scream etched onto paper, a testament to human endurance, and a brutal, beautiful meditation on destiny, free will, and the very nature of evil. For international manga enthusiasts, collectors, and even casual fans looking for a gateway into a truly legendary dark fantasy epic, the *Berserk Deluxe Edition* isn't just a recommendation—it's an essential pilgrimage. As an anime critic and manga historian, I can confidently say that this oversized, exquisitely bound collection is the ultimate way to immerse yourself in Miura's magnum opus, a monument to a creator whose vision was as boundless as it was devastating.
 
 
+
+
+
+
+
+
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Berserk Deluxe Edition (Kentaro Miura)" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Unleashing the Beast: Why Berserk Deluxe Edition" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                Berserk Deluxe Edition (Kentaro Miura)
+                Unleashing the Beast: Why Berserk Deluxe Edition
             </h4>
             <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>Dive deep into the brutal beauty of Berserk with our comprehensive review of the Deluxe Edition. Discover why Kentaro Mi</p>
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBerserk%2520Deluxe%2520Edition%2520%2528Kentaro%2520Miura%2529" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
+                <a href="https://www.amazon.com/s?k=Unleashing%20the%20Beast%3A%20Why%20Berserk%20Deluxe%20Edition" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon (US / Global)
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBerserk%2520Deluxe%2520Edition%2520%2528Kentaro%2520Miura%2529" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DUnleashing%2520the%2520Beast%253A%2520Why%2520Berserk%2520Deluxe%2520Edition" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
+                    🇯🇵 Amazon Japan (Import)
                 </a>
                 
             </div>
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+        ※Prices and availability are subject to change on merchant sites.
     </div>
 </div>
 
@@ -120,32 +123,35 @@ Each *Berserk Deluxe Edition* volume collects three standard manga volumes into 
 To embark on this unforgettable journey, begin with **Berserk Deluxe Edition Volume 1**. It collects the first three standard volumes and sets the stage for Guts' epic quest. These magnificent volumes are widely available through major retailers. You can find them on [Amazon](https://www.amazon.com/Berserk-Deluxe-Edition-Vol-1/dp/1506711987), [Rakuten](https://books.rakuten.co.jp/search/rb/books/%E3%83%99%E3%83%AB%E3%82%B9%E3%83%AB%E3%82%AF%E3%80%80Deluxe%20Edition/?l-id=search-c-box), or directly from the publisher, [Dark Horse Comics](https://www.darkhorse.com/Books/3001-095/Berserk-Deluxe-Volume-1-HC). Investing in these editions is not just buying a manga; it's investing in a piece of literary and artistic history.
 
 
+
+
+
+
+
+
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Berserk Deluxe Edition (Kentaro Miura)" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Unleashing the Beast: Why Berserk Deluxe Edition" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                Berserk Deluxe Edition (Kentaro Miura)
+                Unleashing the Beast: Why Berserk Deluxe Edition
             </h4>
             <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>Dive deep into the brutal beauty of Berserk with our comprehensive review of the Deluxe Edition. Discover why Kentaro Mi</p>
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBerserk%2520Deluxe%2520Edition%2520%2528Kentaro%2520Miura%2529" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
+                <a href="https://www.amazon.com/s?k=Unleashing%20the%20Beast%3A%20Why%20Berserk%20Deluxe%20Edition" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon (US / Global)
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBerserk%2520Deluxe%2520Edition%2520%2528Kentaro%2520Miura%2529" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DUnleashing%2520the%2520Beast%253A%2520Why%2520Berserk%2520Deluxe%2520Edition" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
+                    🇯🇵 Amazon Japan (Import)
                 </a>
                 
             </div>
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+        ※Prices and availability are subject to change on merchant sites.
     </div>
 </div>
 
