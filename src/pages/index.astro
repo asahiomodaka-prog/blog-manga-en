@@ -177,12 +177,16 @@ const mediaBadgeMap: Record<string, { label: string; icon: string; className: st
 				transform: translateY(-3px);
 				box-shadow: 0 10px 25px rgba(109, 40, 217, 0.12);
 			}
-			.featured-thumb-wrapper {
+			.featured-img-wrap {
 				position: relative;
 				overflow: hidden;
+				background: #f4f4f5;
 				min-height: 280px;
+				display: flex;
+				align-items: center;
+				justify-content: center;
 			}
-			.featured-thumb {
+			.featured-img {
 				width: 100%;
 				height: 100%;
 				object-fit: cover;
@@ -194,11 +198,12 @@ const mediaBadgeMap: Record<string, { label: string; icon: string; className: st
 				flex-direction: column;
 				justify-content: center;
 			}
-			.card-badges {
+			.badge-row {
 				display: flex;
 				gap: 0.5rem;
 				margin-bottom: 0.75rem;
 				flex-wrap: wrap;
+				align-items: center;
 			}
 			.badge-media {
 				font-size: 0.75rem;
@@ -274,15 +279,21 @@ const mediaBadgeMap: Record<string, { label: string; icon: string; className: st
 				box-shadow: 0 8px 22px rgba(109, 40, 217, 0.1);
 				border-color: rgba(109, 40, 217, 0.3);
 			}
-			.card-thumb-wrapper {
+			.card-img-wrap {
 				width: 100%;
-				height: 190px;
+				height: 200px;
 				overflow: hidden;
 				background: #f4f4f5;
+				display: flex;
+				align-items: center;
+				justify-content: center;
 			}
-			.card-thumb {
+			.card-img {
 				width: 100%;
 				height: 100%;
+				object-fit: cover;
+				display: block;
+			}
 				object-fit: cover;
 				display: block;
 			}
@@ -409,7 +420,7 @@ const mediaBadgeMap: Record<string, { label: string; icon: string; className: st
 					}
 				</div>
 				<div class="count-display" id="countDisplay">
-					全 {posts.length} 件のレビューを掲載中
+					Browsing {posts.length} Curated Reviews
 				</div>
 			</section>
 
@@ -417,7 +428,7 @@ const mediaBadgeMap: Record<string, { label: string; icon: string; className: st
 			{
 				featuredPost && (
 					<section class="featured-section" id="featuredSection">
-						<h2 class="section-heading">★ 最新の注目レビュー</h2>
+						<h2 class="section-heading">★ Featured Review</h2>
 						<a
 							href={`/blog/${featuredPost.id}/`}
 							class="featured-card article-item"

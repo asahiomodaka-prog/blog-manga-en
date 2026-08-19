@@ -821,10 +821,10 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 				<div class="main-content">
 					<div class="prose">
 						<!-- パンくずリスト -->
-						<nav class="breadcrumb-nav" aria-label="パンくずリスト">
+						<nav class="breadcrumb-nav" aria-label="Breadcrumb">
 							<ol class="breadcrumb-list">
 								<li class="breadcrumb-item">
-									<a href="/" class="breadcrumb-link">ホーム</a>
+									<a href="/" class="breadcrumb-link">Home</a>
 								</li>
 								<li class="breadcrumb-separator">›</li>
 								{currentGenre && (
@@ -848,25 +848,25 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 									{
 										updatedDate && (
 											<div class="last-updated-on">
-												最終更新日: <FormattedDate date={updatedDate} />
+												(Updated: <FormattedDate date={updatedDate} />)
 											</div>
 										)
 									}
 								</div>
 							)}
-							<h1>{title}{pubDate && <span class="title-date-suffix">（<FormattedDate date={pubDate} />）</span>}</h1>
+							<h1>{title}</h1>
 						</div>
 						<slot />
 						{pubDate && (
 							<div class="post-end-date">
-								<p>投稿日：<FormattedDate date={pubDate} />{updatedDate && <span>（最終更新日：<FormattedDate date={updatedDate} />）</span>}</p>
+								<p>Published: <FormattedDate date={pubDate} />{updatedDate && <span> (Updated: <FormattedDate date={updatedDate} />)</span>}</p>
 							</div>
 						)}
 
 						<!-- FAQ（よくある質問）セクション -->
 						{faq && faq.length > 0 && (
 							<section class="faq-section">
-								<h3 class="faq-section-title">よくある質問（FAQ）</h3>
+								<h3 class="faq-section-title">Frequently Asked Questions (FAQ)</h3>
 								<div class="faq-list">
 									{faq.map((item) => (
 										<details class="faq-item">
@@ -881,7 +881,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 						<!-- 関連記事カードセクション -->
 						{relatedPosts && relatedPosts.length > 0 && (
 							<section class="related-articles-section">
-								<h3 class="related-section-title">あわせて読みたいおすすめ記事</h3>
+								<h3 class="related-section-title">Related Reviews & Recommendations</h3>
 								<div class="related-articles-grid">
 									{relatedPosts.map((post) => (
 										<a href={`/blog/${post.id}/`} class="related-article-card">
@@ -906,12 +906,12 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 
 						<!-- モバイル用関連商品表示セクション -->
 						<div class="mobile-related-products">
-							<h3 class="mobile-section-title">この記事のおすすめ関連商品</h3>
+							<h3 class="mobile-section-title">Featured Merchandise</h3>
 							<div class="mobile-products-grid">
 								{products && products.map((prod) => {
 									const isDMM = prod.url.includes('dmm.co.jp') || prod.url.includes('dmm.com');
 									const isHobby = prod.url.includes('/mono/hobby/') || prod.url.includes('/hobby/') || (prod.imageUrl && prod.imageUrl.includes('/mono/hobby/')) || (prod.title && (prod.title.includes('フィギュア') || prod.title.includes('ねんどろいど') || prod.title.includes('BEATLESS') || prod.title.includes('プラモデル') || prod.title.includes('POP UP PARADE') || prod.title.includes('スケール') || prod.title.includes('造形')));
-									const platformName = isDMM ? (isHobby ? 'DMM.com (ホビー)' : '電子書籍 (DMM)') : '楽天市場';
+									const platformName = isDMM ? (isHobby ? 'DMM.com (Hobby)' : 'E-books (DMM)') : 'Rakuten';
 									const platformClass = isDMM ? 'mobile-platform-dmm' : 'mobile-platform-rakuten';
 									
 									return (
