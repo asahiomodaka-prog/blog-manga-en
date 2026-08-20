@@ -16,27 +16,16 @@ Seinen, literally meaning "youth" but targeting adult men (typically 18-40), isn
 If you're ready to move beyond the high-school heroics and explore stories that challenge, provoke, and leave a lasting impression, you've come to the right place. We've compiled our list of the best seinen manga of all time – titles that have not only defined the demographic but have also pushed the boundaries of what comics can achieve. These aren't just great manga; they're essential reading for anyone serious about the medium.
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Best Seinen Manga of All Time" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                Best Seinen Manga of All Time
-            </h4>
-            <p style='margin: 0 0 14px 0; font-size: 0.88rem; color: #475569; line-height: 1.6;'>Explore the ultimate list of seinen manga that define the genre. From dark fantasy to psychological thrillers, discover </p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=Best%20Seinen%20Manga%20of%20All%20Time" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBest%2520Seinen%2520Manga%2520of%2520All%2520Time" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Best Seinen Manga of All Time" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">Best Seinen Manga of All Time</h4>
+    <p class="widget-desc">Explore the ultimate list of seinen manga that define the genre. From dark fantasy to psychological thrillers, discover</p>
+    <a href="https://www.amazon.com/s?k=Best%20Seinen%20Manga%20of%20All%20Time" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※Prices and availability are subject to change on merchant sites.
     </div>
@@ -132,27 +121,16 @@ The titles we've discussed barely scratch the surface of the incredible variety 
 They offer a space for narratives that are often too complex, too dark, or too nuanced for younger demographics. Whether you're seeking profound philosophical questions, heart-pounding psychological thrills, or simply a story that feels genuinely *adult* in its themes and execution, seinen manga delivers in spades. These are the stories that stay with you, spark conversations, and often redefine your understanding of the medium.
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Best Seinen Manga of All Time" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                Best Seinen Manga of All Time
-            </h4>
-            <p style='margin: 0 0 14px 0; font-size: 0.88rem; color: #475569; line-height: 1.6;'>Explore the ultimate list of seinen manga that define the genre. From dark fantasy to psychological thrillers, discover </p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=Best%20Seinen%20Manga%20of%20All%20Time" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBest%2520Seinen%2520Manga%2520of%2520All%2520Time" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Best Seinen Manga of All Time" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">Best Seinen Manga of All Time</h4>
+    <p class="widget-desc">Explore the ultimate list of seinen manga that define the genre. From dark fantasy to psychological thrillers, discover</p>
+    <a href="https://www.amazon.com/s?k=Best%20Seinen%20Manga%20of%20All%20Time" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※Prices and availability are subject to change on merchant sites.
     </div>

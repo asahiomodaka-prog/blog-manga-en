@@ -14,27 +14,16 @@ Alright, manga fans, let's talk about *Demon Slayer: Kimetsu no Yaiba*. Unless y
 From its humble beginnings in Weekly Shonen Jump to becoming one of the best-selling manga series of all time, *Demon Slayer* has captivated millions with its gripping narrative, unforgettable characters, and stunning action. So, whether you're a seasoned manga veteran or just curious to see what all the hype is about, stick around. We're going to break down why the *Demon Slayer* manga series isn't just good, it's essential reading.
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Demon Slayer Manga Series" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                Demon Slayer Manga Series
-            </h4>
-            <p style='margin: 0 0 14px 0; font-size: 0.88rem; color: #475569; line-height: 1.6;'>Dive deep into the Demon Slayer manga. Discover why Koyoharu Gotouge's masterpiece is a shonen must-read, even if you've</p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=Demon%20Slayer%20Manga%20Series" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDemon%2520Slayer%2520Manga%2520Series" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Demon Slayer Manga Series" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">Demon Slayer Manga Series</h4>
+    <p class="widget-desc">Dive deep into the Demon Slayer manga. Discover why Koyoharu Gotouge's masterpiece is a shonen must-read, even if you've</p>
+    <a href="https://www.amazon.com/s?k=Demon%20Slayer%20Manga%20Series" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※Prices and availability are subject to change on merchant sites.
     </div>
@@ -140,27 +129,16 @@ For those looking to get the full series in one go, VIZ Media has released *Demo
 [Beyond](/blog/space-brothers-uchuu-kyoudai-manga-anime-review-guide/) the main series, there are also various spin-off manga (like *Kimetsu Academy*) and fanbooks that delve deeper into the characters and world. For art enthusiasts, an official art book showcases Gotouge's stunning illustrations in high detail. These supplementary materials are perfect for deepening your enjoyment of the *Demon Slayer* universe.
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Demon Slayer Manga Series" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                Demon Slayer Manga Series
-            </h4>
-            <p style='margin: 0 0 14px 0; font-size: 0.88rem; color: #475569; line-height: 1.6;'>Dive deep into the Demon Slayer manga. Discover why Koyoharu Gotouge's masterpiece is a shonen must-read, even if you've</p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=Demon%20Slayer%20Manga%20Series" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDemon%2520Slayer%2520Manga%2520Series" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Demon Slayer Manga Series" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">Demon Slayer Manga Series</h4>
+    <p class="widget-desc">Dive deep into the Demon Slayer manga. Discover why Koyoharu Gotouge's masterpiece is a shonen must-read, even if you've</p>
+    <a href="https://www.amazon.com/s?k=Demon%20Slayer%20Manga%20Series" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※Prices and availability are subject to change on merchant sites.
     </div>

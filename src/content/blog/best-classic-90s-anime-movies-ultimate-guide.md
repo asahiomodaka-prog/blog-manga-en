@@ -14,27 +14,16 @@ There's just something magical about the 90s, isn't there? It was a decade of in
 From groundbreaking cyberpunk thrillers that made us question reality to heartwarming slice-of-life tales that captured the essence of youth, the best classic 90s anime movies offered an unparalleled diversity of genres and themes. These films weren't just entertainment; they were cultural touchstones that influenced filmmakers worldwide and solidified anime's place on the global stage. If you're looking to dive deep into the roots of modern anime or simply want to relive some truly iconic moments, you've come to the right place. This ultimate guide will walk you through some of the absolute must-watch films from this incredible era.
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Best Classic 90s Anime Movies" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                Best Classic 90s Anime Movies
-            </h4>
-            <p style='margin: 0 0 14px 0; font-size: 0.88rem; color: #475569; line-height: 1.6;'>Dive into the best classic 90s anime movies! Our ultimate guide uncovers the iconic films that defined a generation and </p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=Best%20Classic%2090s%20Anime%20Movies" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBest%2520Classic%252090s%2520Anime%2520Movies" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Best Classic 90s Anime Movies" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">Best Classic 90s Anime Movies</h4>
+    <p class="widget-desc">Dive into the best classic 90s anime movies! Our ultimate guide uncovers the iconic films that defined a generation and</p>
+    <a href="https://www.amazon.com/s?k=Best%20Classic%2090s%20Anime%20Movies" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※Prices and availability are subject to change on merchant sites.
     </div>
@@ -134,27 +123,16 @@ The impact of the best classic 90s anime movies cannot be overstated. These film
 Many of the themes explored in these 90s films—the relationship between humans and technology, the search for identity, environmental decay, the nature of war—remain incredibly relevant today. This timeless quality is what truly cements their status as classics. They continue to captivate new audiences and offer fresh perspectives with each rewatch, proving that great storytelling truly transcends time.
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Best Classic 90s Anime Movies" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                Best Classic 90s Anime Movies
-            </h4>
-            <p style='margin: 0 0 14px 0; font-size: 0.88rem; color: #475569; line-height: 1.6;'>Dive into the best classic 90s anime movies! Our ultimate guide uncovers the iconic films that defined a generation and </p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=Best%20Classic%2090s%20Anime%20Movies" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBest%2520Classic%252090s%2520Anime%2520Movies" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Best Classic 90s Anime Movies" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">Best Classic 90s Anime Movies</h4>
+    <p class="widget-desc">Dive into the best classic 90s anime movies! Our ultimate guide uncovers the iconic films that defined a generation and</p>
+    <a href="https://www.amazon.com/s?k=Best%20Classic%2090s%20Anime%20Movies" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※Prices and availability are subject to change on merchant sites.
     </div>

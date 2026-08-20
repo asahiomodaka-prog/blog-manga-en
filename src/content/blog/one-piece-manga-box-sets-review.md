@@ -14,27 +14,16 @@ Alright, fellow nakama and aspiring pirates, let's talk about *One Piece*. If yo
 But let's be real: with over 100 volumes and counting, jumping into *One Piece* can feel like staring down the Grand Line itself – vast, intimidating, but undeniably alluring. That's where the *One Piece Manga Box Sets* come in. These aren't just collections of books; they're curated treasure chests, designed to give you the ultimate reading experience, whether you're a new fan ready to embark on this incredible journey or a seasoned veteran looking to own a piece of manga history.
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="One Piece Manga Box Set" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                One Piece Manga Box Set
-            </h4>
-            <p style='margin: 0 0 14px 0; font-size: 0.88rem; color: #475569; line-height: 1.6;'>Dive into the grand adventure of One Piece with these essential manga box sets. A complete guide for new fans and season</p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=One%20Piece%20Manga%20Box%20Set" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DOne%2520Piece%2520Manga%2520Box%2520Set" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="One Piece Manga Box Set" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">One Piece Manga Box Set</h4>
+    <p class="widget-desc">Dive into the grand adventure of One Piece with these essential manga box sets. A complete guide for new fans and season</p>
+    <a href="https://www.amazon.com/s?k=One%20Piece%20Manga%20Box%20Set" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※Prices and availability are subject to change on merchant sites.
     </div>
@@ -149,27 +138,16 @@ From the moment you crack open that first box, you'll feel the excitement of emb
 Ready to set sail? You can typically find all the *One Piece Manga Box Sets* on [Amazon US](https://www.amazon.com/One-Piece-Box-Set-East/dp/1421560747) or through your regional Amazon store if you're elsewhere in the world. Keep an eye out for sales, as you can often snag these at even better prices during major shopping events. Local comic shops and major bookstores also often carry them, so it's worth checking there to support local businesses!
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="One Piece Manga Box Set" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                One Piece Manga Box Set
-            </h4>
-            <p style='margin: 0 0 14px 0; font-size: 0.88rem; color: #475569; line-height: 1.6;'>Dive into the grand adventure of One Piece with these essential manga box sets. A complete guide for new fans and season</p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=One%20Piece%20Manga%20Box%20Set" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DOne%2520Piece%2520Manga%2520Box%2520Set" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="One Piece Manga Box Set" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">One Piece Manga Box Set</h4>
+    <p class="widget-desc">Dive into the grand adventure of One Piece with these essential manga box sets. A complete guide for new fans and season</p>
+    <a href="https://www.amazon.com/s?k=One%20Piece%20Manga%20Box%20Set" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※Prices and availability are subject to change on merchant sites.
     </div>

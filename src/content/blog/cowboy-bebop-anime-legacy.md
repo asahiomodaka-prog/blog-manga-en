@@ -18,27 +18,16 @@ When Shinichiro Watanabe and Studio Sunrise released *Cowboy Bebop* in 1998, the
 
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Why Cowboy Bebop Remains the Ultimate Anime" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                Why Cowboy Bebop Remains the Ultimate Anime
-            </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover why its genre-blending jazz soundtrack, neo-noir ae</p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=Why%20Cowboy%20Bebop%20Remains%20the%20Ultimate%20Anime" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWhy%2520Cowboy%2520Bebop%2520Remains%2520the%2520Ultimate%2520Anime" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Why Cowboy Bebop Remains the Ultimate Anime" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">Why Cowboy Bebop Remains the Ultimate Anime</h4>
+    <p class="widget-desc">An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover why its genre-blending jazz soundtrack, neo-noir ae</p>
+    <a href="https://www.amazon.com/s?k=Why%20Cowboy%20Bebop%20Remains%20the%20Ultimate%20Anime" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         *Prices and availability are subject to change on merchant sites.
     </div>
@@ -73,27 +62,16 @@ A3: The complete original TV series spans 26 episodes, accompanied by a feature-
 
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Why Cowboy Bebop Remains the Ultimate Anime" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                Why Cowboy Bebop Remains the Ultimate Anime
-            </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover why its genre-blending jazz soundtrack, neo-noir ae</p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=Why%20Cowboy%20Bebop%20Remains%20the%20Ultimate%20Anime" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWhy%2520Cowboy%2520Bebop%2520Remains%2520the%2520Ultimate%2520Anime" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Why Cowboy Bebop Remains the Ultimate Anime" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">Why Cowboy Bebop Remains the Ultimate Anime</h4>
+    <p class="widget-desc">An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover why its genre-blending jazz soundtrack, neo-noir ae</p>
+    <a href="https://www.amazon.com/s?k=Why%20Cowboy%20Bebop%20Remains%20the%20Ultimate%20Anime" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         *Prices and availability are subject to change on merchant sites.
     </div>

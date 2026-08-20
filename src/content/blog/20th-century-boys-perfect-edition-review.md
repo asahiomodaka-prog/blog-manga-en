@@ -14,27 +14,16 @@ There are some manga that don't just tell a story; they *become* an experience. 
 For those unfamiliar, *20th Century Boys* isn't just a manga—it's a sprawling, decades-spanning epic that blends nostalgia, paranoia, and a global conspiracy into one of the most compelling thrillers ever put to paper. It's the kind of story that reminds you why manga is such a powerful storytelling medium, and why Urasawa is considered a master of the craft.
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="20th Century Boys Perfect Edition" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                20th Century Boys Perfect Edition
-            </h4>
-            <p style='margin: 0 0 14px 0; font-size: 0.88rem; color: #475569; line-height: 1.6;'>Unravel a global conspiracy rooted in childhood memories. Our review of Naoki Urasawa's *20th Century Boys* Perfect Edit</p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=20th%20Century%20Boys%20Perfect%20Edition" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D20th%2520Century%2520Boys%2520Perfect%2520Edition" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="20th Century Boys Perfect Edition" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">20th Century Boys Perfect Edition</h4>
+    <p class="widget-desc">Unravel a global conspiracy rooted in childhood memories. Our review of Naoki Urasawa's *20th Century Boys* Perfect Edit</p>
+    <a href="https://www.amazon.com/s?k=20th%20Century%20Boys%20Perfect%20Edition" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※Prices and availability are subject to change on merchant sites.
     </div>
@@ -125,27 +114,16 @@ If you're a fan of intricate mysteries, psychological thrillers, or just incredi
 It's perfect for readers who appreciate a story that demands attention, rewards careful reading, and isn't afraid to take its time to build a truly immersive world. The themes of nostalgia, friendship, and the fight against overwhelming odds are universally appealing, making it accessible even to those new to manga, provided they're ready for a substantial commitment.
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="20th Century Boys Perfect Edition" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                20th Century Boys Perfect Edition
-            </h4>
-            <p style='margin: 0 0 14px 0; font-size: 0.88rem; color: #475569; line-height: 1.6;'>Unravel a global conspiracy rooted in childhood memories. Our review of Naoki Urasawa's *20th Century Boys* Perfect Edit</p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=20th%20Century%20Boys%20Perfect%20Edition" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D20th%2520Century%2520Boys%2520Perfect%2520Edition" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="20th Century Boys Perfect Edition" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">20th Century Boys Perfect Edition</h4>
+    <p class="widget-desc">Unravel a global conspiracy rooted in childhood memories. Our review of Naoki Urasawa's *20th Century Boys* Perfect Edit</p>
+    <a href="https://www.amazon.com/s?k=20th%20Century%20Boys%20Perfect%20Edition" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※Prices and availability are subject to change on merchant sites.
     </div>

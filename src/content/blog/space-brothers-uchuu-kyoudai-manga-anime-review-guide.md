@@ -27,27 +27,16 @@ As an anime critic and manga historian for Midnight Manga Vault, I've seen count
 
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide-body-1.jpg" alt="space-brothers-uchuu-kyoudai-manga-anime-review-guide" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                Beyond the Stars: Why
-            </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>Dive into </p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=Beyond%20the%20Stars%3A%20Why" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBeyond%2520the%2520Stars%253A%2520Why" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide-body-1.jpg" alt="space-brothers-uchuu-kyoudai-manga-anime-review-guide" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">Beyond the Stars: Why</h4>
+    <p class="widget-desc">Dive into</p>
+    <a href="https://www.amazon.com/s?k=Beyond%20the%20Stars%3A%20Why" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         *Prices and availability are subject to change on merchant sites.
     </div>
@@ -119,27 +108,16 @@ Whether you choose to read the manga, watch the anime, or both, prepare for a st
 
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide-body-1.jpg" alt="space-brothers-uchuu-kyoudai-manga-anime-review-guide" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                Beyond the Stars: Why
-            </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>Dive into </p>
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://www.amazon.com/s?k=Beyond%20the%20Stars%3A%20Why" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon (US / Global)
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBeyond%2520the%2520Stars%253A%2520Why" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 140px; padding: 10px 12px; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(0,0,0,0.25); display: inline-block;">
-                    🇯🇵 Amazon Japan (Import)
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide-body-1.jpg" alt="space-brothers-uchuu-kyoudai-manga-anime-review-guide" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">Beyond the Stars: Why</h4>
+    <p class="widget-desc">Dive into</p>
+    <a href="https://www.amazon.com/s?k=Beyond%20the%20Stars%3A%20Why" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         *Prices and availability are subject to change on merchant sites.
     </div>
