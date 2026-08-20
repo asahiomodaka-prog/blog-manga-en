@@ -31,15 +31,15 @@ As an anime critic and manga historian for Midnight Manga Vault, I've seen count
 <div class="product-widget-card">
   <img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide-body-1.jpg" alt="space-brothers-uchuu-kyoudai-manga-anime-review-guide" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">Beyond the Stars: Why</h4>
-    <p class="widget-desc">Dive into</p>
-    <a href="https://www.amazon.com/s?k=Beyond%20the%20Stars%3A%20Why" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+<h4 class="widget-title">Beyond the Stars: Why</h4>
+<p class="widget-desc">Dive into</p>
+<a href="https://www.amazon.com/s?k=Beyond%20the%20Stars%3A%20Why" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        *Prices and availability are subject to change on merchant sites.
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+*Prices and availability are subject to change on merchant sites.
+</div>
 </div>
 
 
@@ -112,15 +112,15 @@ Whether you choose to read the manga, watch the anime, or both, prepare for a st
 <div class="product-widget-card">
   <img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide-body-1.jpg" alt="space-brothers-uchuu-kyoudai-manga-anime-review-guide" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">Beyond the Stars: Why</h4>
-    <p class="widget-desc">Dive into</p>
-    <a href="https://www.amazon.com/s?k=Beyond%20the%20Stars%3A%20Why" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+<h4 class="widget-title">Beyond the Stars: Why</h4>
+<p class="widget-desc">Dive into</p>
+<a href="https://www.amazon.com/s?k=Beyond%20the%20Stars%3A%20Why" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        *Prices and availability are subject to change on merchant sites.
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+*Prices and availability are subject to change on merchant sites.
+</div>
 </div>
 
 

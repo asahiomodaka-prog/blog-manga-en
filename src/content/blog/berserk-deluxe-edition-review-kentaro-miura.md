@@ -29,15 +29,15 @@ In the vast, sprawling cosmos of manga, few titles shine with the incandescent, 
 <div class="product-widget-card">
   <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Unleashing the Beast: Why Berserk Deluxe Edition" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">Unleashing the Beast: Why Berserk Deluxe Edition</h4>
-    <p class="widget-desc">Dive deep into the brutal beauty of Berserk with our comprehensive review of the Deluxe Edition. Discover why Kentaro Mi</p>
-    <a href="https://www.amazon.com/s?k=Unleashing%20the%20Beast%3A%20Why%20Berserk%20Deluxe%20Edition" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+<h4 class="widget-title">Unleashing the Beast: Why Berserk Deluxe Edition</h4>
+<p class="widget-desc">Dive deep into the brutal beauty of Berserk with our comprehensive review of the Deluxe Edition. Discover why Kentaro Mi</p>
+<a href="https://www.amazon.com/s?k=Unleashing%20the%20Beast%3A%20Why%20Berserk%20Deluxe%20Edition" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        *Prices and availability are subject to change on merchant sites.
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+*Prices and availability are subject to change on merchant sites.
+</div>
 </div>
 
 
@@ -122,15 +122,15 @@ To embark on this unforgettable journey, begin with **Berserk Deluxe Edition Vol
 <div class="product-widget-card">
   <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Unleashing the Beast: Why Berserk Deluxe Edition" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">Unleashing the Beast: Why Berserk Deluxe Edition</h4>
-    <p class="widget-desc">Dive deep into the brutal beauty of Berserk with our comprehensive review of the Deluxe Edition. Discover why Kentaro Mi</p>
-    <a href="https://www.amazon.com/s?k=Unleashing%20the%20Beast%3A%20Why%20Berserk%20Deluxe%20Edition" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+<h4 class="widget-title">Unleashing the Beast: Why Berserk Deluxe Edition</h4>
+<p class="widget-desc">Dive deep into the brutal beauty of Berserk with our comprehensive review of the Deluxe Edition. Discover why Kentaro Mi</p>
+<a href="https://www.amazon.com/s?k=Unleashing%20the%20Beast%3A%20Why%20Berserk%20Deluxe%20Edition" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        *Prices and availability are subject to change on merchant sites.
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+*Prices and availability are subject to change on merchant sites.
+</div>
 </div>
 
 

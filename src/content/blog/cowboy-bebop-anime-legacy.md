@@ -22,15 +22,15 @@ When Shinichiro Watanabe and Studio Sunrise released *Cowboy Bebop* in 1998, the
 <div class="product-widget-card">
   <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Why Cowboy Bebop Remains the Ultimate Anime" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">Why Cowboy Bebop Remains the Ultimate Anime</h4>
-    <p class="widget-desc">An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover why its genre-blending jazz soundtrack, neo-noir ae</p>
-    <a href="https://www.amazon.com/s?k=Why%20Cowboy%20Bebop%20Remains%20the%20Ultimate%20Anime" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+<h4 class="widget-title">Why Cowboy Bebop Remains the Ultimate Anime</h4>
+<p class="widget-desc">An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover why its genre-blending jazz soundtrack, neo-noir ae</p>
+<a href="https://www.amazon.com/s?k=Why%20Cowboy%20Bebop%20Remains%20the%20Ultimate%20Anime" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        *Prices and availability are subject to change on merchant sites.
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+*Prices and availability are subject to change on merchant sites.
+</div>
 </div>
 
 
@@ -66,15 +66,15 @@ A3: The complete original TV series spans 26 episodes, accompanied by a feature-
 <div class="product-widget-card">
   <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Why Cowboy Bebop Remains the Ultimate Anime" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">Why Cowboy Bebop Remains the Ultimate Anime</h4>
-    <p class="widget-desc">An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover why its genre-blending jazz soundtrack, neo-noir ae</p>
-    <a href="https://www.amazon.com/s?k=Why%20Cowboy%20Bebop%20Remains%20the%20Ultimate%20Anime" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
+<h4 class="widget-title">Why Cowboy Bebop Remains the Ultimate Anime</h4>
+<p class="widget-desc">An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover why its genre-blending jazz soundtrack, neo-noir ae</p>
+<a href="https://www.amazon.com/s?k=Why%20Cowboy%20Bebop%20Remains%20the%20Ultimate%20Anime" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon (US / Global) &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        *Prices and availability are subject to change on merchant sites.
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+*Prices and availability are subject to change on merchant sites.
+</div>
 </div>
 
 
