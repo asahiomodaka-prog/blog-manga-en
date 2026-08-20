@@ -9,6 +9,15 @@ mediaType: 'comic'
 
 # Blade of the Immortal Deluxe Edition: A Masterpiece Reborn in Stunning Hardcover
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: Blade of the Immortal Deluxe Edition: A Masterpiece Reborn in Stunning Hardcover の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 Alright, manga fans, let's talk about a true titan of the medium: *Blade of the Immortal*. If you've been around the block, you've probably heard the name, maybe even seen a few panels of Hiroaki Samura's utterly distinctive artwork. But if you haven't experienced the full, unadulterated saga of Manji and Rin, especially in its glorious new *Blade of the Immortal Deluxe Edition* format, you are missing out on one of the most brutal, beautiful, and profoundly philosophical action series ever created. Seriously, stop what you're doing and pay attention.
 
 Dark Horse Comics has been doing us all a massive favor with their line of oversized Deluxe Editions, bringing classic and essential manga back into print with premium treatment. And when they announced *Blade of the Immortal Deluxe Edition*, the manga community collectively cheered. This isn't just a reprint; it's a celebration of a series that defied expectations, pushed boundaries, and left an indelible mark on manga history.

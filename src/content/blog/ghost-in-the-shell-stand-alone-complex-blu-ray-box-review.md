@@ -9,6 +9,15 @@ mediaType: 'anime'
 
 # Ghost in the Shell: Stand Alone Complex Blu-ray Box — A Timeless Cyberpunk Essential
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: Ghost in the Shell: Stand Alone Complex Blu-ray Box — A Timeless Cyberpunk Essential の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 Alright, fellow anime fanatics, let's talk about a series that isn't just good, it's *essential*. We're diving deep into the world of *Ghost in the Shell: Stand Alone Complex* (GITS: SAC for short), specifically the Blu-ray Box release. If you've been on the fence about picking this up, or if you're a long-time fan wondering if the upgrade is worth it, stick around. This isn't just a review; it's a love letter to one of the most intelligent, visually stunning, and philosophically rich anime series ever created.
 
 

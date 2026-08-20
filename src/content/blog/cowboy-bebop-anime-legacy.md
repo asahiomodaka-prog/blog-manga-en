@@ -36,6 +36,15 @@ When Shinichiro Watanabe and Studio Sunrise released *Cowboy Bebop* in 1998, the
 
 ## The Symphony of Sound and Space: Yoko Kanno’s Score
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: Why Cowboy Bebop Remains the Ultimate Anime Masterpiece: A Timeless Jazz Voyage の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 It is impossible to discuss *Cowboy Bebop* without highlighting the legendary soundtrack composed by Yoko Kanno and performed by The Seatbelts. From the frantic big-band horns of the opening theme "Tank!" to the soulful blues of "Call Me Call Me," music is not merely an accompaniment—it is the driving pulse of the narrative.
 
 Each episode, appropriately termed a "Session," draws inspiration from a distinct musical genre: bebop, heavy metal, opera, and delta blues. This sonic identity elevates standard bounty-hunting escapades into deeply atmospheric cinematic journeys.

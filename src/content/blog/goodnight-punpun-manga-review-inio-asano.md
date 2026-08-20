@@ -9,6 +9,15 @@ mediaType: 'comic'
 
 # Goodnight Punpun: A Journey Through the Human Psyche
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: Goodnight Punpun: A Journey Through the Human Psyche の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 Alright, let's talk about a manga that isn't just a story, but an experience. A raw, unflinching, and often profoundly uncomfortable experience. We're diving into Inio Asano's *Goodnight Punpun* (Oyasumi Punpun), a series that has left an indelible mark on countless readers, myself included. If you're looking for something light and fluffy, turn back now. If you're ready for a deep, introspective, and sometimes agonizing look at growing up, mental health, and the crushing weight of existence, then pull up a chair.
 
 

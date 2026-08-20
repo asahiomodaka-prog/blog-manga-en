@@ -9,6 +9,15 @@ mediaType: 'comic'
 
 # Childhood Dreams and Global Nightmares: A Deep Dive into 20th Century Boys Perfect Edition
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: Childhood Dreams and Global Nightmares: A Deep Dive into 20th Century Boys Perfect Edition の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 There are some manga that don't just tell a story; they *become* an experience. They burrow into your mind, twist your expectations, and leave an indelible mark long after you've turned the final page. Naoki Urasawa's *20th Century Boys* is one of those manga. And if you've been waiting for the definitive way to experience this modern classic, the Perfect Edition is here to blow you away.
 
 For those unfamiliar, *20th Century Boys* isn't just a manga—it's a sprawling, decades-spanning epic that blends nostalgia, paranoia, and a global conspiracy into one of the most compelling thrillers ever put to paper. It's the kind of story that reminds you why manga is such a powerful storytelling medium, and why Urasawa is considered a master of the craft.

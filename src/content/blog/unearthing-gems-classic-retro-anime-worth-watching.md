@@ -9,6 +9,15 @@ mediaType: 'anime'
 
 # Unearthing Gems: The Classic Retro Anime You Absolutely Need to Watch
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: Unearthing Gems: The Classic Retro Anime You Absolutely Need to Watch の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 Hey manga and anime fans! Ever feel like you've seen all the new shows and are looking for something different? Or maybe you just want to revisit the roots of what makes anime so special? Well, you've come to the right place! Today, we're diving deep into the world of **classic retro anime worth watching**. Forget about rose-tinted glasses for a moment; these aren't just good for their time – they're genuinely fantastic pieces of animation and storytelling that continue to hold up, influence new creators, and captivate audiences decades later.
 
 There's a unique charm to retro anime. It's not just the hand-drawn cells or the distinct character designs; it's often the raw creativity born from different production constraints and cultural contexts. These shows and movies pushed boundaries, explored complex themes, and often did it with a level of artistic ambition that's still breathtaking.

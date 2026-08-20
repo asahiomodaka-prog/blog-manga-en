@@ -9,6 +9,15 @@ mediaType: 'comic'
 
 # Beyond Shonen: Diving Deep into the Best Seinen Manga of All Time
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: The Essential Seinen Shelf: Our Picks for the Best Manga for Mature Readers の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 When we talk about manga, the conversation often gravitates towards shonen — the epic battles, the power-ups, the unwavering friendships. And don't get me wrong, shonen is fantastic! But for those craving stories with more complex themes, nuanced characters, and often a darker, more realistic edge, there's a whole world waiting: seinen manga.
 
 Seinen, literally meaning "youth" but targeting adult men (typically 18-40), isn't a genre in itself, but a demographic. This means seinen can encompass anything from gripping historical epics and philosophical sci-fi to slice-of-life dramas and psychological thrillers. What unites them is a willingness to explore mature subjects, moral ambiguities, and the grittier aspects of life in ways shonen often can't.

@@ -9,6 +9,15 @@ mediaType: 'comic'
 
 # Unleash Your Inner Egoist: Diving Deep into the Blue Lock Manga Series
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: Unleash Your Inner Egoist: Diving Deep into the Blue Lock Manga Series の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 Alright, fellow manga enthusiasts, let's talk about a series that has absolutely blown the doors off the sports genre and injected it with a thrilling, almost brutal dose of ego: *Blue Lock*. If you've been looking for a soccer manga that throws out the rulebook of teamwork and camaraderie in favor of cutthroat competition and individual brilliance, then you need to be reading *Blue Lock*. Seriously, stop what you're doing and pick up volume one.
 
 From the moment it hit the scene, *Blue Lock* has been a phenomenon, captivating readers with its high-stakes premise, dynamic art, and a philosophy that challenges everything we thought we knew about team sports. It's not just a soccer manga; it's a psychological battle royale, a masterclass in character development, and a visual feast of athletic prowess. Let's dive into what makes this series an absolute must-read.
