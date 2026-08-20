@@ -1,10 +1,16 @@
 ---
 title: 'Goodnight Punpun: A Journey Through the Human Psyche'
-description: 'Dive deep into Inio Asano''s critically acclaimed manga, Goodnight Punpun. Explore its themes, art, and why it''s a modern classic.'
+description: Dive deep into Inio Asano''s critically acclaimed manga, Goodnight Punpun.
+  Explore its themes, art, and why it''s a modern classic.
 pubDate: '2026-08-20'
-heroImage: '/images/goodnight-punpun-manga-review-inio-asano.png'
-genre: 'Timeless Classics'
-mediaType: 'comic'
+heroImage: /images/goodnight-punpun-manga-review-inio-asano.png
+genre: Timeless Classics
+sidebarProducts:
+  - title: 'Goodnight Punpun A'
+    url: ''
+    imageUrl: '/images/goodnight-punpun-manga-review-inio-asano.png'
+    microCopy: '詳細を見る'
+mediaType: comic
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->

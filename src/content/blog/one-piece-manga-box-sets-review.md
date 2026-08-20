@@ -1,10 +1,17 @@
 ---
-title: 'Setting Sail with the Straw Hats: Why the One Piece Manga Box Sets Are a Must-Have Treasure'
-description: 'Dive into the grand adventure of One Piece with these essential manga box sets. A complete guide for new fans and seasoned pirates alike!'
+title: 'Setting Sail with the Straw Hats: Why the One Piece Manga Box Sets Are a Must-Have
+  Treasure'
+description: Dive into the grand adventure of One Piece with these essential manga
+  box sets. A complete guide for new fans and seasoned pirates alike!
 pubDate: '2026-08-20'
-heroImage: '/images/4934569367697.jpg?_ex=600x600'
-genre: 'Action & Shonen'
-mediaType: 'comic'
+heroImage: /images/4934569367697.jpg?_ex=600x600
+genre: Action & Shonen
+sidebarProducts:
+  - title: 'Setting Sail with the'
+    url: ''
+    imageUrl: '/images/4934569367697.jpg?_ex=600x600'
+    microCopy: '詳細を見る'
+mediaType: comic
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->

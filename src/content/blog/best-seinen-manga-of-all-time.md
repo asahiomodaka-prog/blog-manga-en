@@ -1,10 +1,16 @@
 ---
 title: 'The Essential Seinen Shelf: Our Picks for the Best Manga for Mature Readers'
-description: 'Explore the ultimate list of seinen manga that define the genre. From dark fantasy to psychological thrillers, discover mature storytelling at its finest.'
+description: Explore the ultimate list of seinen manga that define the genre. From
+  dark fantasy to psychological thrillers, discover mature storytelling at its finest.
 pubDate: '2026-08-20'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600'
-genre: 'Timeless Classics'
-mediaType: 'comic'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600
+genre: Timeless Classics
+sidebarProducts:
+  - title: 'The Essential Seinen'
+    url: ''
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600'
+    microCopy: '詳細を見る'
+mediaType: comic
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->

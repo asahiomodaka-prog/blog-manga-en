@@ -1,10 +1,17 @@
 ---
-title: 'Ergo Proxy: A Philosophical Dive into Anime's Dystopian Masterpiece'
-description: 'Dive into Ergo Proxy, a cyberpunk anime masterpiece exploring identity, humanity, and existential dread in a post-apocalyptic world. A must-watch for sci-fi fans.'
+title: 'Ergo Proxy: A Philosophical Dive into Anime''s Dystopian Masterpiece'
+description: Dive into Ergo Proxy, a cyberpunk anime masterpiece exploring identity,
+  humanity, and existential dread in a post-apocalyptic world. A must-watch for sci-fi
+  fans.
 pubDate: '2026-08-20'
-heroImage: '/images/4934569367697.jpg?_ex=600x600'
-genre: 'Sci-Fi & Fantasy'
-mediaType: 'anime'
+heroImage: /images/4934569367697.jpg?_ex=600x600
+genre: Sci-Fi & Fantasy
+sidebarProducts:
+  - title: 'Ergo Proxy A'
+    url: ''
+    imageUrl: '/images/4934569367697.jpg?_ex=600x600'
+    microCopy: '詳細を見る'
+mediaType: anime
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->

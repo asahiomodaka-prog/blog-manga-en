@@ -1,17 +1,18 @@
 ---
-title: 'Beyond the Stars: Why 'Space Brothers' is a Must-Read Manga and Must-Watch Anime'
-description: 'Dive into ''Space Brothers,'' the inspiring manga and anime about two siblings chasing their astronaut dreams. A journey of ambition, perseverance, and brotherhood.'
+title: 'Beyond the Stars: Why ''Space Brothers'' is a Must-Read Manga and Must-Watch
+  Anime'
+description: Dive into ''Space Brothers,'' the inspiring manga and anime about two
+  siblings chasing their astronaut dreams. A journey of ambition, perseverance, and
+  brotherhood.
 pubDate: '2026-08-19'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg'
-genre: 'Sci-Fi & Fantasy'
-mediaType: 'comic'
-faq:
-  - question: 'Is Space Brothers realistic in its portrayal of astronauts and space travel?'
-    answer: 'Absolutely. One of Space Brothers'' most celebrated aspects is its meticulous commitment to realism. Creator Chūya Koyama undertook extensive research, including interviews with JAXA and NASA personnel, visiting space centers, and studying actual astronaut training programs. While it is a work of fiction, the processes, challenges, and scientific details depicted are remarkably accurate, offering viewers and readers a genuine glimpse into the world of space exploration and the rigorous path to becoming an astronaut. This dedication to authenticity makes the story not only engaging but also highly educational.'
-  - question: 'Is Space Brothers suitable for all ages, or does it have mature themes?'
-    answer: 'Space Brothers is broadly suitable for a wide audience, generally rated for teens and up. While it doesn''t contain explicit violence or mature sexual content, it tackles complex adult themes such as career setbacks, existential self-doubt, the pressure of expectations, and the emotional toll of intense competition. However, these themes are handled with sensitivity, humor, and an overarching message of perseverance and hope. Younger viewers might appreciate the adventure and the dream of space, while older audiences will connect deeply with the characters'' struggles and triumphs, making it a series that resonates across generations.'
-  - question: 'Is the manga complete, and how does it compare to the anime adaptation?'
-    answer: 'The Space Brothers manga is still ongoing, continuing the story beyond where the anime concluded. As of late 2023, it has over 40 volumes released in Japan. The anime adaptation, which ran for 99 episodes, faithfully covers a significant portion of the manga, bringing Mutta through many crucial stages of his astronaut training and Hibito''s early missions. While the anime is an excellent and highly recommended adaptation, offering a complete and satisfying arc up to its stopping point, the manga provides the full, continuing narrative with more intricate details, character development, and the eventual progression towards Mutta''s ultimate goal of reaching Mars. For the complete experience, reading the manga is essential after watching the anime.'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg
+genre: Sci-Fi & Fantasy
+sidebarProducts:
+  - title: 'Beyond the Stars Why'
+    url: ''
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg'
+    microCopy: '詳細を見る'
+mediaType: comic
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->

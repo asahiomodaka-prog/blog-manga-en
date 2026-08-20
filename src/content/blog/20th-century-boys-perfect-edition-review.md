@@ -1,10 +1,18 @@
 ---
-title: 'Childhood Dreams and Global Nightmares: A Deep Dive into 20th Century Boys Perfect Edition'
-description: 'Unravel a global conspiracy rooted in childhood memories. Our review of Naoki Urasawa''s *20th Century Boys* Perfect Edition explores this masterful mystery.'
+title: 'Childhood Dreams and Global Nightmares: A Deep Dive into 20th Century Boys
+  Perfect Edition'
+description: Unravel a global conspiracy rooted in childhood memories. Our review
+  of Naoki Urasawa''s *20th Century Boys* Perfect Edition explores this masterful
+  mystery.
 pubDate: '2026-08-20'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600'
-genre: 'Mystery & Suspense'
-mediaType: 'comic'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600
+genre: Mystery & Suspense
+sidebarProducts:
+  - title: 'Childhood Dreams and'
+    url: ''
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600'
+    microCopy: '詳細を見る'
+mediaType: comic
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->

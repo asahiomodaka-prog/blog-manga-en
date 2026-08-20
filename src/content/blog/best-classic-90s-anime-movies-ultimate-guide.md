@@ -1,10 +1,16 @@
 ---
 title: 'Revisiting the Golden Age: An Ultimate Guide to Best Classic 90s Anime Movies'
-description: 'Dive into the best classic 90s anime movies! Our ultimate guide uncovers the iconic films that defined a generation and shaped anime''s future.'
+description: Dive into the best classic 90s anime movies! Our ultimate guide uncovers
+  the iconic films that defined a generation and shaped anime''s future.
 pubDate: '2026-08-20'
-heroImage: '/images/best-classic-90s-anime-movies-ultimate-guide.png'
-genre: 'Timeless Classics'
-mediaType: 'anime'
+heroImage: /images/best-classic-90s-anime-movies-ultimate-guide.png
+genre: Timeless Classics
+sidebarProducts:
+  - title: 'Revisiting the Golden'
+    url: ''
+    imageUrl: '/images/best-classic-90s-anime-movies-ultimate-guide.png'
+    microCopy: '詳細を見る'
+mediaType: anime
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->
