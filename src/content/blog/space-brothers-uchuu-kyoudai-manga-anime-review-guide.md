@@ -16,7 +16,7 @@ faq:
 
 <!-- Disclosure: This page contains affiliate links. -->
 
-# Beyond the Stars: Why 'Space Brothers' is a [Must-Read](/blog/super-sengoku-chronicle-manga-review-complete-reading-guide-one-coin-deal/) Manga and Must-Watch [Anime](/blog/cowboy-bebop-anime-legacy/)
+# Beyond the Stars: Why 'Space Brothers' is a Must-Read Manga and Must-Watch Anime
 
 From the bustling streets of Tokyo to the silent, infinite expanse of the cosmos, the dream of touching the stars has captivated humanity for millennia. Yet, few stories capture this aspiration with the profound human depth, meticulous realism, and sheer emotional resonance of Chūya Koyama's masterpiece, *Space Brothers* (Space Brothers / *Uchuu Kyoudai*). For international manga and anime enthusiasts, collectors, and casual fans alike, this series isn't just a tale about astronauts; it's an inspiring saga of sibling bonds, unwavering perseverance, and the often-messy, always-rewarding journey of chasing a childhood promise into adulthood.
 
@@ -41,8 +41,8 @@ As an anime critic and manga historian for Midnight Manga Vault, I've seen count
 <h4 style="margin: 0 0 10px 0; font-size: 1.08rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Beyond the Stars Why 'Space</h4>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(135px, 1fr)); gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.com/s?k=Beyond%20the%20Stars%20Why%20%27Space&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon (US/Global)</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBeyond%2520the%2520Stars%2520Why%2520%2527Space" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important;">🇯🇵 Amazon JP (Import)</a>
+<a href="https://www.amazon.com/s?k=Beyond%20the%20Stars%20Why%20%27Space&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon (US/Global)</a>
+<a href="https://www.amazon.co.jp/s?k=Beyond%20the%20Stars%20Why%20%27Space" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important;">🇯🇵 Amazon JP (Import)</a>
 </div>
 </div>
 </div>

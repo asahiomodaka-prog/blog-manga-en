@@ -39,8 +39,8 @@ In the vast, sprawling cosmos of manga, few titles shine with the incandescent, 
 <h4 style="margin: 0 0 10px 0; font-size: 1.08rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Unleashing the Beast Why</h4>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(135px, 1fr)); gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.com/s?k=Unleashing%20the%20Beast%20Why&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon (US/Global)</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DUnleashing%2520the%2520Beast%2520Why" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important;">🇯🇵 Amazon JP (Import)</a>
+<a href="https://www.amazon.com/s?k=Unleashing%20the%20Beast%20Why&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon (US/Global)</a>
+<a href="https://www.amazon.co.jp/s?k=Unleashing%20the%20Beast%20Why" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important;">🇯🇵 Amazon JP (Import)</a>
 </div>
 </div>
 </div>
@@ -51,7 +51,7 @@ In the vast, sprawling cosmos of manga, few titles shine with the incandescent, 
 
 If you've heard the whispers of *Berserk*'s legend and are ready to dive in, or if you're a long-time fan looking to elevate your collection, the Deluxe Edition is unequivocally the way to go. It is far more than just a re-release; it's a celebration of a masterpiece.
 
-### Why the Deluxe Edition is the [Ultimate](/blog/cowboy-bebop-anime-legacy/) Experience
+### Why the Deluxe Edition is the Ultimate Experience
 
 Each *Berserk Deluxe Edition* volume collects three standard manga volumes into a single, hefty tome. The faux leather binding with embossed Brand of Sacrifice emblem, the robust construction, and the high-quality paper stock make these books feel substantial and luxurious. They are designed to be heirlooms, built to withstand countless re-reads. The larger format ensures that every intricate detail of Miura's art, from the sprawling landscapes to the grotesque demon designs, is presented with breathtaking clarity and impact. This isn't just a reading experience; it's an immersion into a dark, beautiful world. For a complete reading guide, starting with Deluxe Edition Vol. 1 is the only logical choice.
 
