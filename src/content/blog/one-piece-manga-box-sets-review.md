@@ -41,7 +41,7 @@ But let's be real: with over 100 volumes and counting, jumping into *One Piece* 
 </div>
 
 
-## The Grand Line Awaits: Why One Piece is an Unforgettable [Journey](/blog/goodnight-punpun-manga-review-inio-asano/)
+## The Grand Line Awaits: Why One Piece is an Unforgettable Journey
 
 Before we dive into the specifics of the box sets, let's quickly recap *why* *One Piece* holds such a revered spot in the manga world. At its core, it's the story of Monkey D. Luffy, a boy whose body gained rubber-like properties after accidentally eating a Devil Fruit. His dream? To find the legendary treasure, the One Piece, and become the King of the Pirates. Along the way, he gathers a diverse crew of misfits – a master swordsman, a skilled navigator, a sharpshooting liar, a chivalrous chef, a compassionate doctor, an intelligent archaeologist, a cyborg shipwright, a soulful musician, and a fish-man helmsman – each with their own dreams and tragic backstories.
 

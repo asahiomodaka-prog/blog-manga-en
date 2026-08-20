@@ -7,7 +7,7 @@ genre: 'Sci-Fi & Fantasy'
 mediaType: 'anime'
 ---
 
-# Ergo Proxy: A Philosophical Dive into Anime's Dystopian [Masterpiece](/blog/blade-of-the-immortal-deluxe-edition-review/)
+# Ergo Proxy: A Philosophical Dive into Anime's Dystopian Masterpiece
 
 Sometimes, an anime comes along that doesn't just entertain, but actively challenges you. It demands your full attention, makes you question everything, and leaves a lingering impression long after the credits roll. *Ergo Proxy* is absolutely one of those shows. If you're tired of predictable plots and crave a story that digs deep into philosophical themes, a proper *Ergo Proxy* anime review is long overdue, because this series is a cerebral feast for anyone who loves thought-provoking science fiction.
 
@@ -47,7 +47,7 @@ At its core, *Ergo Proxy* is a cyberpunk noir mystery set in a post-apocalyptic 
 
 Our story primarily follows Re-l Mayer, a no-nonsense inspector from the Citizen Information Bureau, who is tasked with investigating these strange occurrences. Re-l is the granddaughter of the regent of Romdeau, and her privileged but detached existence is soon upended by encounters with terrifying, god-like beings known as Proxies, and a cryptic message: "Awakening." Alongside her investigation, we follow Vincent Law, an immigrant AutoReiv technician from the domed city of Mosk, who is haunted by a forgotten past and a connection to the very mysteries Re-l is chasing. And then there's Pino, an infected AutoReiv who, after her owner is killed, develops childlike sentience and becomes a beacon of innocence in a bleak world.
 
-## The World of Romdeau and [Beyond](/blog/space-brothers-uchuu-kyoudai-manga-anime-review-guide/)
+## The World of Romdeau and Beyond
 
 Romdeau is a fascinating setting – a meticulously crafted, sterile paradise that quickly reveals its dystopian underbelly. The city is clean, orderly, and seemingly perfect, but beneath the surface lies rigid social stratification, emotional suppression, and a deep-seated fear of anything that threatens the status quo. The citizens of Romdeau are, in many ways, just as robotic as the AutoReivs they employ, living lives dictated by purpose and devoid of true emotion.
 
@@ -67,7 +67,7 @@ Vincent is Re-l's antithesis in many ways – outwardly timid, earnest, and plag
 
 Pino, the child-like AutoReiv infected with the Cogito virus, offers a crucial counterpoint to the series' darker themes. Her journey is one of pure discovery, experiencing the world with unbridled curiosity and joy. She learns about emotions, fear, and love, often mirroring the audience's own journey of understanding. Pino's presence provides moments of much-needed levity and innocence, reminding us of the simple beauty that can still exist even in the most desolate circumstances.
 
-## Themes and Philosophy: A Mind-Bending [Experience](/blog/berserk-deluxe-edition-review-kentaro-miura/)
+## Themes and Philosophy: A Mind-Bending Experience
 
 *Ergo Proxy* is not afraid to tackle big ideas. In fact, it revels in them. This is where the *Ergo Proxy* anime review truly shines, as the series is less about plot twists and more about the questions it poses.
 

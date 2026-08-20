@@ -7,7 +7,7 @@ genre: 'Timeless Classics'
 mediaType: 'anime'
 ---
 
-# Revisiting the Golden Age: An Ultimate Guide to Best [Classic](/blog/unearthing-gems-classic-retro-anime-worth-watching/) 90s Anime Movies
+# Revisiting the Golden Age: An Ultimate Guide to Best Classic 90s Anime Movies
 
 There's just something magical about the 90s, isn't there? It was a decade of incredible innovation, bold storytelling, and artistic mastery in the world of anime. For many fans, myself included, the 1990s represent a true golden age for animated cinema, especially when it comes to feature films. This was a time when creators pushed boundaries, experimented with new technologies, and delivered narratives that stuck with you long after the credits rolled.
 
