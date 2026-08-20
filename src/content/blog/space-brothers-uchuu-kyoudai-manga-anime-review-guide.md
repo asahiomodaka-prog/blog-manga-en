@@ -2,7 +2,7 @@
 title: 'Beyond the Stars: Why ''Space Brothers'' is a Must-Read Manga and Must-Watch Anime'
 description: 'Dive into ''''Space Brothers,'''' the inspiring manga and anime about two siblings chasing their astronaut dreams. A journey of ambition, perseverance, and brotherhood.'
 pubDate: '2026-08-19'
-heroImage: '/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide.jpg'
+heroImage: '/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide.png'
 genre: 'Sci-Fi & Fantasy'
 mediaType: 'comic'
 faq:
@@ -30,7 +30,7 @@ As an anime critic and manga historian for Midnight Manga Vault, I've seen count
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg" alt="Beyond the Stars: Why" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide-body-1.jpg" alt="space-brothers-uchuu-kyoudai-manga-anime-review-guide" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
@@ -122,7 +122,7 @@ Whether you choose to read the manga, watch the anime, or both, prepare for a st
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg" alt="Beyond the Stars: Why" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide-body-1.jpg" alt="space-brothers-uchuu-kyoudai-manga-anime-review-guide" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">

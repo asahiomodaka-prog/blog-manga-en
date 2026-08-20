@@ -8,9 +8,7 @@ mediaType: 'anime'
 ---
 
 <!-- PR -->
-:::note
-This page contains affiliate links. We may earn a commission on qualifying purchases at no additional cost to you.
-:::
+> **Notice**: This page contains affiliate links. We may earn a commission on qualifying purchases at no additional cost to you.
 
 When Shinichiro Watanabe and Studio Sunrise released *Cowboy Bebop* in 1998, they created more than just a space western—they forged an enduring cultural touchstone. Blending American jazz, film noir, gritty cyberpunk, and existential melancholy, the 26-episode masterpiece continues to captivate new generations of anime enthusiasts around the globe.
 
