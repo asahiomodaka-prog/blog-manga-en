@@ -1,7 +1,6 @@
 ---
 title: 'Chainsaw Man Manga Box Set: Unleash the Devil Hunter in Style'
 description: Dive into the world of Denji with the Chainsaw Man Manga Box Set. Our
-  in-depth review covers everything you need to know about this collector''s item.
 pubDate: '2026-08-20'
 heroImage: /images/chainsaw-man-manga-box-set-review.png
 genre: Action & Shonen

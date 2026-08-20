@@ -1,8 +1,6 @@
 ---
 title: 'Unearthing Gems: The Classic Retro Anime You Absolutely Need to Watch'
 description: Dive into the golden age of animation! We''re exploring iconic retro
-  anime that shaped the industry and are still a must-watch today. Get ready for some
-  timeless classics!
 pubDate: '2026-08-20'
 heroImage: /images/unearthing-gems-classic-retro-anime-worth-watching.png
 genre: Timeless Classics

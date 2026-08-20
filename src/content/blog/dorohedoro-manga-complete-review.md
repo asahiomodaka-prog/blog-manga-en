@@ -1,9 +1,6 @@
 ---
-title: 'Dive Into the Guts and Glory: A Deep Look at the Dorohedoro Manga Complete
-  Collection'
+title: 'Dive Into the Guts and Glory: A Deep Look at the Dorohedoro Manga Complete'
 description: Explore the wild, weird world of Dorohedoro with our in-depth review
-  of the complete manga. Gritty art, unforgettable characters, and a story unlike
-  any other.
 pubDate: '2026-08-20'
 heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600
 genre: Sci-Fi & Fantasy

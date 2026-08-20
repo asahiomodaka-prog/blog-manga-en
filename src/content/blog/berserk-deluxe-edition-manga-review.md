@@ -1,9 +1,6 @@
 ---
-title: 'Berserk Deluxe Edition: Why This Manga Masterpiece Demands a Spot on Your
-  Shelf'
+title: 'Berserk Deluxe Edition: Why This Manga Masterpiece Demands a Spot on Your'
 description: Dive deep into the Berserk Deluxe Edition manga. Discover why Kentaro
-  Miura''s dark fantasy epic, in this premium format, is a must-have for any serious
-  collector.
 pubDate: '2026-08-20'
 heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600
 genre: Action & Shonen

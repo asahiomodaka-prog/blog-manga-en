@@ -1,7 +1,6 @@
 ---
 title: 'Demon Slayer Manga Series: Why This Shonen Phenomenon is a Must-Read'
 description: Dive deep into the Demon Slayer manga. Discover why Koyoharu Gotouge''s
-  masterpiece is a shonen must-read, even if you''ve seen the anime!
 pubDate: '2026-08-20'
 heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600
 genre: Action & Shonen

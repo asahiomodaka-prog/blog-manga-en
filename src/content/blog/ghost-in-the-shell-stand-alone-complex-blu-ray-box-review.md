@@ -1,8 +1,6 @@
 ---
-title: 'Ghost in the Shell: Stand Alone Complex Blu-ray Box — A Timeless Cyberpunk
-  Essential'
-description: 'Dive into the definitive review of the Ghost in the Shell: Stand Alone
-  Complex Blu-ray Box. Is this cyberpunk classic worth adding to your collection?'
+title: 'Ghost in the Shell: Stand Alone Complex Blu-ray Box — A Timeless Cyberpunk'
+description: 'Dive into the definitive review of the Ghost in the Shell: Stand Alone'
 pubDate: '2026-08-20'
 heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600
 genre: Sci-Fi & Fantasy

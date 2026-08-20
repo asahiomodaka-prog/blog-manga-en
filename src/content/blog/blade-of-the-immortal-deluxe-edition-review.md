@@ -1,7 +1,6 @@
 ---
 title: 'Blade of the Immortal Deluxe Edition: A Masterpiece Reborn in Stunning Hardcover'
 description: Dive into our in-depth review of Blade of the Immortal Deluxe Edition.
-  Discover why this Hiroaki Samura masterpiece is a must-have for any manga fan.
 pubDate: '2026-08-20'
 heroImage: /images/blade-of-the-immortal-deluxe-edition-review.png
 genre: Action & Shonen

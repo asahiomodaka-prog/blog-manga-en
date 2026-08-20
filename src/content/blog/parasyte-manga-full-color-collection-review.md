@@ -1,7 +1,6 @@
 ---
 title: 'Parasyte Manga Full Color Collection: Is It Worth the Upgrade?'
 description: Dive into our review of the Parasyte Manga Full Color Collection. See
-  if this vibrant edition redefines Hitoshi Iwaaki''s classic horror.
 pubDate: '2026-08-20'
 heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600
 genre: Sci-Fi & Fantasy

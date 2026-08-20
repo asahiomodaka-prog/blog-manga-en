@@ -1,8 +1,6 @@
 ---
 title: 'Why Cowboy Bebop Remains the Ultimate Anime Masterpiece: A Timeless Jazz Voyage'
 description: An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover
-  why its genre-blending jazz soundtrack, neo-noir aesthetic, and philosophical themes
-  make it an untouchable classic.
 pubDate: '2026-08-19'
 heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600
 genre: SF・ファンタジー

@@ -1,7 +1,6 @@
 ---
 title: 'Unleash Your Inner Egoist: Diving Deep into the Blue Lock Manga Series'
 description: Discover why Blue Lock is redefining sports manga with its intense focus
-  on ego, strategy, and the pursuit of ultimate striker glory.
 pubDate: '2026-08-20'
 heroImage: /images/blue-lock-manga-review-ultimate-guide.png
 genre: Action & Shonen

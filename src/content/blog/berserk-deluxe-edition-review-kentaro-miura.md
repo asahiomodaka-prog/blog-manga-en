@@ -1,8 +1,6 @@
 ---
-title: 'Unleashing the Beast: Why Berserk Deluxe Edition is the Definitive Way to
-  Experience Kentaro Miura''s Masterpiece'
+title: 'Unleashing the Beast: Why Berserk Deluxe Edition is the Definitive Way to'
 description: Dive deep into the brutal beauty of Berserk with our comprehensive review
-  of the Deluxe Edition. Discover why Kentaro Miura''s dark fantasy epic is a must-read.
 pubDate: '2026-08-19'
 heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600
 genre: Sci-Fi & Fantasy

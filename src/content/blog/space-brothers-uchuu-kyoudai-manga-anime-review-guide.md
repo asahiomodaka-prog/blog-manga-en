@@ -1,9 +1,6 @@
 ---
-title: 'Beyond the Stars: Why ''Space Brothers'' is a Must-Read Manga and Must-Watch
-  Anime'
+title: 'Beyond the Stars: Why ''''Space Brothers'''' is a Must-Read Manga and Must-Watch'
 description: Dive into ''Space Brothers,'' the inspiring manga and anime about two
-  siblings chasing their astronaut dreams. A journey of ambition, perseverance, and
-  brotherhood.
 pubDate: '2026-08-19'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg
 genre: Sci-Fi & Fantasy
