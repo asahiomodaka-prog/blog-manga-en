@@ -29,7 +29,7 @@ As an anime critic and manga historian for Midnight Manga Vault, I've seen count
 
 
 <div class="product-widget-card">
-  <img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide-body-1.jpg" alt="space-brothers-uchuu-kyoudai-manga-anime-review-guide" class="widget-img" loading="lazy" />
+  <img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide.jpg" alt="space-brothers-uchuu-kyoudai-manga-anime-review-guide" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">Beyond the Stars: Why</h4>
 <p class="widget-desc">Dive into</p>
@@ -110,7 +110,7 @@ Whether you choose to read the manga, watch the anime, or both, prepare for a st
 
 
 <div class="product-widget-card">
-  <img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide-body-1.jpg" alt="space-brothers-uchuu-kyoudai-manga-anime-review-guide" class="widget-img" loading="lazy" />
+  <img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide.jpg" alt="space-brothers-uchuu-kyoudai-manga-anime-review-guide" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">Beyond the Stars: Why</h4>
 <p class="widget-desc">Dive into</p>
