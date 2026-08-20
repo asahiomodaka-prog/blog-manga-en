@@ -2,12 +2,12 @@
 title: 'Ghost in the Shell: Stand Alone Complex Blu-ray Box — A Timeless Cyberpunk'
 description: 'Dive into the definitive review of the Ghost in the Shell: Stand Alone'
 pubDate: '2026-08-20'
-heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600
+heroImage: 'https://pics.dmm.com/mono/cd/japanese_music/cd_576vtzl209s/cd_576vtzl209spt.jpg'
 genre: Sci-Fi & Fantasy
 sidebarProducts:
-  - title: 'Ghost in the Shell'
-    url: ''
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600'
+  - title: 'Ghost in the Shell: Stand Alone Complex Blu-ray Box'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_576vtzl209s%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://pics.dmm.com/mono/cd/japanese_music/cd_576vtzl209s/cd_576vtzl209spt.jpg'
     microCopy: '詳細を見る'
 mediaType: anime
 ---
@@ -28,11 +28,11 @@ The world of manga and anime has produced countless timeless masterpieces, but f
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7697/4934569367697.jpg?_ex=600x600" alt="Ghost in the Shell" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/cd/japanese_music/cd_576vtzl209s/cd_576vtzl209spt.jpg" alt="Ghost in the Shell: Stand Alone Complex Blu-ray Box" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Ghost in the Shell</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Ghost in the Shell: Stand Alone Complex Blu-ray Box</h4>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(135px, 1fr)); gap: 8px; margin-top: 14px;">
 <a href="https://www.amazon.com/s?k=Ghost%20in%20the%20Shell&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon (US/Global)</a>
