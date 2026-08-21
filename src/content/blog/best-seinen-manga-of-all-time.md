@@ -51,18 +51,6 @@ No list of the best seinen manga would be complete without *Akira*. Katsuhiro Ot
 
 As one of the earliest and most influential seinen manga, *Akira*'s impact cannot be overstated. Its intricate world-building, compelling characters, and groundbreaking art firmly establish it as one of the best seinen manga of all time. The gorgeous hardcover editions from Kodansha are an excellent way to own this piece of manga history, available widely on Amazon US and other retailers.
 
-<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📚 Top-Rated Manga Deluxe Editions & Box Sets</h3>
-<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">[Amazon US / Global Collector's Selection]</div>
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">Discover oversized collector hardcover editions and complete story arc box sets with exclusive art and bonus materials.</p>
-<div style="text-align: center;">
-<a href="https://www.amazon.com/s?k=Manga+Deluxe+Edition+Box+Set&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-👉 Browse Manga Deluxe Editions on Amazon
-</a>
-</div>
-</div>
-
 ## Why Seinen Manga Matters
 
 The titles we've discussed barely scratch the surface of the incredible variety and depth within the seinen demographic, but they represent some of the absolute pinnacles. What these best seinen manga share is a commitment to storytelling that respects the reader's intelligence, challenges their perceptions, and isn't afraid to delve into uncomfortable truths.
@@ -74,22 +62,3 @@ They offer a space for narratives that are often too complex, too dark, or too n
 If you've been primarily reading shonen or shojo, taking the leap into seinen manga can be a revelation. The mature themes, intricate plots, and often stunning artwork offer a different kind of satisfaction, a deeper engagement with the narrative and characters. The titles on this list are not just recommendations; they are invitations to experience some of the most profound and impactful storytelling in all of comics.
 
 So, whether you pick up a copy of *Berserk*'s latest Deluxe Edition, dive into the psychological labyrinth of *Monster*, or brace yourself for the emotional rollercoaster of *Goodnight Punpun*, you're in for an unforgettable journey. Which of these best seinen manga will you be adding to your collection first? Let us know in the comments!
-
-<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 Recommended Related Collections & Items</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Deluxe Hardcover Manga Editions</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Premium oversized editions with restored artwork</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.com/s?k=Deluxe+Edition+Manga&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon</a>
-</div>
-</div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Complete Manga Box Sets</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Collectible box sets containing full story arcs</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.com/s?k=Manga+Box+Set+Complete&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon</a>
-</div>
-</div>
-</div>
-</div>

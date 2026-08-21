@@ -69,34 +69,3 @@ A3: The complete original TV series spans 26 episodes, accompanied by a feature-
 ## Final Verdict: Why You Must Experience It Tonight
 
 Whether you are revisiting the Bebop or stepping aboard for the very first time, *Cowboy Bebop* remains an unmatched triumph of visual style, emotional resonance, and world-class sound design.
-
-<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📚 Top-Rated Manga Deluxe Editions & Box Sets</h3>
-<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">[Amazon US / Global Collector's Selection]</div>
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">Discover oversized collector hardcover editions and complete story arc box sets with exclusive art and bonus materials.</p>
-<div style="text-align: center;">
-<a href="https://www.amazon.com/s?k=Manga+Deluxe+Edition+Box+Set&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-👉 Browse Manga Deluxe Editions on Amazon
-</a>
-</div>
-</div>
-
-<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 Recommended Related Collections & Items</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Deluxe Hardcover Manga Editions</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Premium oversized editions with restored artwork</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.com/s?k=Deluxe+Edition+Manga&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon</a>
-</div>
-</div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Complete Manga Box Sets</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Collectible box sets containing full story arcs</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.com/s?k=Manga+Box+Set+Complete&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon</a>
-</div>
-</div>
-</div>
-</div>

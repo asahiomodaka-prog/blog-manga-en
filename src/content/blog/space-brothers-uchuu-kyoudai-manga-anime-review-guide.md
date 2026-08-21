@@ -53,18 +53,6 @@ As an anime critic and manga historian for Midnight Manga Vault, I've seen count
 
 The series has also been praised by real-life astronauts and space enthusiasts for its accuracy and inspiring portrayal of space exploration. Its ability to demystify the rigorous process of becoming an astronaut while emphasizing the human element has resonated with many. Creator Chūya Koyama's dedication to research and his ability to weave complex scientific details into a compelling human drama are key to its enduring popularity. The manga has inspired countless readers, reminding them that it's never too late to pursue a dream, no matter how distant it may seem.
 
-<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📚 Top-Rated Manga Deluxe Editions & Box Sets</h3>
-<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">[Amazon US / Global Collector's Selection]</div>
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">Discover oversized collector hardcover editions and complete story arc box sets with exclusive art and bonus materials.</p>
-<div style="text-align: center;">
-<a href="https://www.amazon.com/s?k=Manga+Deluxe+Edition+Box+Set&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-👉 Browse Manga Deluxe Editions on Amazon
-</a>
-</div>
-</div>
-
 ## Your Journey to the Stars: A Complete Reading Guide & Watch Order
 
 If you're ready to embark on the inspiring journey of Mutta and Hibito, here's how to dive into *Space Brothers*:
@@ -98,22 +86,3 @@ Whether you choose to read the manga, watch the anime, or both, prepare for a st
 ### Q3: Is the manga complete, and how does it compare to the anime adaptation?
 
 **A3:** The *Space Brothers* manga is still ongoing, continuing the story beyond where the anime concluded. As of late 2023, it has over 40 volumes released in Japan. The anime adaptation, which ran for 99 episodes, faithfully covers a significant portion of the manga, bringing Mutta through many crucial stages of his astronaut training and Hibito's early missions. While the anime is an excellent and highly recommended adaptation, offering a complete and satisfying arc up to its stopping point, the manga provides the full, continuing narrative with more intricate details, character development, and the eventual progression towards Mutta's ultimate goal of reaching Mars. For the complete experience, reading the manga is essential after watching the anime.
-
-<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 Recommended Related Collections & Items</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Deluxe Hardcover Manga Editions</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Premium oversized editions with restored artwork</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.com/s?k=Deluxe+Edition+Manga&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon</a>
-</div>
-</div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Complete Manga Box Sets</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Collectible box sets containing full story arcs</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.com/s?k=Manga+Box+Set+Complete&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon</a>
-</div>
-</div>
-</div>
-</div>
