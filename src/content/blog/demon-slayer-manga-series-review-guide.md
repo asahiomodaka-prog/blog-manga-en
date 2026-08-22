@@ -1,14 +1,20 @@
 ---
 title: 'Demon Slayer Manga Series: Why This Shonen Phenomenon is a Must-Read'
-description: Dive deep into the Demon Slayer manga. Discover why Koyoharu Gotouge''s
+description: 'Dive deep into the Demon Slayer manga. Discover why Koyoharu Gotouge''s masterpiece is a must-read.'
 pubDate: '2026-08-20'
 heroImage: '/images/demon-slayer-manga-series-review-guide.jpg'
 genre: Action & Shonen
 sidebarProducts:
-  - title: 'Demon Slayer: Kimetsu no Yaiba Manga Complete Box Set'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/demon-slayer-manga-series-review-guide.jpg'
-    microCopy: '詳細を見る'
+  - title: '鬼滅の刃'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F645548%2Fb950ushes00311%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes00311/b950ushes00311pl.jpg'
+    price: 480
+    microCopy: 'DMMで詳細を見る'
+  - title: 'ジャンプGIGA'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F654936%2Fb950athes02794%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950athes02794/b950athes02794pl.jpg'
+    price: 1282
+    microCopy: 'DMMで詳細を見る'
 mediaType: comic
 ---
 
