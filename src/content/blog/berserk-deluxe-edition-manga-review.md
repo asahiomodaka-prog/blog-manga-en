@@ -70,6 +70,6 @@ Following Miura's tragic passing in 2021, the series is now being continued by h
 
 Whether you're looking to dive into *Berserk* for the first time or re-experience its dark grandeur, the Deluxe Edition is the definitive way to do it. It's a tribute to Kentaro Miura's genius and a testament to the enduring power of his masterpiece.
 
-Ready to embark on Guts' epic, brutal journey? You can find the **Berserk Deluxe Edition Manga** available on [Amazon US/Global](https://www.amazon.com/s?k=Berserk+Deluxe+Edition+Manga&tag=otakuen-20)*.
+Ready to embark on Guts' epic, brutal journey? You can find the **Berserk Deluxe Edition Manga** available on [Amazon US/Global](https://www.amazon.com/s?k=Berserk%20Deluxe%20Edition&tag=otakuen-20)*.
 
 *Please note: As an Amazon Associate, I earn from qualifying purchases. This helps support Midnight Manga Vault and allows us to continue bringing you reviews and insights into the world of manga and anime.
