@@ -2,30 +2,29 @@
 title: 'Setting Sail with the Straw Hats: Why the One Piece Manga Box Sets Are a Must-Have'
 description: Dive into the grand adventure of One Piece with these essential manga
 pubDate: '2026-08-20'
-heroImage: '/images/one-piece-manga-box-sets-review.jpg'
+heroImage: '/images/one-piece-manga-box-sets-review-v2.jpg'
 genre: Action & Shonen
 sidebarProducts:
   - title: 'ONE PIECE学園'
-url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F926894%2Fb950yshes32615%2F&af_id=DMMaria-999&ch=api'
-imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes32615/b950yshes32615pl.jpg'
-price: 572
-microCopy: 'DMMで詳細を見る'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F926894%2Fb950yshes32615%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes32615/b950yshes32615pl.jpg'
+    price: 572
+    microCopy: 'DMMで詳細を見る'
   - title: 'ONE PIECE カラー版'
-url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56868%2Fb950yshes23527%2F&af_id=DMMaria-999&ch=api'
-imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes23527/b950yshes23527pl.jpg'
-price: 611
-microCopy: 'DMMで詳細を見る'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56868%2Fb950yshes23527%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes23527/b950yshes23527pl.jpg'
+    price: 611
+    microCopy: 'DMMで詳細を見る'
   - title: 'ONE PIECE モノクロ版'
-url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56869%2Fb950yshes32627%2F&af_id=DMMaria-999&ch=api'
-imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes32627/b950yshes32627pl.jpg'
-price: 594
-microCopy: 'DMMで詳細を見る'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56869%2Fb950yshes32627%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes32627/b950yshes32627pl.jpg'
+    price: 594
+    microCopy: 'DMMで詳細を見る'
   - title: 'ONE PIECE magazine'
-url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F753504%2Fb950xshes95830%2F&af_id=DMMaria-999&ch=api'
-imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes95830/b950xshes95830pl.jpg'
-price: 1567
-microCopy: 'DMMで詳細を見る'
-mediaType: comic
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F753504%2Fb950xshes95830%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes95830/b950xshes95830pl.jpg'
+    price: 1567
+    microCopy: 'DMMで詳細を見る'
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->
@@ -44,7 +43,7 @@ mediaType: comic
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/one-piece-manga-box-sets-review.jpg" alt="One Piece Manga Box Set (East Blue and Baroque Works)" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/one-piece-manga-box-sets-review-v2.jpg" alt="One Piece Manga Box Set (East Blue and Baroque Works)" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>

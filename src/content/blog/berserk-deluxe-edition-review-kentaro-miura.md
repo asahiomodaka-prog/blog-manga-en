@@ -2,30 +2,29 @@
 title: 'Unleashing the Beast: Why Berserk Deluxe Edition is the Definitive Way to'
 description: Dive deep into the brutal beauty of Berserk with our comprehensive review
 pubDate: '2026-08-19'
-heroImage: '/images/berserk-deluxe-edition-review-kentaro-miura.jpg'
+heroImage: '/images/berserk-deluxe-edition-review-kentaro-miura-v2.jpg'
 genre: Sci-Fi & Fantasy
 sidebarProducts:
   - title: 'ベルセルク'
-url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102108%2Fb371khkss06951%2F&af_id=DMMaria-999&ch=api'
-imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg'
-price: 880
-microCopy: 'DMMで詳細を見る'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102108%2Fb371khkss06951%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg'
+    price: 880
+    microCopy: 'DMMで詳細を見る'
   - title: '『ベルセルク』スペシャル編集版'
-url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122781%2Fb371chkss00387%2F&af_id=DMMaria-999&ch=api'
-imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371chkss00387/b371chkss00387pl.jpg'
-price: 1236
-microCopy: 'DMMで詳細を見る'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122781%2Fb371chkss00387%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371chkss00387/b371chkss00387pl.jpg'
+    price: 1236
+    microCopy: 'DMMで詳細を見る'
   - title: '暴食のベルセルク〜俺だけレベルという概念を突破して最強〜'
-url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6173671%2Fb389amcmg04375%2F&af_id=DMMaria-999&ch=api'
-imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b389amcmg04375/b389amcmg04375pl.jpg'
-price: 67
-microCopy: 'DMMで詳細を見る'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6173671%2Fb389amcmg04375%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b389amcmg04375/b389amcmg04375pl.jpg'
+    price: 67
+    microCopy: 'DMMで詳細を見る'
   - title: '暴食のベルセルク〜俺だけレベルという概念を突破する〜【単話版】（単話）'
-url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F787306%2Fb389amcmg05002%2F&af_id=DMMaria-999&ch=api'
-imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b389amcmg05002/b389amcmg05002pl.jpg'
-price: 110
-microCopy: 'DMMで詳細を見る'
-mediaType: comic
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F787306%2Fb389amcmg05002%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b389amcmg05002/b389amcmg05002pl.jpg'
+    price: 110
+    microCopy: 'DMMで詳細を見る'
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->
@@ -46,7 +45,7 @@ In the vast, sprawling cosmos of manga, few titles shine with the incandescent, 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/berserk-deluxe-edition-review-kentaro-miura.jpg" alt="Berserk Deluxe Edition by Kentaro Miura" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/berserk-deluxe-edition-review-kentaro-miura-v2.jpg" alt="Berserk Deluxe Edition by Kentaro Miura" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>

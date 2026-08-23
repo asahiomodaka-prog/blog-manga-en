@@ -2,30 +2,29 @@
 title: 'Demon Slayer Manga Series: Why This Shonen Phenomenon is a Must-Read'
 description: 'Dive deep into the Demon Slayer manga. Discover why Koyoharu Gotouge''s masterpiece is a must-read.'
 pubDate: '2026-08-20'
-heroImage: '/images/demon-slayer-manga-series-review-guide.jpg'
+heroImage: '/images/demon-slayer-manga-series-review-guide-v2.jpg'
 genre: Action & Shonen
 sidebarProducts:
   - title: '鬼滅の刃'
-url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F645548%2Fb950ushes00311%2F&af_id=DMMaria-999&ch=api'
-imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes00311/b950ushes00311pl.jpg'
-price: 480
-microCopy: 'DMMで詳細を見る'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F645548%2Fb950ushes00311%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes00311/b950ushes00311pl.jpg'
+    price: 480
+    microCopy: 'DMMで詳細を見る'
   - title: '鬼滅の刃 外伝'
-url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4034843%2Fb950ushes00321%2F&af_id=DMMaria-999&ch=api'
-imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes00321/b950ushes00321pl.jpg'
-price: 480
-microCopy: 'DMMで詳細を見る'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4034843%2Fb950ushes00321%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes00321/b950ushes00321pl.jpg'
+    price: 480
+    microCopy: 'DMMで詳細を見る'
   - title: '鬼滅の刃 キメツ学園！全集中ドリル'
-url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4291852%2Fb950xshes15178%2F&af_id=DMMaria-999&ch=api'
-imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes15178/b950xshes15178pl.jpg'
-price: 1045
-microCopy: 'DMMで詳細を見る'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4291852%2Fb950xshes15178%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes15178/b950xshes15178pl.jpg'
+    price: 1045
+    microCopy: 'DMMで詳細を見る'
   - title: '鬼滅の刃公式ファンブック 鬼殺隊見聞録'
-url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F871586%2Fb950ushes02911%2F&af_id=DMMaria-999&ch=api'
-imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes02911/b950ushes02911pl.jpg'
-price: 940
-microCopy: 'DMMで詳細を見る'
-mediaType: comic
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F871586%2Fb950ushes02911%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes02911/b950ushes02911pl.jpg'
+    price: 940
+    microCopy: 'DMMで詳細を見る'
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->
@@ -44,7 +43,7 @@ The world of manga and anime has produced countless timeless masterpieces, but f
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/demon-slayer-manga-series-review-guide.jpg" alt="Demon Slayer: Kimetsu no Yaiba Manga Complete Box Set" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/demon-slayer-manga-series-review-guide-v2.jpg" alt="Demon Slayer: Kimetsu no Yaiba Manga Complete Box Set" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
