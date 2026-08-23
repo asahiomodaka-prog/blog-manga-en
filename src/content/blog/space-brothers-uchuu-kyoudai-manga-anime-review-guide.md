@@ -2,13 +2,29 @@
 title: 'Beyond the Stars: Why ''''Space Brothers'''' is a Must-Read Manga and Must-Watch'
 description: Dive into ''Space Brothers,'' the inspiring manga and anime about two
 pubDate: '2026-08-19'
-heroImage: '/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide.png'
+heroImage: '/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide.jpg'
 genre: Sci-Fi & Fantasy
 sidebarProducts:
-  - title: 'Space Brothers (Uchuu Kyoudai) Manga Series'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F104864%2Fb900alds02858%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide.png'
-    microCopy: '詳細を見る'
+  - title: '宇宙兄弟'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F104864%2Fb900alds02858%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg'
+price: 1130
+microCopy: 'DMMで詳細を見る'
+  - title: '宇宙兄弟 オールカラー版'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122292%2Fb900zkds16787%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900zkds16787/b900zkds16787pl.jpg'
+price: 946
+microCopy: 'DMMで詳細を見る'
+  - title: '宇宙兄弟 画集付き 特装版'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4060014%2Fb900wkds04319%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900wkds04319/b900wkds04319pl.jpg'
+price: 1870
+microCopy: 'DMMで詳細を見る'
+  - title: '宇宙兄弟公式コミックガイド'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4060011%2Fb900wkds04316%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900wkds04316/b900wkds04316pl.jpg'
+price: 1100
+microCopy: 'DMMで詳細を見る'
 mediaType: comic
 ---
 
@@ -32,7 +48,7 @@ As an anime critic and manga historian for Midnight Manga Vault, I've seen count
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide.png" alt="Space Brothers (Uchuu Kyoudai) Manga Series" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide.jpg" alt="Space Brothers (Uchuu Kyoudai) Manga Series" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
@@ -71,7 +87,7 @@ A live-action film adaptation was released in 2012, starring Shun Oguri as Mutta
 
 Whether you choose to read the manga, watch the anime, or both, prepare for a story that will make you laugh, cry, and perhaps even look at your own dreams with renewed determination. *Space Brothers* isn't just entertainment; it's a profound exploration of what it means to be human, to strive for greatness, and to reach for the stars, one step at a time.
 
-    
+
 
 ## Frequently Asked Questions About *Space Brothers*
 

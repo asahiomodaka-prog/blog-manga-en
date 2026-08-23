@@ -5,10 +5,26 @@ pubDate: '2026-08-20'
 heroImage: '/images/berserk-deluxe-edition-manga-review.jpg'
 genre: Action & Shonen
 sidebarProducts:
-  - title: 'Berserk Deluxe Edition'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102108%2Fb371khkss06951%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/berserk-deluxe-edition-manga-review.jpg'
-    microCopy: '詳細を見る'
+  - title: 'ベルセルク'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102108%2Fb371khkss06951%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg'
+price: 880
+microCopy: 'DMMで詳細を見る'
+  - title: '『ベルセルク』スペシャル編集版'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122781%2Fb371chkss00387%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371chkss00387/b371chkss00387pl.jpg'
+price: 1236
+microCopy: 'DMMで詳細を見る'
+  - title: '暴食のベルセルク〜俺だけレベルという概念を突破して最強〜'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6173671%2Fb389amcmg04375%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b389amcmg04375/b389amcmg04375pl.jpg'
+price: 67
+microCopy: 'DMMで詳細を見る'
+  - title: '暴食のベルセルク〜俺だけレベルという概念を突破する〜【単話版】（単話）'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F787306%2Fb389amcmg05002%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b389amcmg05002/b389amcmg05002pl.jpg'
+price: 110
+microCopy: 'DMMで詳細を見る'
 mediaType: comic
 ---
 

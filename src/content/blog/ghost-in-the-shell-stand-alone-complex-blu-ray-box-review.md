@@ -5,10 +5,26 @@ pubDate: '2026-08-20'
 heroImage: '/images/ghost-in-the-shell-stand-alone-complex-blu-ray-box-review.jpg'
 genre: Sci-Fi & Fantasy
 sidebarProducts:
-  - title: 'Ghost in the Shell: Stand Alone Complex Blu-ray Box'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_576vtzl209s%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/ghost-in-the-shell-stand-alone-complex-blu-ray-box-review.jpg'
-    microCopy: '詳細を見る'
+  - title: '攻殻機動隊'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F545067%2Fb900pkds03498%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900pkds03498/b900pkds03498pl.jpg'
+price: 2200
+microCopy: 'DMMで詳細を見る'
+  - title: '攻殻機動隊'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56622%2Fb900kkds00405%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900kkds00405/b900kkds00405pl.jpg'
+price: 1037
+microCopy: 'DMMで詳細を見る'
+  - title: '攻殻機動隊 THE HUMAN ALGORITHM'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F929303%2Fb900ckds38818%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900ckds38818/b900ckds38818pl.jpg'
+price: 1375
+microCopy: 'DMMで詳細を見る'
+  - title: '攻殻機動隊 ゴースト・イン・ザ・シェル コミックトリビュート'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F718473%2Fb900qkds02321%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900qkds02321/b900qkds02321pl.jpg'
+price: 1018
+microCopy: 'DMMで詳細を見る'
 mediaType: anime
 ---
 

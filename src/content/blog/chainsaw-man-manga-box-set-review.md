@@ -2,13 +2,29 @@
 title: 'Chainsaw Man Manga Box Set: Unleash the Devil Hunter in Style'
 description: Dive into the world of Denji with the Chainsaw Man Manga Box Set. Our
 pubDate: '2026-08-20'
-heroImage: '/images/chainsaw-man-manga-box-set-review.png'
+heroImage: '/images/chainsaw-man-manga-box-set-review.jpg'
 genre: Action & Shonen
 sidebarProducts:
-  - title: 'Chainsaw Man Manga Box Set'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F841834%2Fb950yshes29921%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/chainsaw-man-manga-box-set-review.png'
-    microCopy: '詳細を見る'
+  - title: 'チェンソーマン'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F841834%2Fb950yshes29921%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes29921/b950yshes29921pl.jpg'
+price: 543
+microCopy: 'DMMで詳細を見る'
+  - title: 'チェンソーマン カラー版'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4141628%2Fb950vshes03373%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950vshes03373/b950vshes03373pl.jpg'
+price: 569
+microCopy: 'DMMで詳細を見る'
+  - title: '地獄楽 解体新書'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4072801%2Fb950ushes05013%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes05013/b950ushes05013pl.jpg'
+price: 940
+microCopy: 'DMMで詳細を見る'
+  - title: '藤本タツキ短編集 17-21'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4113881%2Fb950vshes01038%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950vshes01038/b950vshes01038pl.jpg'
+price: 459
+microCopy: 'DMMで詳細を見る'
 mediaType: comic
 ---
 
@@ -28,7 +44,7 @@ mediaType: comic
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/chainsaw-man-manga-box-set-review.png" alt="Chainsaw Man Manga Box Set" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/chainsaw-man-manga-box-set-review.jpg" alt="Chainsaw Man Manga Box Set" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>

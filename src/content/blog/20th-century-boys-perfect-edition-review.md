@@ -5,10 +5,26 @@ pubDate: '2026-08-20'
 heroImage: '/images/20th-century-boys-perfect-edition-review.jpg'
 genre: Mystery & Suspense
 sidebarProducts:
-  - title: '20th Century Boys: The Perfect Edition'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4145303%2Fb600asgk08618%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/20th-century-boys-perfect-edition-review.jpg'
-    microCopy: '詳細を見る'
+  - title: '20世紀少年 完全版 デジタル Ver.'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4145303%2Fb600asgk08618%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg'
+price: 770
+microCopy: 'DMMで詳細を見る'
+  - title: 'あさドラ！'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4145307%2Fb600esgk03187%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600esgk03187/b600esgk03187pl.jpg'
+price: 891
+microCopy: 'DMMで詳細を見る'
+  - title: 'デメキング 完結版'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6247649%2Fb202aoota01351%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b202aoota01351/b202aoota01351pl.jpg'
+price: 1320
+microCopy: 'DMMで詳細を見る'
+  - title: '浦沢直樹 描いて描いて描きまくる'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157736%2Fb600bsgk02700%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk02700/b600bsgk02700pl.jpg'
+price: 1650
+microCopy: 'DMMで詳細を見る'
 mediaType: comic
 ---
 

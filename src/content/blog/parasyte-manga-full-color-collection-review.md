@@ -5,10 +5,26 @@ pubDate: '2026-08-20'
 heroImage: '/images/parasyte-manga-full-color-collection-review.jpg'
 genre: Sci-Fi & Fantasy
 sidebarProducts:
-  - title: 'Parasyte Manga Full Color Collection'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07299219%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/parasyte-manga-full-color-collection-review.jpg'
-    microCopy: '詳細を見る'
+  - title: '寄生獣'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102811%2Fb900dkds01941%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900dkds01941/b900dkds01941pl.jpg'
+price: 792
+microCopy: 'DMMで詳細を見る'
+  - title: 'ネオ寄生獣'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F654594%2Fb900pkds02558%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900pkds02558/b900pkds02558pl.jpg'
+price: 1012
+microCopy: 'DMMで詳細を見る'
+  - title: 'ネオ寄生獣f'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F505833%2Fb900mkds02944%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900mkds02944/b900mkds02944pl.jpg'
+price: 594
+microCopy: 'DMMで詳細を見る'
+  - title: '寄生獣リバーシ'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F811859%2Fb900wkds08942%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900wkds08942/b900wkds08942pl.jpg'
+price: 792
+microCopy: 'DMMで詳細を見る'
 mediaType: comic
 ---
 

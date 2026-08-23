@@ -2,13 +2,29 @@
 title: 'Unleash Your Inner Egoist: Diving Deep into the Blue Lock Manga Series'
 description: Discover why Blue Lock is redefining sports manga with its intense focus
 pubDate: '2026-08-20'
-heroImage: '/images/blue-lock-manga-review-ultimate-guide.png'
+heroImage: '/images/blue-lock-manga-review-ultimate-guide.jpg'
 genre: Action & Shonen
 sidebarProducts:
-  - title: 'Blue Lock Manga Series'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%96%E3%83%AB%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/blue-lock-manga-review-ultimate-guide.png'
-    microCopy: '詳細を見る'
+  - title: 'ブルーロック'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F828443%2Fb900alds09855%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900alds09855/b900alds09855pl.jpg'
+price: 594
+microCopy: 'DMMで詳細を見る'
+  - title: '灰仭巫覡'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4556230%2Fb900alds09840%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900alds09840/b900alds09840pl.jpg'
+price: 594
+microCopy: 'DMMで詳細を見る'
+  - title: '魔女と傭兵'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4498133%2Fb900alds06866%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900alds06866/b900alds06866pl.jpg'
+price: 792
+microCopy: 'DMMで詳細を見る'
+  - title: 'ダイヤのA'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F55674%2Fb900okds01747%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900okds01747/b900okds01747pl.jpg'
+price: 594
+microCopy: 'DMMで詳細を見る'
 mediaType: comic
 ---
 
@@ -28,7 +44,7 @@ The world of manga and anime has produced countless timeless masterpieces, but f
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/blue-lock-manga-review-ultimate-guide.png" alt="Blue Lock Manga Series" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/blue-lock-manga-review-ultimate-guide.jpg" alt="Blue Lock Manga Series" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>

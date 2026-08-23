@@ -5,10 +5,26 @@ pubDate: '2026-08-20'
 heroImage: '/images/one-piece-manga-box-sets-review.jpg'
 genre: Action & Shonen
 sidebarProducts:
-  - title: 'One Piece Manga Box Set (East Blue and Baroque Works)'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56869%2Fb950yshes32627%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/one-piece-manga-box-sets-review.jpg'
-    microCopy: '詳細を見る'
+  - title: 'ONE PIECE学園'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F926894%2Fb950yshes32615%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes32615/b950yshes32615pl.jpg'
+price: 572
+microCopy: 'DMMで詳細を見る'
+  - title: 'ONE PIECE カラー版'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56868%2Fb950yshes23527%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes23527/b950yshes23527pl.jpg'
+price: 611
+microCopy: 'DMMで詳細を見る'
+  - title: 'ONE PIECE モノクロ版'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56869%2Fb950yshes32627%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes32627/b950yshes32627pl.jpg'
+price: 594
+microCopy: 'DMMで詳細を見る'
+  - title: 'ONE PIECE magazine'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F753504%2Fb950xshes95830%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes95830/b950xshes95830pl.jpg'
+price: 1567
+microCopy: 'DMMで詳細を見る'
 mediaType: comic
 ---
 

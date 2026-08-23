@@ -6,9 +6,9 @@ heroImage: '/images/best-classic-90s-anime-movies-ultimate-guide.png'
 genre: Timeless Classics
 sidebarProducts:
   - title: 'Best Classic 90s Anime Movies Collection'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/best-classic-90s-anime-movies-ultimate-guide.png'
-    microCopy: '詳細を見る'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api'
+imageUrl: '/images/best-classic-90s-anime-movies-ultimate-guide.png'
+microCopy: '詳細を見る'
 mediaType: anime
 ---
 

@@ -6,9 +6,9 @@ heroImage: '/images/unearthing-gems-classic-retro-anime-worth-watching.png'
 genre: Timeless Classics
 sidebarProducts:
   - title: 'Classic Retro Anime Collection'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260601387%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/unearthing-gems-classic-retro-anime-worth-watching.png'
-    microCopy: '詳細を見る'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260601387%2F&af_id=DMMaria-999&ch=api'
+imageUrl: '/images/unearthing-gems-classic-retro-anime-worth-watching.png'
+microCopy: '詳細を見る'
 mediaType: anime
 ---
 

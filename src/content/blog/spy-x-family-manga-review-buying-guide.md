@@ -6,10 +6,25 @@ heroImage: '/images/spy-x-family-manga-review-buying-guide.jpg'
 genre: 'Action & Shonen'
 sidebarProducts:
   - title: 'SPY×FAMILY'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F645600%2Fb950yshes21535%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes21535/b950yshes21535pl.jpg'
-    price: 528
-    microCopy: 'DMMで詳細を見る'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F866195%2Fb950yshes21535%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes21535/b950yshes21535pl.jpg'
+price: 606
+microCopy: 'DMMで詳細を見る'
+  - title: 'SPY×FAMILY カラー版'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4086903%2Fb950vshes01824%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950vshes01824/b950vshes01824pl.jpg'
+price: 611
+microCopy: 'DMMで詳細を見る'
+  - title: 'SPY×FAMILY 公式ファンブック EYES ONLY'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4172358%2Fb950vshes07328%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950vshes07328/b950vshes07328pl.jpg'
+price: 836
+microCopy: 'DMMで詳細を見る'
+  - title: 'カナカナ'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4043447%2Fb600dsgk30417%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600dsgk30417/b600dsgk30417pl.jpg'
+price: 693
+microCopy: 'DMMで詳細を見る'
 mediaType: 'comic'
 ---
 

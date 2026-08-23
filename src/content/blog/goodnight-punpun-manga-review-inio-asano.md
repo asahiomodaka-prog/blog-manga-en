@@ -1,14 +1,20 @@
 ---
 title: 'Goodnight Punpun: A Journey Through the Human Psyche'
-description: Dive deep into Inio Asano''s critically acclaimed manga, Goodnight Punpun.
+description: 'Dive deep into Inio Asano''s critically acclaimed manga, Goodnight Punpun. An emotional and raw psychological journey.'
 pubDate: '2026-08-20'
 heroImage: '/images/goodnight-punpun-manga-review-inio-asano.png'
-genre: Timeless Classics
+genre: 'Timeless Classics'
 sidebarProducts:
-  - title: 'Goodnight Punpun by Inio Asano'
+  - title: 'おやすみプンプン'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F105280%2Fb600osgk04937%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/goodnight-punpun-manga-review-inio-asano.png'
-    microCopy: '詳細を見る'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600osgk04937/b600osgk04937pl.jpg'
+    price: 869
+    microCopy: 'DMMで詳細を見る'
+  - title: 'デッドデッドデーモンズデデデデデストラクション'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F300273%2Fb600bsgk04394%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk04394/b600bsgk04394pl.jpg'
+    price: 858
+    microCopy: 'DMMで詳細を見る'
 mediaType: comic
 ---
 

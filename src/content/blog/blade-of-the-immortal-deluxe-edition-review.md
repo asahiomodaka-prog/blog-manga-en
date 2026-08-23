@@ -2,13 +2,29 @@
 title: 'Blade of the Immortal Deluxe Edition: A Masterpiece Reborn in Stunning Hardcover'
 description: Dive into our in-depth review of Blade of the Immortal Deluxe Edition.
 pubDate: '2026-08-20'
-heroImage: '/images/blade-of-the-immortal-deluxe-edition-review.png'
+heroImage: '/images/blade-of-the-immortal-deluxe-edition-review.jpg'
 genre: Action & Shonen
 sidebarProducts:
-  - title: 'Blade of the Immortal Deluxe Edition'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07382441%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/blade-of-the-immortal-deluxe-edition-review.png'
-    microCopy: '詳細を見る'
+  - title: '無限の住人'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122235%2Fb900kkds00166%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900kkds00166/b900kkds00166pl.jpg'
+price: 792
+microCopy: 'DMMで詳細を見る'
+  - title: '無限の住人 超合本版'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F821089%2Fb900skds03468%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900skds03468/b900skds03468pl.jpg'
+price: 3960
+microCopy: 'DMMで詳細を見る'
+  - title: '無限の住人〜幕末ノ章〜'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F895798%2Fb900bkds88264%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900bkds88264/b900bkds88264pl.jpg'
+price: 880
+microCopy: 'DMMで詳細を見る'
+  - title: 'ベアゲルター'
+url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F57519%2Fb900bkds50736%2F&af_id=DMMaria-999&ch=api'
+imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900bkds50736/b900bkds50736pl.jpg'
+price: 792
+microCopy: 'DMMで詳細を見る'
 mediaType: comic
 ---
 
@@ -28,7 +44,7 @@ The world of manga and anime has produced countless timeless masterpieces, but f
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/blade-of-the-immortal-deluxe-edition-review.png" alt="Blade of the Immortal Deluxe Edition" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/blade-of-the-immortal-deluxe-edition-review.jpg" alt="Blade of the Immortal Deluxe Edition" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
