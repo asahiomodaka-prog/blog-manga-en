@@ -961,6 +961,11 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							)}
 							<h1>{title}</h1>
 						</div>
+						{heroImage && (
+							<div class="hero-image">
+								<img src={heroImage} alt={title} loading="eager" />
+							</div>
+						)}
 						<slot />
 						{pubDate && (
 							<div class="post-end-date">
