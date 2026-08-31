@@ -7,6 +7,10 @@ genre: 'Timeless Classics'
 mediaType: 'comic'
 ---
 
+
+
+
+
 <!-- Disclosure: This page contains affiliate links. -->
 
 # Unearthing Hidden Gems: Your Guide to Underrated Manga [Masterpiece](/blog/berserk-deluxe-edition-manga-review/)s

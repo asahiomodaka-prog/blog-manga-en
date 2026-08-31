@@ -7,6 +7,10 @@ genre: 'Timeless Classics'
 mediaType: 'anime'
 ---
 
+
+
+
+
 <!-- Disclosure: This page contains affiliate links. -->
 
 # Rewind to Glory: Your [Essential](/blog/best-seinen-manga-of-all-time/) Collector's Guide to the Best 90s Anime Movies
