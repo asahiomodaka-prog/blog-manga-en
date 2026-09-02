@@ -181,7 +181,7 @@ Given its immense popularity, *Attack on Titan* manga box sets are widely availa
 </div>
 </div>
 
-## Final Verdict: Enlist in the Survey Corps (of Collectors)! 
+## Final Verdict: Enlist in the Survey Corps (of Collectors)!
 
 *Attack on Titan* isn't just a manga; it's a cultural phenomenon that challenged readers, provoked thought, and delivered an unforgettable narrative experience. The *Attack on Titan Manga Box Set* offers the perfect way to own this masterpiece.
 
