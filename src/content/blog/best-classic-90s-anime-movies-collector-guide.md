@@ -7,35 +7,43 @@ genre: 'Timeless Classics'
 mediaType: 'anime'
 ---
 
-
-
-
-
 <!-- Disclosure: This page contains affiliate links. -->
 
-# Rewind to Glory: Your [Essential](/blog/best-seinen-manga-of-all-time/) Collector's Guide to the Best 90s Anime Movies
-
-Hey, fellow anime enthusiasts! If you're anything like me, there's a special place in your heart (and probably on your shelf) for the anime films that defined a generation. The 1990s was a truly magical era for anime cinema, a time when groundbreaking animation, ambitious storytelling, and visionary directors converged to create masterpieces that continue to resonate today. From philosophical sci-fi epics to enchanting fantasy adventures and mind-bending psychological thrillers, the best classic 90s anime movies weren't just entertainment; they were cultural touchstones.
-
-This isn't just a list; it's a deep dive into why these films matter, what makes them classics, and what you, as a collector, should look for when adding them to your esteemed vault. We're talking about the definitive editions, the hidden gems, and the absolute must-haves that tell the story of a decade that changed anime forever. So, grab your popcorn, clear some shelf space, and let's journey back to the golden age of 90s anime!
+<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
+<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #0f172a; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 Key Takeaways & Quick Verdict</div>
+<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #334155; line-height: 1.65;">
+<li style="margin-bottom: 6px;"><strong>Core Appeal</strong>: Definitive storytelling and breathtaking illustration sequences delivered in oversized format.</li>
+<li style="margin-bottom: 6px;"><strong>Target Reader</strong>: Essential for manga collectors and readers who value rich, mature narrative themes and durable physical editions.</li>
+<li><strong>Collector's Note</strong>: Deluxe releases feature archival-quality paper, restored line art, and exclusive color galleries.</li>
+</ul>
+</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/best-classic-90s-anime-movies-collector-guide.png" alt="Best Classic 90s Anime Movies" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/best-classic-90s-anime-movies-collector-guide.png" alt="Rewind to Glory Your Essential Collector s" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe [Hardcover](/blog/blade-of-the-immortal-deluxe-edition-review/) / Box Set</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Best Classic 90s Anime Movies</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>Dive into the golden age of anime cinema! This guide explores the best classic 90s anime movies, offering insights and collector tips.</p>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(135px, 1fr)); gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.com/s?k=Best%20Classic%2090s%20Anime%20Movies&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon (US/Global)</a>
-<a href="https://www.amazon.co.jp/s?k=Best%20Classic%2090s%20Anime%20Movies" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important;">🇯🇵 Amazon JP (Import)</a>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Rewind to Glory Your Essential Collector s</h4>
+
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://www.amazon.com/s?k=Rewind%20to%20Glory%20Your%20Essential%20Collector%20s&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon US (Physical / Box Set)</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
+<a href="https://www.amazon.com/s?k=Rewind%20to%20Glory%20Your%20Essential%20Collector%20s+Kindle&i=digital-text&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book</a>
+<a href="https://global.bookwalker.jp/search/?word=Rewind%20to%20Glory%20Your%20Essential%20Collector%20s" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important;">📘 BOOK☆WALKER Global</a>
 </div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices and availability are subject to change on merchant sites.</div>
 </div>
 </div>
 </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, formats, and availability are subject to change on merchant sites.</div>
+</div>
+
+## Rewind to Glory: Your Essential Collector's Guide to the Best 90s Anime Movies
+
+Hey, fellow anime enthusiasts! If you're anything like me, there's a special place in your heart (and probably on your shelf) for the anime films that defined a generation. The 1990s was a truly magical era for anime cinema, a time when groundbreaking animation, ambitious storytelling, and visionary directors converged to create masterpieces that continue to resonate today. From philosophical sci-fi epics to enchanting fantasy adventures and mind-bending psychological thrillers, the best classic 90s anime movies weren't just entertainment; they were cultural touchstones.
+
+This isn't just a list; it's a deep dive into why these films matter, what makes them classics, and what you, as a collector, should look for when adding them to your esteemed vault. We're talking about the definitive editions, the hidden gems, and the absolute must-haves that tell the story of a decade that changed anime forever. So, grab your popcorn, clear some shelf space, and let's journey back to the golden age of 90s anime!
 
 ## Why the 90s Was a Golden Age for Anime Cinema
 
@@ -44,6 +52,18 @@ Before we jump into the specific titles, let's take a moment to appreciate *why*
 On the technical front, animators had mastered cel animation to an incredible degree, pushing its limits with fluid motion, intricate detail, and breathtaking effects before the full transition to digital. This meant every frame was often a painstakingly crafted work of art. Directors like Mamoru Oshii, Hayao Miyazaki, Satoshi Kon, and Hideaki Anno were at the peak of their creative powers, unafraid to tackle complex themes – identity, environmentalism, the nature of reality, war, and the human psyche – with nuance and sophistication.
 
 Furthermore, the 90s saw anime begin its significant expansion beyond Japan, especially in the West. Films like *Akira* (an 80s film, but its influence undeniably exploded in the 90s) and *Ghost in the Shell* became gateway drugs for countless fans, proving that animation wasn't just for kids. This growing global interest also meant more resources and attention were being poured into cinematic productions, allowing for bigger budgets and even grander visions. It was a time of fearless experimentation and unparalleled artistry, leaving us with a legacy of films that are not just good, but truly timeless.
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📚 Top-Rated Manga Deluxe Editions & Box Sets</h3>
+<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">[Amazon US / Global Collector's Selection]</div>
+<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">Discover oversized collector hardcover editions and complete story arc box sets with exclusive art and bonus materials.</p>
+<div style="text-align: center;">
+<a href="https://www.amazon.com/s?k=Manga+Deluxe+Edition+Box+Set&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+👉 Browse Manga Deluxe Editions on Amazon
+</a>
+</div>
+</div>
 
 ## The Essential Classics: Your Collector's Checklist
 
@@ -57,7 +77,7 @@ When you talk about influential 90s anime, Mamoru Oshii's *Ghost in the Shell* i
 
 **Collector's Notes:** For collectors, the best way to experience *Ghost in the Shell* is often on Blu-ray or 4K Ultra HD. The **25th Anniversary Edition Blu-ray** and **4K UHD Blu-ray** releases are generally excellent, offering crisp visuals and immersive audio. Look for versions that include both the original Japanese audio with subtitles and the critically acclaimed English dub. Some editions also come with insightful special features like behind-the-scenes documentaries and director's commentaries.
 
-*   You can often find various editions of *Ghost in the Shell* on [Amazon (US/Global)](https://www.amazon.com/s?k=Ghost+in+the+Shell+1995+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.co.jp/s?k=Ghost+in+the+Shell+Blu-ray). Keep an eye out for steelbook versions if you're into premium packaging!
+*   You can often find various editions of *Ghost in the Shell* on [Amazon (US/Global)](https://www.amazon.com/s?k=Ghost+in+the+Shell+1995+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.com/s?k=Ghost%2Bin%2Bthe%2BShell%2BBlu-ray&tag=otakuen-20). Keep an eye out for steelbook versions if you're into premium packaging!
 
 ### Princess Mononoke (1997)
 
@@ -67,7 +87,7 @@ No discussion of classic 90s anime would be complete without Studio Ghibli, and 
 
 **Collector's Notes:** Studio Ghibli films are generally well-preserved and widely available. The **GKIDS Blu-ray and 4K UHD editions** of *Princess Mononoke* are highly recommended for their excellent transfers, often including both the original Japanese audio and the superb English dub (featuring Claire Danes, Gillian Anderson, and Billy Bob Thornton). These usually come with a wealth of bonus content, including storyboards, original trailers, and "The Making of Princess Mononoke."
 
-*   These beautiful releases are readily available on [Amazon (US/Global)](https://www.amazon.com/s?k=Princess+Mononoke+Blu-ray&tag=otakuen-20) and [Amazon JP](https://www.amazon.co.jp/s?k=Princess+Mononoke+Blu-ray). For those who appreciate the physical art, some editions include collectible art cards or booklets.
+*   These beautiful releases are readily available on [Amazon (US/Global)](https://www.amazon.com/s?k=Princess+Mononoke+Blu-ray&tag=otakuen-20) and [Amazon JP](https://www.amazon.com/s?k=Princess%2BMononoke%2BBlu-ray&tag=otakuen-20). For those who appreciate the physical art, some editions include collectible art cards or booklets.
 
 ### Perfect Blue (1997)
 
@@ -77,7 +97,7 @@ From the brilliant mind of Satoshi Kon, *Perfect Blue* is a psychological thrill
 
 **Collector's Notes:** Given its cult status, *Perfect Blue* has seen several releases. The **Shout! Factory Collector's Edition Blu-ray** is often considered the definitive English-language release, boasting a stunning high-definition transfer, both English and Japanese audio, and a host of special features, including interviews with Satoshi Kon and cast members. Earlier DVD releases might be harder to find in good quality, so Blu-ray is definitely the way to go here.
 
-*   Seek out the best editions on [Amazon (US/Global)](https://www.amazon.com/s?k=Perfect+Blue+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.co.jp/s?k=Perfect+Blue+Blu-ray). This is one film where a good transfer really enhances the experience of its visual trickery.
+*   Seek out the best editions on [Amazon (US/Global)](https://www.amazon.com/s?k=Perfect+Blue+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.com/s?k=Perfect%2BBlue%2BBlu-ray&tag=otakuen-20). This is one film where a good transfer really enhances the experience of its visual trickery.
 
 ### The End of Evangelion (1997)
 
@@ -87,7 +107,7 @@ If you've ever delved into the world of *Neon Genesis Evangelion*, you know it's
 
 **Collector's Notes:** For a long time, *The End of Evangelion* was difficult to acquire in high-quality formats outside of Japan. Thankfully, **GKIDS and Funimation** have released excellent Blu-ray editions as part of the larger *Neon Genesis Evangelion* collections. Look for the **[Ultimate](/blog/best-classic-90s-anime-movies-ultimate-guide/) Edition** or **Collector's Edition** sets that include the film alongside the TV series and *Death(true)²*. These usually offer newly remastered visuals, the original Japanese audio, and a new English dub.
 
-*   You can find these comprehensive sets on [Amazon (US/Global)](https://www.amazon.com/s?k=Neon+Genesis+Evangelion+Ultimate+Edition+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.co.jp/s?k=Neon+Genesis+Evangelion+Blu-ray). Given the importance of the visuals and sound, a high-quality release is non-negotiable for this film.
+*   You can find these comprehensive sets on [Amazon (US/Global)](https://www.amazon.com/s?k=Neon+Genesis+Evangelion+Ultimate+Edition+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.com/s?k=Neon%2BGenesis%2BEvangelion%2BBlu-ray&tag=otakuen-20). Given the importance of the visuals and sound, a high-quality release is non-negotiable for this film.
 
 ### Memories (1995)
 
@@ -97,7 +117,7 @@ An often-overlooked gem, *Memories* is an anthology film produced by Katsuhiro O
 
 **Collector's Notes:** *Memories* has had a few releases over the years. The **Discotek Media Blu-ray** is highly regarded for its excellent video transfer and inclusion of both English and Japanese audio tracks, along with bonus features like original trailers and interviews. This is one of those films that sometimes goes out of print, so if you see a good edition, grab it!
 
-*   Keep an eye out for *Memories* on [Amazon (US/Global)](https://www.amazon.com/s?k=Memories+Anime+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.co.jp/s?k=MEMORIES+Blu-ray). It’s a fantastic package for those who appreciate diverse storytelling within a single film.
+*   Keep an eye out for *Memories* on [Amazon (US/Global)](https://www.amazon.com/s?k=Memories+Anime+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.com/s?k=MEMORIES%2BBlu-ray&tag=otakuen-20). It’s a fantastic package for those who appreciate diverse storytelling within a single film.
 
 ### Patlabor 2: The Movie (1993)
 
@@ -107,7 +127,7 @@ Mamoru Oshii's second *Patlabor* film is a profound leap from its predecessor, t
 
 **Collector's Notes:** For the best presentation, look for the **Sentai Filmworks Blu-ray** release of *Patlabor 2: The Movie*. These editions typically offer a high-definition transfer, both the original Japanese audio and a solid English dub, and often include interviews or production art. It’s a film that benefits greatly from being seen in high fidelity to appreciate its detailed art and subtle direction.
 
-*   You can find this essential piece of 90s anime cinema on [Amazon (US/Global)](https://www.amazon.com/s?k=Patlabor+2+The+Movie+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.co.jp/s?k=Patlabor+2+The+Movie+Blu-ray). Don't let its slower pace deter you; it's an incredibly rewarding watch.
+*   You can find this essential piece of 90s anime cinema on [Amazon (US/Global)](https://www.amazon.com/s?k=Patlabor+2+The+Movie+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.com/s?k=Patlabor%2B2%2BThe%2BMovie%2BBlu-ray&tag=otakuen-20). Don't let its slower pace deter you; it's an incredibly rewarding watch.
 
 ## Your Collector's Buying Guide: Tips for the Hunt
 
@@ -117,23 +137,45 @@ Beyond specific titles, here are some general tips for building your collection 
 *   **Original vs. Remastered:** Many classic films have received gorgeous remasters for Blu-ray and 4K UHD. While purists might debate the changes, these often offer the best visual and audio experience. Always check reviews for transfer quality.
 *   **Dub vs. Sub:** Most modern releases offer both original Japanese audio with subtitles and an English dub. Some 90s dubs are legendary (e.g., *Ghost in the Shell*, *Princess Mononoke*), while others are best avoided. Personal preference reigns, but having both options is ideal.
 *   **Special Features:** Collector's editions often come packed with behind-the-scenes documentaries, interviews, storyboards, art books, and commentaries. These can offer invaluable insights into the production and impact of these films.
-*   **Retailers:** While [Amazon (US/Global)](https://www.amazon.com/) and [Amazon JP](https://www.amazon.co.jp/) are excellent starting points for new releases, don't forget to check specialty retailers like Right Stuf Anime, Shout! Factory, and Discotek Media's direct stores. For Japanese imports, DMM.com (specifically DMM Japan) can sometimes offer unique editions or better pricing on certain items, especially for digital content or Japanese-specific physical media that might not make it to Amazon's global storefronts.
+*   **Retailers:** While [Amazon (US/Global)](https://www.amazon.com/?tag=otakuen-20) and [Amazon JP](https://www.amazon.co.jp/) are excellent starting points for new releases, don't forget to check specialty retailers like Right Stuf Anime, Shout! Factory, and Discotek Media's direct stores. For Japanese imports, DMM.com (specifically DMM Japan) can sometimes offer unique editions or better pricing on certain items, especially for digital content or Japanese-specific physical media that might not make it to Amazon's global storefronts.
 *   **Used Market:** eBay, Mercari, and local used media stores can be treasure troves for rare or out-of-print editions. Always check seller ratings and product conditions carefully.
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/best-classic-90s-anime-movies-collector-guide.png" alt="Best Classic 90s Anime Movies" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/best-classic-90s-anime-movies-collector-guide.png" alt="Rewind to Glory Your Essential Collector s" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Best Classic 90s Anime Movies</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>Dive into the golden age of anime cinema! This guide explores the best classic 90s anime movies, offering insights and collector tips.</p>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(135px, 1fr)); gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.com/s?k=Best%20Classic%2090s%20Anime%20Movies&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon (US/Global)</a>
-<a href="https://www.amazon.co.jp/s?k=Best%20Classic%2090s%20Anime%20Movies" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important;">🇯🇵 Amazon JP (Import)</a>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Rewind to Glory Your Essential Collector s</h4>
+
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://www.amazon.com/s?k=Rewind%20to%20Glory%20Your%20Essential%20Collector%20s&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon US (Physical / Box Set)</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
+<a href="https://www.amazon.com/s?k=Rewind%20to%20Glory%20Your%20Essential%20Collector%20s+Kindle&i=digital-text&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book</a>
+<a href="https://global.bookwalker.jp/search/?word=Rewind%20to%20Glory%20Your%20Essential%20Collector%20s" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important;">📘 BOOK☆WALKER Global</a>
 </div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices and availability are subject to change on merchant sites.</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, formats, and availability are subject to change on merchant sites.</div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 Recommended Related Collections & Items</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Deluxe Hardcover Manga Editions</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Premium oversized editions with restored artwork</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://www.amazon.com/s?k=Deluxe+Edition+Manga&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon</a>
+</div>
+</div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Complete Manga Box Sets</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Collectible box sets containing full story arcs</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://www.amazon.com/s?k=Manga+Box+Set+Complete&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon</a>
+</div>
 </div>
 </div>
 </div>

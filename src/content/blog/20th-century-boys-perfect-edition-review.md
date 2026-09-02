@@ -6,30 +6,26 @@ heroImage: '/images/20th-century-boys-perfect-edition-review-v2.jpg'
 genre: Mystery & Suspense
 sidebarProducts:
   - title: '20世紀少年 完全版 デジタル Ver.'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4145303%2Fb600asgk08618%2F&af_id=DMMaria-999&ch=api'
+    url: 'https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg'
     price: 770
-    microCopy: 'DMMで詳細を見る'
+    microCopy: 'Read on BOOK☆WALKER Global'
   - title: 'あさドラ！'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4145307%2Fb600esgk03187%2F&af_id=DMMaria-999&ch=api'
+    url: 'https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600esgk03187/b600esgk03187pl.jpg'
     price: 891
-    microCopy: 'DMMで詳細を見る'
+    microCopy: 'Read on BOOK☆WALKER Global'
   - title: 'デメキング 完結版'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6247649%2Fb202aoota01351%2F&af_id=DMMaria-999&ch=api'
+    url: 'https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b202aoota01351/b202aoota01351pl.jpg'
     price: 1320
-    microCopy: 'DMMで詳細を見る'
+    microCopy: 'Read on BOOK☆WALKER Global'
   - title: '浦沢直樹 描いて描いて描きまくる'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157736%2Fb600bsgk02700%2F&af_id=DMMaria-999&ch=api'
+    url: 'https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk02700/b600bsgk02700pl.jpg'
     price: 1650
-    microCopy: 'DMMで詳細を見る'
+    microCopy: 'Read on BOOK☆WALKER Global'
 ---
-
-
-
-
 
 <!-- Disclosure: This page contains affiliate links. -->
 
@@ -47,19 +43,22 @@ The world of manga and anime has produced countless timeless masterpieces, but f
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg" alt="20th Century Boys The Perfect Edition" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/20th-century-boys-perfect-edition-review-v2.jpg" alt="20th Century Boys" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">20th Century Boys The Perfect Edition</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>20th Century Boys: The Perfect Edition review and specs.</p>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">20th Century Boys</h4>
+
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.com/s?k=20th%20Century%20Boys%20The%20Perfect%20Edition&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon (US / Global)</a>
-<a href="https://www.amazon.co.jp/s?k=20th%20Century%20Boys%20The%20Perfect%20Edition" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #232f3e, #131921); color: #ffffff !important;">🇯🇵 Amazon JP (Direct Import)</a>
+<a href="https://www.amazon.com/s?k=20th%20Century%20Boys&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon US (Physical / Box Set)</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
+<a href="https://www.amazon.com/s?k=20th%20Century%20Boys+Kindle&i=digital-text&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book</a>
+<a href="https://global.bookwalker.jp/search/?word=20th%20Century%20Boys" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important;">📘 BOOK☆WALKER Global</a>
 </div>
 </div>
 </div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices and availability are subject to change on merchant sites.</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, formats, and availability are subject to change on merchant sites.</div>
 </div>
 
 ## Narrative Depth and Thematic Impact
@@ -67,6 +66,46 @@ The world of manga and anime has produced countless timeless masterpieces, but f
 Beyond the impressive visuals, the enduring legacy of this work lies in its willingness to tackle complex philosophical themes—identity, morality, resilience, and the human condition. The dialogue is sharp, thought-provoking, and emotionally resonant.
 
 Readers who appreciate mature narratives with real consequences will find themselves thoroughly absorbed in the evolving dynamics between key characters.
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="/images/20th-century-boys-perfect-edition-review-v2.jpg" alt="20th Century Boys" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">20th Century Boys</h4>
+
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://www.amazon.com/s?k=20th%20Century%20Boys&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon US (Physical / Box Set)</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
+<a href="https://www.amazon.com/s?k=20th%20Century%20Boys+Kindle&i=digital-text&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book</a>
+<a href="https://global.bookwalker.jp/search/?word=20th%20Century%20Boys" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important;">📘 BOOK☆WALKER Global</a>
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, formats, and availability are subject to change on merchant sites.</div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 Recommended Related Collections & Items</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Deluxe Hardcover Manga Editions</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Premium oversized editions with restored artwork</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://www.amazon.com/s?k=Deluxe+Edition+Manga&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon</a>
+</div>
+</div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Complete Manga Box Sets</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Collectible box sets containing full story arcs</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://www.amazon.com/s?k=Manga+Box+Set+Complete&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon</a>
+</div>
+</div>
+</div>
+</div>
 
 ## Final Verdict & Recommendation
 
