@@ -8,4 +8,4 @@ export const SITE_DESCRIPTION = 'Your ultimate late-night archive for classic ma
 export const PUBLIC_GA_TRACKING_ID = import.meta.env.PUBLIC_GA_TRACKING_ID || 'G-816JM7MHWD';
 
 // Contact Form URL
-export const CONTACT_FORM_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSf2wBnCIDZOw0FxDBxDg31VEdiQA_Hcw-pKhhm0pG86E3tQnQ/viewform?embedded=true';
+export const CONTACT_FORM_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSdhkSzdMBabHpEAyjDATw9upFlN8phYGUZz9W7VtYXg66biKw/viewform?embedded=true';
