@@ -18,10 +18,6 @@ mediaType: 'anime'
 </ul>
 </div>
 
-</div>
-</div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, formats, and availability are subject to change on merchant sites.</div>
-</div>
 
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -34,9 +30,9 @@ mediaType: 'anime'
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Best Classic 90S Anime Movies Collector Guide</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBest%2520Classic%252090S%2520Anime%2520Movies%2520Collector%2520Guide%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
+<a href="https://www.amazon.co.jp/s?k=Best Classic 90S Anime Movies Collector Guide&language=en_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBest%2520Classic%252090S%2520Anime%2520Movies%2520Collector%2520Guide%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
+<a href="https://www.amazon.co.jp/s?k=Best Classic 90S Anime Movies Collector Guide+English+Edition&i=digital-text&language=en_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBest%20Classic%2090S%20Anime%20Movies%20Collector%20Guide%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DBest%20Classic%2090S%20Anime%20Movies%20Collector%20Guide&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
 </div>
@@ -68,7 +64,7 @@ Furthermore, the 90s saw anime begin its significant expansion beyond Japan, esp
 <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">[Amazon Japan & Kindle English Editions]</div>
 <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">Discover authentic collector's editions, artbooks, and official English Kindle translations delivered instantly or shipped worldwide with expedited delivery.</p>
 <div style="text-align: center;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DManga%2520Deluxe%2520Edition%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+<a href="https://www.amazon.co.jp/s?k=Manga Deluxe Edition+English+Edition&i=digital-text&language=en_US" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 Browse English Manga & Collector Sets on Amazon
 </a>
 </div>
@@ -87,7 +83,7 @@ When you talk about influential 90s anime, Mamoru Oshii's *Ghost in the Shell* i
 
 **Collector's Notes:** For collectors, the best way to experience *Ghost in the Shell* is often on Blu-ray or 4K Ultra HD. The **25th Anniversary Edition Blu-ray** and **4K UHD Blu-ray** releases are generally excellent, offering crisp visuals and immersive audio. Look for versions that include both the original Japanese audio with subtitles and the critically acclaimed English dub. Some editions also come with insightful special features like behind-the-scenes documentaries and director's commentaries.
 
-*   You can often find various editions of *Ghost in the Shell* on [Amazon (US/Global)](https://www.amazon.com/s?k=Ghost+in+the+Shell+1995+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.com/s?k=Ghost%2Bin%2Bthe%2BShell%2BBlu-ray&tag=otakuen-20). Keep an eye out for steelbook versions if you're into premium packaging!
+*   You can often find various editions of *Ghost in the Shell* on [Amazon (US/Global)](https://www.amazon.co.jp/s?k=Ghost+in+the+Shell+1995+Blu-ray&language=en_US or [Amazon JP](https://www.amazon.co.jp/s?k=Ghost%2Bin%2Bthe%2BShell%2BBlu-ray&language=en_US Keep an eye out for steelbook versions if you're into premium packaging!
 
 ### Princess Mononoke (1997)
 
@@ -97,7 +93,7 @@ No discussion of classic 90s anime would be complete without Studio Ghibli, and 
 
 **Collector's Notes:** Studio Ghibli films are generally well-preserved and widely available. The **GKIDS Blu-ray and 4K UHD editions** of *Princess Mononoke* are highly recommended for their excellent transfers, often including both the original Japanese audio and the superb English dub (featuring Claire Danes, Gillian Anderson, and Billy Bob Thornton). These usually come with a wealth of bonus content, including storyboards, original trailers, and "The Making of Princess Mononoke."
 
-*   These beautiful releases are readily available on [Amazon (US/Global)](https://www.amazon.com/s?k=Princess+Mononoke+Blu-ray&tag=otakuen-20) and [Amazon JP](https://www.amazon.com/s?k=Princess%2BMononoke%2BBlu-ray&tag=otakuen-20). For those who appreciate the physical art, some editions include collectible art cards or booklets.
+*   These beautiful releases are readily available on [Amazon (US/Global)](https://www.amazon.co.jp/s?k=Princess+Mononoke+Blu-ray&language=en_US and [Amazon JP](https://www.amazon.co.jp/s?k=Princess%2BMononoke%2BBlu-ray&language=en_US For those who appreciate the physical art, some editions include collectible art cards or booklets.
 
 ### Perfect Blue (1997)
 
@@ -107,7 +103,7 @@ From the brilliant mind of Satoshi Kon, *Perfect Blue* is a psychological thrill
 
 **Collector's Notes:** Given its cult status, *Perfect Blue* has seen several releases. The **Shout! Factory Collector's Edition Blu-ray** is often considered the definitive English-language release, boasting a stunning high-definition transfer, both English and Japanese audio, and a host of special features, including interviews with Satoshi Kon and cast members. Earlier DVD releases might be harder to find in good quality, so Blu-ray is definitely the way to go here.
 
-*   Seek out the best editions on [Amazon (US/Global)](https://www.amazon.com/s?k=Perfect+Blue+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.com/s?k=Perfect%2BBlue%2BBlu-ray&tag=otakuen-20). This is one film where a good transfer really enhances the experience of its visual trickery.
+*   Seek out the best editions on [Amazon (US/Global)](https://www.amazon.co.jp/s?k=Perfect+Blue+Blu-ray&language=en_US or [Amazon JP](https://www.amazon.co.jp/s?k=Perfect%2BBlue%2BBlu-ray&language=en_US This is one film where a good transfer really enhances the experience of its visual trickery.
 
 ### The End of Evangelion (1997)
 
@@ -117,7 +113,7 @@ If you've ever delved into the world of *Neon Genesis Evangelion*, you know it's
 
 **Collector's Notes:** For a long time, *The End of Evangelion* was difficult to acquire in high-quality formats outside of Japan. Thankfully, **GKIDS and Funimation** have released excellent Blu-ray editions as part of the larger *Neon Genesis Evangelion* collections. Look for the **[Ultimate](/blog/best-classic-90s-anime-movies-ultimate-guide/) Edition** or **Collector's Edition** sets that include the film alongside the TV series and *Death(true)²*. These usually offer newly remastered visuals, the original Japanese audio, and a new English dub.
 
-*   You can find these comprehensive sets on [Amazon (US/Global)](https://www.amazon.com/s?k=Neon+Genesis+Evangelion+Ultimate+Edition+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.com/s?k=Neon%2BGenesis%2BEvangelion%2BBlu-ray&tag=otakuen-20). Given the importance of the visuals and sound, a high-quality release is non-negotiable for this film.
+*   You can find these comprehensive sets on [Amazon (US/Global)](https://www.amazon.co.jp/s?k=Neon+Genesis+Evangelion+Ultimate+Edition+Blu-ray&language=en_US or [Amazon JP](https://www.amazon.co.jp/s?k=Neon%2BGenesis%2BEvangelion%2BBlu-ray&language=en_US Given the importance of the visuals and sound, a high-quality release is non-negotiable for this film.
 
 ### Memories (1995)
 
@@ -127,7 +123,7 @@ An often-overlooked gem, *Memories* is an anthology film produced by Katsuhiro O
 
 **Collector's Notes:** *Memories* has had a few releases over the years. The **Discotek Media Blu-ray** is highly regarded for its excellent video transfer and inclusion of both English and Japanese audio tracks, along with bonus features like original trailers and interviews. This is one of those films that sometimes goes out of print, so if you see a good edition, grab it!
 
-*   Keep an eye out for *Memories* on [Amazon (US/Global)](https://www.amazon.com/s?k=Memories+Anime+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.com/s?k=MEMORIES%2BBlu-ray&tag=otakuen-20). It’s a fantastic package for those who appreciate diverse storytelling within a single film.
+*   Keep an eye out for *Memories* on [Amazon (US/Global)](https://www.amazon.co.jp/s?k=Memories+Anime+Blu-ray&language=en_US or [Amazon JP](https://www.amazon.co.jp/s?k=MEMORIES%2BBlu-ray&language=en_US It’s a fantastic package for those who appreciate diverse storytelling within a single film.
 
 ### Patlabor 2: The Movie (1993)
 
@@ -137,7 +133,7 @@ Mamoru Oshii's second *Patlabor* film is a profound leap from its predecessor, t
 
 **Collector's Notes:** For the best presentation, look for the **Sentai Filmworks Blu-ray** release of *Patlabor 2: The Movie*. These editions typically offer a high-definition transfer, both the original Japanese audio and a solid English dub, and often include interviews or production art. It’s a film that benefits greatly from being seen in high fidelity to appreciate its detailed art and subtle direction.
 
-*   You can find this essential piece of 90s anime cinema on [Amazon (US/Global)](https://www.amazon.com/s?k=Patlabor+2+The+Movie+Blu-ray&tag=otakuen-20) or [Amazon JP](https://www.amazon.com/s?k=Patlabor%2B2%2BThe%2BMovie%2BBlu-ray&tag=otakuen-20). Don't let its slower pace deter you; it's an incredibly rewarding watch.
+*   You can find this essential piece of 90s anime cinema on [Amazon (US/Global)](https://www.amazon.co.jp/s?k=Patlabor+2+The+Movie+Blu-ray&language=en_US or [Amazon JP](https://www.amazon.co.jp/s?k=Patlabor%2B2%2BThe%2BMovie%2BBlu-ray&language=en_US Don't let its slower pace deter you; it's an incredibly rewarding watch.
 
 ## Your Collector's Buying Guide: Tips for the Hunt
 
@@ -150,21 +146,6 @@ Beyond specific titles, here are some general tips for building your collection 
 *   **Retailers:** While [Amazon (US/Global)](https://www.amazon.com/?tag=otakuen-20) and [Amazon JP](https://www.amazon.co.jp/) are excellent starting points for new releases, don't forget to check specialty retailers like Right Stuf Anime, Shout! Factory, and Discotek Media's direct stores. For Japanese imports, DMM.com (specifically DMM Japan) can sometimes offer unique editions or better pricing on certain items, especially for digital content or Japanese-specific physical media that might not make it to Amazon's global storefronts.
 *   **Used Market:** eBay, Mercari, and local used media stores can be treasure troves for rare or out-of-print editions. Always check seller ratings and product conditions carefully.
 
-</div>
-</div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, formats, and availability are subject to change on merchant sites.</div>
-</div>
-
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Complete Manga Box Sets</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Collectible box sets containing full story arcs</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.com/s?k=Manga+Box+Set+Complete&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon</a>
-</div>
-</div>
-</div>
-</div>
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -176,9 +157,9 @@ Beyond specific titles, here are some general tips for building your collection 
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Best Classic 90S Anime Movies Collector Guide</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBest%2520Classic%252090S%2520Anime%2520Movies%2520Collector%2520Guide%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
+<a href="https://www.amazon.co.jp/s?k=Best Classic 90S Anime Movies Collector Guide&language=en_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBest%2520Classic%252090S%2520Anime%2520Movies%2520Collector%2520Guide%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
+<a href="https://www.amazon.co.jp/s?k=Best Classic 90S Anime Movies Collector Guide+English+Edition&i=digital-text&language=en_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBest%20Classic%2090S%20Anime%20Movies%20Collector%20Guide%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DBest%20Classic%2090S%20Anime%20Movies%20Collector%20Guide&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
 </div>
@@ -195,13 +176,13 @@ Beyond specific titles, here are some general tips for building your collection 
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Official English Kindle Manga</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Digital editions delivered instantly to your Kindle app worldwide</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DEnglish%2520Manga%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Read on Kindle</a>
+<a href="https://www.amazon.co.jp/s?k=English Manga+English+Edition&i=digital-text&language=en_US" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Read on Kindle</a>
 </div>
 </div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Collector's Manga Box Sets</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Authentic boxed collections with worldwide expedited shipping</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DManga%2520Box%2520Set%2520Complete%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon Japan</a>
+<a href="https://www.amazon.co.jp/s?k=Manga Box Set Complete&language=en_US" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon Japan</a>
 </div>
 </div>
 </div>
