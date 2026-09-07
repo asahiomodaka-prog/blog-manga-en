@@ -6,25 +6,15 @@ heroImage: '/images/akira-4k-ultra-hd-blu-ray-collectors-edition-review.jpg'
 genre: 'Sci-Fi & Fantasy'
 mediaType: 'anime'
 sidebarProducts:
-  - title: 'ドラゴンボール超'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F622883%2Fb950xshes76610%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes76610/b950xshes76610pl.jpg'
-    price: 543
+  - title: 'AKIRA 4Kリマスターセット'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg'
+    price: 10780
     microCopy: 'DMMで詳細を見る'
-  - title: '転生幼女はあきらめない'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4020031%2Fb132amggd06914%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b132amggd06914/b132amggd06914pl.jpg'
-    price: 814
-    microCopy: 'DMMで詳細を見る'
-  - title: 'やめろ好きになってしまう'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6196274%2Fb950athes00568%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950athes00568/b950athes00568pl.jpg'
-    price: 792
-    microCopy: 'DMMで詳細を見る'
-  - title: '百瀬アキラの初恋破綻中。'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6032178%2Fb600atgk06190%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600atgk06190/b600atgk06190pl.jpg'
-    price: 616
+  - title: 'Akira (Original Manga Vol.1)'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F104057%2Fb600psgk02937%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg'
+    price: 1100
     microCopy: 'DMMで詳細を見る'
 ---
 
@@ -90,18 +80,6 @@ For the international collector, the true allure of this edition extends beyond 
 *   **Posters or Art Cards:** Smaller collectible items like mini-posters or a set of art cards showcasing iconic scenes or promotional art are also frequently found, adding extra value for the collector.
 
 The physical build quality of these editions is generally excellent, reflecting the premium price point. The packaging is designed to protect the contents while looking fantastic, making it a centerpiece for any anime or film collection. Crucially for international buyers, the 4K Ultra HD disc itself is typically region-free, meaning it will play on any 4K Blu-ray player worldwide. The included standard Blu-ray disc, however, might be region A (for North America and Japan), so always double-check product specifications if that's a concern for your player.
-
-<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📚 Collect Deluxe Editions & Official English Manga</h3>
-<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">[Amazon Japan & Kindle English Editions]</div>
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">Discover authentic collector's editions, artbooks, and official English Kindle translations delivered instantly or shipped worldwide with expedited delivery.</p>
-<div style="text-align: center;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DManga%2520Deluxe%2520Edition%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-👉 Browse English Manga & [Collector](/blog/best-classic-90s-anime-movies-collector-guide/) Sets on Amazon
-</a>
-</div>
-</div>
 
 ## Physical vs. Digital: The Collector's Dilemma
 
@@ -191,24 +169,6 @@ This *Akira 4K Ultra HD Blu-ray Collector's Edition* is an absolute must-have fo
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 Recommended Related Collections & Items</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Official English Kindle Manga</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Digital editions delivered instantly to your Kindle app worldwide</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DEnglish%2520Manga%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Read on Kindle</a>
-</div>
-</div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Collector's Manga Box Sets</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Authentic boxed collections with worldwide expedited shipping</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DManga%2520Box%2520Set%2520Complete%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon Japan</a>
-</div>
-</div>
-</div>
-</div>
 
 ## Conclusion
 

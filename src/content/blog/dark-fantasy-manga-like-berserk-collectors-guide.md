@@ -1,5 +1,5 @@
 ---
-title: 'Beyond Guts: Unearthing Dark Fantasy Manga Masterpieces for Collectors'
+title: 'Beyond Guts: Unearthing Dark Fantasy Manga Akin to Berserk for Collectors'
 description: 'Explore the best dark fantasy manga akin to Berserk. A collector''''s guide to premium physical editions and instant digital releases.'
 pubDate: '2026-09-06'
 heroImage: '/images/dark-fantasy-manga-like-berserk-collectors-guide.jpg'
@@ -15,16 +15,6 @@ sidebarProducts:
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122781%2Fb371chkss00387%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371chkss00387/b371chkss00387pl.jpg'
     price: 1236
-    microCopy: 'DMMで詳細を見る'
-  - title: '暴食のベルセルク〜俺だけレベルという概念を突破して最強〜'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6173671%2Fb389amcmg04377%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b389amcmg04377/b389amcmg04377pl.jpg'
-    price: 67
-    microCopy: 'DMMで詳細を見る'
-  - title: '暴食のベルセルク〜俺だけレベルという概念を突破する〜【単話版】（単話）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F787306%2Fb389amcmg05082%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b389amcmg05082/b389amcmg05082pl.jpg'
-    price: 176
     microCopy: 'DMMで詳細を見る'
 ---
 
@@ -124,18 +114,6 @@ Nagai's art, while different from Miura's hyper-detailed style, is groundbreakin
 
 **Who Should Buy This:** Essential for manga historians, fans of classic horror, and anyone who wants to understand the seminal works that influenced *Berserk* and the entire dark fantasy genre. A true timeless classic that continues to resonate.
 
-<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📚 Collect Deluxe Editions & Official English Manga</h3>
-<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">[Amazon Japan & Kindle English Editions]</div>
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">Discover authentic collector's editions, artbooks, and official English Kindle translations delivered instantly or shipped worldwide with expedited delivery.</p>
-<div style="text-align: center;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DManga%2520Deluxe%2520Edition%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-👉 Browse English Manga & Collector Sets on Amazon
-</a>
-</div>
-</div>
-
 ## The Collector's Dilemma: Physical vs. Digital
 
 For international manga collectors, the choice between physical and digital often comes down to a few key factors:
@@ -173,24 +151,6 @@ While DMM is a popular digital platform in Japan, for English-language manga, Ki
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 Recommended Related Collections & Items</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Official English Kindle Manga</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Digital editions delivered instantly to your Kindle app worldwide</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DEnglish%2520Manga%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Read on Kindle</a>
-</div>
-</div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">Collector's Manga Box Sets</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">Authentic boxed collections with worldwide expedited shipping</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DManga%2520Box%2520Set%2520Complete%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 6px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">View on Amazon Japan</a>
-</div>
-</div>
-</div>
-</div>
 
 ## Embrace the Darkness
 
