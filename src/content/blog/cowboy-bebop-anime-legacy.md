@@ -9,6 +9,13 @@ sidebarProducts:
     url: 'https://global.bookwalker.jp/search/?word=Cowboy%20Bebop%20Complete%20Series%20Blu-ray'
     imageUrl: '/images/cowboy-bebop-anime-legacy.png'
     microCopy: 'Read on BOOK☆WALKER Global'
+faq:
+  - question: 'Is Cowboy Bebop beginner-friendly for newcomers to Japanese animation?'
+    answer: 'Absolutely. Its grounded cinematic direction, relatable adult themes, and episodic format make it one of the absolute best gateway anime series of all time.'
+  - question: 'Should I watch the English dub or the Japanese original?'
+    answer: 'Cowboy Bebop features one of the most revered English dub casts in the industry (led by Steve Blum as Spike), but the Japanese voice acting (starring Koichi Yamadera) is equally phenomenal. You cannot go wrong with either.'
+  - question: 'How many episodes are there in the series?'
+    answer: 'The complete original TV series spans 26 episodes, accompanied by a feature-length theatrical film, Cowboy Bebop: Knockin'' on Heaven''s Door (2001).'
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->
@@ -22,9 +29,9 @@ When Shinichiro Watanabe and Studio Sunrise released *Cowboy Bebop* in 1998, the
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #0f172a; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 Key Takeaways & Quick Verdict</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #334155; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>Core Appeal</strong>: Definitive storytelling and breathtaking illustration sequences delivered in oversized format.</li>
-<li style="margin-bottom: 6px;"><strong>Target Reader</strong>: Essential for manga collectors and readers who value rich, mature narrative themes and durable physical editions.</li>
-<li><strong>Collector's Note</strong>: Deluxe releases feature archival-quality paper, restored line art, and exclusive color galleries.</li>
+<li style="margin-bottom: 6px;"><strong>Core Appeal</strong>: Captivating storytelling and signature artwork of Cowboy Bebop, crafted for an engaging reading experience.</li>
+<li style="margin-bottom: 6px;"><strong>Target Reader</strong>: Essential for manga enthusiasts and collectors looking for depth, compelling characters, and high-quality editions.</li>
+<li><strong>Collector's Note</strong>: Check official digital previews and edition details (hardcover, omnibus, or digital) for the best reading format.</li>
 </ul>
 </div>
 
@@ -42,13 +49,21 @@ When Shinichiro Watanabe and Studio Sunrise released *Cowboy Bebop* in 1998, the
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCowboy%2520Bebop%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCowboy%2520Bebop%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
+
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCowboy%20Bebop%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DCowboy%20Bebop&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
 </div>
 </div>
 </div>
 </div>
+
+## Jazz, Space, and Melancholy: The Enduring Mastery of Cowboy Bebop
+
+Shinichiro Watanabe's sci-fi noir masterpiece remains an untouchable pinnacle of anime direction, blending cinematic panache with existential weight.
+
+## Yoko Kanno's Iconic Soundscapes and Genre-Bending Aesthetic
+
+
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
@@ -83,7 +98,7 @@ A3: The complete original TV series spans 26 episodes, accompanied by a feature-
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCowboy%2520Bebop%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCowboy%2520Bebop%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
+
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCowboy%20Bebop%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DCowboy%20Bebop&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
 </div>

@@ -16,6 +16,13 @@ sidebarProducts:
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371chkss00387/b371chkss00387pl.jpg'
     price: 1236
     microCopy: 'DMMで詳細を見る'
+faq:
+  - question: 'What makes this story stand out among modern masterpieces?'
+    answer: 'Its psychological complexity, boundary-pushing themes, and uncompromising character arcs elevate it beyond conventional genre storytelling.'
+  - question: 'Is prior knowledge of the genre required to appreciate this work?'
+    answer: 'Not at all. The universal themes of ambition, human struggle, and identity resonate strongly with both newcomers and seasoned connoisseurs.'
+  - question: 'Where is the best place to purchase authentic copies?'
+    answer: 'Major certified retailers like Amazon ensure authentic, undamaged copies backed by reliable buyer protection and prime shipping.'
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->
@@ -38,7 +45,7 @@ This guide is for the discerning collector—the one who appreciates a weighty h
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBerserk%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBerserk%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
+
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBerserk%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102108%2Fb371khkss06951%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
 </div>
@@ -123,6 +130,18 @@ For international manga collectors, the choice between physical and digital ofte
 
 Many collectors opt for a hybrid approach: purchasing deluxe physical editions for their absolute favorite series (like *Berserk* and *Blade of the Immortal*) and enjoying other titles digitally.
 
+
+### Frequently Asked Questions
+
+**Q1: What makes this story stand out among modern masterpieces?**
+A1: Its psychological complexity, boundary-pushing themes, and uncompromising character arcs elevate it beyond conventional genre storytelling.
+
+**Q2: Is prior knowledge of the genre required to appreciate this work?**
+A2: Not at all. The universal themes of ambition, human struggle, and identity resonate strongly with both newcomers and seasoned connoisseurs.
+
+**Q3: Where is the best place to purchase authentic copies?**
+A3: Major certified retailers like Amazon ensure authentic, undamaged copies backed by reliable buyer protection and prime shipping.
+
 ## Where to Buy for International Fans
 
 When looking for these dark fantasy gems, Amazon is your best friend. Their global network means you can typically find English editions shipping to your location from Amazon US, UK, Canada, Germany, or Japan. Kindle e-books are universally available through any Amazon storefront.
@@ -141,7 +160,7 @@ While DMM is a popular digital platform in Japan, for English-language manga, Ki
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBerserk%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBerserk%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
+
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBerserk%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102108%2Fb371khkss06951%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
 </div>

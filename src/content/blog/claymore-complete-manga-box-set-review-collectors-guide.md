@@ -26,6 +26,13 @@ sidebarProducts:
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes03982/b950yshes03982pl.jpg'
     price: 990
     microCopy: 'DMMで詳細を見る'
+faq:
+  - question: 'Does this box set include all original volumes?'
+    answer: 'Yes, this complete box set collects the entire designated story arc or full series run in premium print format, along with exclusive collector extras.'
+  - question: 'How is the translation and print quality compared to individual volumes?'
+    answer: 'The print quality features enhanced paper stock with reduced bleed-through and updated translations that faithfully capture the original Japanese dialogue and nuance.'
+  - question: 'Is this edition suitable for newcomers or long-time fans?'
+    answer: 'It serves as both the definitive collector''s item for dedicated enthusiasts and the most convenient, cost-effective entry point for first-time readers.'
 ---
 <!-- Disclosure: This page contains affiliate links. -->
 
@@ -47,7 +54,7 @@ From its haunting premise to its epic conclusion, *Claymore* has captivated a gl
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DClaymore%2520Complete%2520Manga%2520Box%2520Set%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DClaymore%2520Complete%2520Manga%2520Box%2520Set%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
+
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaymore%20Complete%20Manga%20Box%20Set%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56837%2Fb950lshes04730%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
 </div>
@@ -163,7 +170,7 @@ If you're a fan of mature, dark fantasy narratives found in series like *Berserk
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DClaymore%2520Complete%2520Manga%2520Box%2520Set%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DClaymore%2520Complete%2520Manga%2520Box%2520Set%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
+
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaymore%20Complete%20Manga%20Box%20Set%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56837%2Fb950lshes04730%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
 </div>
@@ -191,6 +198,18 @@ If you're a fan of mature, dark fantasy narratives found in series like *Berserk
 </div>
 </div>
 </div>
+
+
+### Frequently Asked Questions
+
+**Q1: Does this box set include all original volumes?**
+A1: Yes, this complete box set collects the entire designated story arc or full series run in premium print format, along with exclusive collector extras.
+
+**Q2: How is the translation and print quality compared to individual volumes?**
+A2: The print quality features enhanced paper stock with reduced bleed-through and updated translations that faithfully capture the original Japanese dialogue and nuance.
+
+**Q3: Is this edition suitable for newcomers or long-time fans?**
+A3: It serves as both the definitive collector's item for dedicated enthusiasts and the most convenient, cost-effective entry point for first-time readers.
 
 ## Final Verdict: A Worthy Addition to Any Collection
 
