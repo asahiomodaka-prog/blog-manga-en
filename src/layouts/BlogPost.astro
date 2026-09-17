@@ -1741,11 +1741,64 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							console.error('Failed to copy URL', err);
 						}
 					});
+				}
+
 				// Responsive TOC open logic (Expanded on desktop, collapsed on mobile for fast first-paint)
 				const tocDetails = document.querySelector('.toc-details');
 				if (tocDetails && window.innerWidth > 640) {
 					tocDetails.setAttribute('open', '');
 				}
+
+				// Real-time price and stock status updater
+				try {
+					fetch('/data/live_prices.json')
+						.then(res => res.ok ? res.json() : null)
+						.then(prices => {
+							if (!prices) return;
+
+							// Product cards update
+							document.querySelectorAll('.live-price-box[data-product-key]').forEach(box => {
+								const key = box.getAttribute('data-product-key');
+								const data = prices[key];
+								if (!data) return;
+
+								const stockEl = box.querySelector('.live-stock-badge');
+								const priceEl = box.querySelector('.live-price-display');
+								const noteEl = box.querySelector('.live-price-disclaimer');
+
+								if (stockEl && data.stock_label) {
+									stockEl.textContent = data.in_stock ? '🟢 In Stock / Ships Worldwide' : '🟡 Low Stock';
+								}
+								if (priceEl && data.price) {
+									let pText = `¥${data.price.toLocaleString()}`;
+									if (data.discount) {
+										pText += ` (▼${data.discount}% OFF)`;
+									}
+									priceEl.textContent = pText;
+								}
+								if (noteEl && data.disclaimer) {
+									noteEl.textContent = data.disclaimer;
+								}
+							});
+
+							// Comparison table update
+							document.querySelectorAll('.live-table-price[data-product-key]').forEach(el => {
+								const key = el.getAttribute('data-product-key');
+								const data = prices[key];
+								if (data && data.price) {
+									el.textContent = `¥${data.price.toLocaleString()}`;
+								}
+							});
+							document.querySelectorAll('.live-table-stock[data-product-key]').forEach(el => {
+								const key = el.getAttribute('data-product-key');
+								const data = prices[key];
+								if (data) {
+									el.textContent = data.in_stock ? '🟢 In Stock' : '🟡 Low Stock';
+								}
+							});
+						})
+						.catch(() => {});
+				} catch (e) {}
 			});
 		</script>
 	</body>
