@@ -90,7 +90,7 @@ When you talk about influential 90s anime, Mamoru Oshii's *Ghost in the Shell* i
 
 **Collector's Notes:** For collectors, the best way to experience *Ghost in the Shell* is often on Blu-ray or 4K Ultra HD. The **25th Anniversary Edition Blu-ray** and **4K UHD Blu-ray** releases are generally excellent, offering crisp visuals and immersive audio. Look for versions that include both the original Japanese audio with subtitles and the critically acclaimed English dub. Some editions also come with insightful special features like behind-the-scenes documentaries and director's commentaries.
 
-*   You can often find various editions of *Ghost in the Shell* on [Amazon (US/Global)](https://www.amazon.co.jp/s?k=Ghost+in+the+Shell+1995+Blu-ray&language=en_US or [Amazon JP](https://www.amazon.co.jp/s?k=Ghost%2Bin%2Bthe%2BShell%2BBlu-ray&language=en_US Keep an eye out for steelbook versions if you're into premium packaging!
+*   You can often find various editions of *Ghost in the Shell* on [Amazon JP](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGhost%2Bin%2Bthe%2BShell%2B1995%2BBlu-ray%26language%3Den_US). Keep an eye out for steelbook versions if you're into premium packaging!
 
 ### Princess Mononoke (1997)
 
@@ -100,7 +100,7 @@ No discussion of classic 90s anime would be complete without Studio Ghibli, and 
 
 **Collector's Notes:** Studio Ghibli films are generally well-preserved and widely available. The **GKIDS Blu-ray and 4K UHD editions** of *Princess Mononoke* are highly recommended for their excellent transfers, often including both the original Japanese audio and the superb English dub (featuring Claire Danes, Gillian Anderson, and Billy Bob Thornton). These usually come with a wealth of bonus content, including storyboards, original trailers, and "The Making of Princess Mononoke."
 
-*   These beautiful releases are readily available on [Amazon (US/Global)](https://www.amazon.co.jp/s?k=Princess+Mononoke+Blu-ray&language=en_US and [Amazon JP](https://www.amazon.co.jp/s?k=Princess%2BMononoke%2BBlu-ray&language=en_US For those who appreciate the physical art, some editions include collectible art cards or booklets.
+*   These beautiful releases are readily available on [Amazon JP](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPrincess%2BMononoke%2BBlu-ray%26language%3Den_US). For those who appreciate the physical art, some editions include collectible art cards or booklets.
 
 ### Perfect Blue (1997)
 
@@ -110,7 +110,7 @@ From the brilliant mind of Satoshi Kon, *Perfect Blue* is a psychological thrill
 
 **Collector's Notes:** Given its cult status, *Perfect Blue* has seen several releases. The **Shout! Factory Collector's Edition Blu-ray** is often considered the definitive English-language release, boasting a stunning high-definition transfer, both English and Japanese audio, and a host of special features, including interviews with Satoshi Kon and cast members. Earlier DVD releases might be harder to find in good quality, so Blu-ray is definitely the way to go here.
 
-*   Seek out the best editions on [Amazon (US/Global)](https://www.amazon.co.jp/s?k=Perfect+Blue+Blu-ray&language=en_US or [Amazon JP](https://www.amazon.co.jp/s?k=Perfect%2BBlue%2BBlu-ray&language=en_US This is one film where a good transfer really enhances the experience of its visual trickery.
+*   Seek out the best editions on [Amazon JP](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPerfect%2BBlue%2BBlu-ray%26language%3Den_US). This is one film where a good transfer really enhances the experience of its visual trickery.
 
 ### The End of Evangelion (1997)
 
@@ -120,7 +120,7 @@ If you've ever delved into the world of *Neon Genesis Evangelion*, you know it's
 
 **Collector's Notes:** For a long time, *The End of Evangelion* was difficult to acquire in high-quality formats outside of Japan. Thankfully, **GKIDS and Funimation** have released excellent Blu-ray editions as part of the larger *Neon Genesis Evangelion* collections. Look for the **[Ultimate](/blog/best-classic-90s-anime-movies-ultimate-guide/) Edition** or **Collector's Edition** sets that include the film alongside the TV series and *Death(true)²*. These usually offer newly remastered visuals, the original Japanese audio, and a new English dub.
 
-*   You can find these comprehensive sets on [Amazon (US/Global)](https://www.amazon.co.jp/s?k=Neon+Genesis+Evangelion+Ultimate+Edition+Blu-ray&language=en_US or [Amazon JP](https://www.amazon.co.jp/s?k=Neon%2BGenesis%2BEvangelion%2BBlu-ray&language=en_US Given the importance of the visuals and sound, a high-quality release is non-negotiable for this film.
+*   You can find these comprehensive sets on [Amazon JP](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DNeon%2BGenesis%2BEvangelion%2BBlu-ray%26language%3Den_US). Given the importance of the visuals and sound, a high-quality release is non-negotiable for this film.
 
 ### Memories (1995)
 
@@ -130,7 +130,7 @@ An often-overlooked gem, *Memories* is an anthology film produced by Katsuhiro O
 
 **Collector's Notes:** *Memories* has had a few releases over the years. The **Discotek Media Blu-ray** is highly regarded for its excellent video transfer and inclusion of both English and Japanese audio tracks, along with bonus features like original trailers and interviews. This is one of those films that sometimes goes out of print, so if you see a good edition, grab it!
 
-*   Keep an eye out for *Memories* on [Amazon (US/Global)](https://www.amazon.co.jp/s?k=Memories+Anime+Blu-ray&language=en_US or [Amazon JP](https://www.amazon.co.jp/s?k=MEMORIES%2BBlu-ray&language=en_US It’s a fantastic package for those who appreciate diverse storytelling within a single film.
+*   Keep an eye out for *Memories* on [Amazon JP](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMEMORIES%2BBlu-ray%26language%3Den_US). It’s a fantastic package for those who appreciate diverse storytelling within a single film.
 
 ### Patlabor 2: The Movie (1993)
 
@@ -140,7 +140,7 @@ Mamoru Oshii's second *Patlabor* film is a profound leap from its predecessor, t
 
 **Collector's Notes:** For the best presentation, look for the **Sentai Filmworks Blu-ray** release of *Patlabor 2: The Movie*. These editions typically offer a high-definition transfer, both the original Japanese audio and a solid English dub, and often include interviews or production art. It’s a film that benefits greatly from being seen in high fidelity to appreciate its detailed art and subtle direction.
 
-*   You can find this essential piece of 90s anime cinema on [Amazon (US/Global)](https://www.amazon.co.jp/s?k=Patlabor+2+The+Movie+Blu-ray&language=en_US or [Amazon JP](https://www.amazon.co.jp/s?k=Patlabor%2B2%2BThe%2BMovie%2BBlu-ray&language=en_US Don't let its slower pace deter you; it's an incredibly rewarding watch.
+*   You can find this essential piece of 90s anime cinema on [Amazon JP](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPatlabor%2B2%2BThe%2BMovie%2BBlu-ray%26language%3Den_US). Don't let its slower pace deter you; it's an incredibly rewarding watch.
 
 ## Your Collector's Buying Guide: Tips for the Hunt
 
@@ -150,7 +150,7 @@ Beyond specific titles, here are some general tips for building your collection 
 *   **Original vs. Remastered:** Many classic films have received gorgeous remasters for Blu-ray and 4K UHD. While purists might debate the changes, these often offer the best visual and audio experience. Always check reviews for transfer quality.
 *   **Dub vs. Sub:** Most modern releases offer both original Japanese audio with subtitles and an English dub. Some 90s dubs are legendary (e.g., *Ghost in the Shell*, *Princess Mononoke*), while others are best avoided. Personal preference reigns, but having both options is ideal.
 *   **Special Features:** Collector's editions often come packed with behind-the-scenes documentaries, interviews, storyboards, art books, and commentaries. These can offer invaluable insights into the production and impact of these films.
-*   **Retailers:** While [Amazon (US/Global)](https://www.amazon.com/?tag=otakuen-20) and [Amazon JP](https://www.amazon.co.jp/) are excellent starting points for new releases, don't forget to check specialty retailers like Right Stuf Anime, Shout! Factory, and Discotek Media's direct stores. For Japanese imports, DMM.com (specifically DMM Japan) can sometimes offer unique editions or better pricing on certain items, especially for digital content or Japanese-specific physical media that might not make it to Amazon's global storefronts.
+*   **Retailers:** While [Amazon US](https://www.amazon.com/?tag=otakuen-20) and [Amazon JP](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DAnime%2BBlu-ray%26language%3Den_US) are excellent starting points for new releases, don't forget to check specialty retailers like Right Stuf Anime, Shout! Factory, and Discotek Media's direct stores. For Japanese imports, DMM.com (specifically DMM Japan) can sometimes offer unique editions or better pricing on certain items, especially for digital content or Japanese-specific physical media that might not make it to Amazon's global storefronts.
 *   **Used Market:** eBay, Mercari, and local used media stores can be treasure troves for rare or out-of-print editions. Always check seller ratings and product conditions carefully.
 
 

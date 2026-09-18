@@ -157,7 +157,7 @@ The primary way to collect *Delicious in Dungeon* in English is through the pape
 
 For those who prefer to read in the original Japanese or want to collect the original editions, *Dungeon Meshi* is published by Enterbrain (a division of Kadokawa).
 
-*   **Availability**: These can be purchased through [Amazon JP](https://www.amazon.co.jp/s?k=Delicious%20in%20Dungeon%20Manga&language=en_US or other Japanese online retailers like [DMM](https://global.bookwalker.jp/search/?word=Delicious%20in%20Dungeon%20Manga)/books. It's a great way to practice your Japanese or just appreciate Ryoko Kui's original text and nuances. Note that shipping from Japan can add to the cost, but for dedicated collectors, it's often worth it.
+*   **Availability**: These can be purchased through [Amazon JP](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDelicious%2520in%2520Dungeon%2520Manga%26language%3Den_US) or other Japanese online retailers like [DMM](https://global.bookwalker.jp/search/?word=Delicious%20in%20Dungeon%20Manga). It's a great way to practice your Japanese or just appreciate Ryoko Kui's original text and nuances. Note that shipping from Japan can add to the cost, but for dedicated collectors, it's often worth it.
 
 ### Digital Editions
 

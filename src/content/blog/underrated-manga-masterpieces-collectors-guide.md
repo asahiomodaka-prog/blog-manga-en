@@ -54,7 +54,7 @@ If you've heard of Naoki Urasawa, you know he's a master of suspense, character 
 
 **Where to Buy:** *Pluto* was published in English by Viz Media in eight fantastic volumes. It's a complete story, making it a perfect binge-read. You can often find individual volumes or the complete set on:
 *   [Amazon US/Global](https://www.amazon.com/Pluto-Vol-Naoki-Urasawa/dp/1421519183?tag=otakuen-20) 
-*   [Amazon JP](https://www.amazon.co.jp/s?k=Pluto%2BNaoki%2BUrasawa&language=en_US
+*   [Amazon JP](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPluto%2BNaoki%2BUrasawa%26language%3Den_US)
 
 ### Dorohedoro by Q Hayashida
 
@@ -68,7 +68,7 @@ The story is set across two distinct realms: "The Hole," a desolate, polluted ci
 
 **Where to Buy:** Viz Media has released *Dorohedoro* in English, initially in single volumes and now in fantastic 2-in-1 omnibus editions, which are perfect for collectors. The series is complete in 23 volumes (12 omnibuses).
 *   [Amazon US/Global (Omnibus)](https://www.amazon.com/Dorohedoro-Vol-1-2-Q-Hayashida/dp/1974716772?tag=otakuen-20) 
-*   [Amazon JP](https://www.amazon.co.jp/s?k=Dorohedoro%2BQ%2BHayashida&language=en_US
+*   [Amazon JP](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDorohedoro%2BQ%2BHayashida%26language%3Den_US)
 
 ### Mushishi by Yuki Urushibara
 
@@ -82,7 +82,7 @@ If you're looking for something calm, contemplative, and profoundly beautiful, t
 
 **Where to Buy:** Kodansha Comics has released *Mushishi* in English. The series is complete in 10 volumes. While some volumes might be harder to find new, they are often available in good condition from various online booksellers.
 *   [Amazon US/Global](https://www.amazon.com/Mushishi-Vol-1-Yuki-Urushibara/dp/193542981X?tag=otakuen-20) 
-*   [Amazon JP](https://www.amazon.co.jp/s?k=Mushishi%2BYuki%2BUrushibara&language=en_US
+*   [Amazon JP](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMushishi%2BYuki%2BUrushibara%26language%3Den_US)
 
 ### Helck by Nanaki Nanao
 
@@ -96,7 +96,7 @@ After the Demon Lord is defeated, the demon kingdom holds a tournament to decide
 
 **Where to Buy:** *Helck* is available digitally in English through services like ComiXology and Kindle. Unfortunately, a physical English release has not happened yet, which is a major reason for its underrated status outside of Japan. However, it's absolutely worth reading digitally!
 *   [Amazon US/Global (Digital)](https://www.amazon.com/Helck-Vol-1-Nanaki-Nanao-ebook/dp/B073R5K38Y?tag=otakuen-20) 
-*   [Amazon JP (Physical/Digital)](https://www.amazon.co.jp/s?k=Helck%2BNanaki%2BNanao&language=en_US
+*   [Amazon JP (Physical/Digital)](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHelck%2BNanaki%2BNanao%26language%3Den_US)
 
 --- 
 

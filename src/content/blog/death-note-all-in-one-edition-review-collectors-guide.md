@@ -174,7 +174,7 @@ A3: Store them upright on sturdy shelving away from direct sunlight and high hum
 Ready to add this monumental tome to your collection? Here are some reliable places to find it:
 
 *   **Amazon (US/Global)**: Often the easiest place to find the *Death Note All-in-One Edition*, with competitive pricing and shipping options worldwide. Check it out on [Amazon US](https://www.amazon.com/Death-Note-All-One-Edition/dp/1421597719/?tag=otakuen-20) or your local Amazon storefront.
-*   **Amazon JP**: If you're looking for the Japanese version or just prefer importing, [Amazon Japan](https://www.amazon.co.jp/s?k=Death%20Note%20All-in-One%20Edition&language=en_US is a great option. Just be mindful of shipping costs.
+*   **Amazon JP**: If you're looking for the Japanese version or just prefer importing, [Amazon Japan](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDeath%2520Note%2520All-in-One%2520Edition%26language%3Den_US) is a great option. Just be mindful of shipping costs.
 *   **DMM**: While DMM is primarily known for digital content and figures, they sometimes carry physical manga as well, especially popular series. It's worth checking their [storefront](https://global.bookwalker.jp/search/?word=Death%20Note%20All-in-One%20Edition) if you're exploring all possible avenues, though Amazon is typically more reliable for physical VIZ Media releases.
 
 Always compare prices and shipping options, especially for a heavy item like this, to get the best deal.
