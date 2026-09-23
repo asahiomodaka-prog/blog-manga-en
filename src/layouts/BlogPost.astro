@@ -1468,6 +1468,21 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							</section>
 						)}
 
+						<!-- E-E-A-T Editorial Policy & Review Standards -->
+						<section class="eeat-policy-card" style="margin: 2.5rem 0; padding: 1.5rem 1.75rem; background: #f8fafc; border: 1.5px solid #e2e8f0; border-radius: 14px; font-size: 0.85rem; color: #334155; line-height: 1.65; box-shadow: 0 2px 8px rgba(15,23,42,0.02);">
+							<div style="font-weight: 800; font-size: 0.95rem; color: #0f172a; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">
+								<span>🛡️</span> Editorial Integrity & Review Standards
+							</div>
+							<p style="margin: 0 0 0.5rem 0;">
+								Our editorial team provides comprehensive, collector-first evaluations of physical and digital manga editions, inspecting print stock, binding durability, translation fidelity, and global shipping options.
+							</p>
+							<ul style="margin: 0; padding-left: 1.25rem; font-size: 0.82rem; color: #64748b;">
+								<li>Unbiased analysis of omnibus formats, color spreads, and collector bonus materials</li>
+								<li>Real-time merchant pricing and stock synchronization across Amazon Japan, Rakuten, and DMM</li>
+								<li>Transparent assessments highlighting both edition highlights and potential collector caveats</li>
+							</ul>
+						</section>
+
 						<!-- モバイル用関連商品表示セクション -->
 						<div class="mobile-related-products">
 							<h3 class="mobile-section-title">Featured Merchandise</h3>
@@ -1591,6 +1606,19 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 					</div>
 				</aside>
 			</article>
+
+			<!-- Mobile Floating Quick Action Bar -->
+			<div class="mobile-quick-bar" id="mobile-quick-bar" style="position: fixed; bottom: 20px; right: 16px; display: none; z-index: 99; flex-direction: column; gap: 8px;">
+				<button id="quick-toc-btn" style="background: rgba(255,255,255,0.95); color: #0f172a; border: 1.5px solid #cbd5e1; border-radius: 9999px; padding: 8px 14px; font-size: 0.78rem; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.1); cursor: pointer; display: flex; align-items: center; gap: 4px; backdrop-filter: blur(4px);">
+					<span>📋</span> TOC
+				</button>
+				<button id="quick-deal-btn" style="background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff; border: none; border-radius: 9999px; padding: 8px 14px; font-size: 0.78rem; font-weight: 700; box-shadow: 0 4px 12px rgba(255,153,0,0.3); cursor: pointer; display: flex; align-items: center; gap: 4px;">
+					<span>🛒</span> Deals
+				</button>
+				<button id="quick-top-btn" style="background: rgba(255,255,255,0.9); color: #64748b; border: 1px solid #e2e8f0; border-radius: 9999px; width: 36px; height: 36px; align-self: flex-end; font-size: 0.85rem; font-weight: 700; box-shadow: 0 2px 8px rgba(0,0,0,0.06); cursor: pointer; display: flex; align-items: center; justify-content: center; backdrop-filter: blur(4px);">
+					▲
+				</button>
+			</div>
 		</main>
 		<Footer />
 		<script is:inline>
@@ -1799,6 +1827,36 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 						})
 						.catch(() => {});
 				} catch (e) {}
+
+				// Mobile Quick Bar control
+				const quickBar = document.getElementById('mobile-quick-bar');
+				if (quickBar && window.innerWidth <= 768) {
+					window.addEventListener('scroll', () => {
+						if (window.scrollY > 350) {
+							quickBar.style.display = 'flex';
+						} else {
+							quickBar.style.display = 'none';
+						}
+					}, { passive: true });
+
+					document.getElementById('quick-toc-btn')?.addEventListener('click', () => {
+						const toc = document.querySelector('.toc-container');
+						if (toc) {
+							const details = toc.querySelector('.toc-details');
+							if (details) details.setAttribute('open', '');
+							toc.scrollIntoView({ behavior: 'smooth' });
+						}
+					});
+
+					document.getElementById('quick-deal-btn')?.addEventListener('click', () => {
+						const deal = document.querySelector('.affiliate-product-card, .comparison-table-wrapper');
+						if (deal) deal.scrollIntoView({ behavior: 'smooth' });
+					});
+
+					document.getElementById('quick-top-btn')?.addEventListener('click', () => {
+						window.scrollTo({ top: 0, behavior: 'smooth' });
+					});
+				}
 			});
 		</script>
 	</body>

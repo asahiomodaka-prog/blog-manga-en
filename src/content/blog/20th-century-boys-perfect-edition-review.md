@@ -68,6 +68,7 @@ Finding the right edition of a classic series can be challenging with so many pr
 </div>
 </div>
 </div>
+</div>
 
 ## Nostalgia Turned Nightmare: The Genius of Naoki Urasawa's Mystery
 
@@ -75,9 +76,7 @@ Naoki Urasawa weaves a chilling tapestry of childhood imagination weaponized aga
 
 ## The Perfect Edition Format: Premium Paper, Color Pages, and Durability
 
-
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
-</div>
+The Perfect Edition elevates Naoki Urasawa's magnum opus with enhanced printing fidelity. Featuring reconstructed original color splashes, oversized pages that allow the intricate paneling to breathe, and durable sewn bindings, this omnibus release is the definitive physical format for discerning international collectors.
 
 
 ## Narrative Depth and Thematic Impact
