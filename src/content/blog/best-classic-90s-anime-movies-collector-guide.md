@@ -12,6 +12,12 @@ faq:
     answer: 'Not at all. The universal themes of ambition, human struggle, and identity resonate strongly with both newcomers and seasoned connoisseurs.'
   - question: 'Where is the best place to purchase authentic copies?'
     answer: 'Major certified retailers like Amazon ensure authentic, undamaged copies backed by reliable buyer protection and prime shipping.'
+sidebarProducts:
+  - title: 'Best Classic 90S Anime Movies Collector Guide'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DBest%20Classic%2090S%20Anime%20Movies%20Collector%20Guide&af_id=DMMaria-999'
+    imageUrl: '/images/safe-retro-anime-collector-desk.png'
+    price: 0
+    microCopy: 'Check Details'
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->

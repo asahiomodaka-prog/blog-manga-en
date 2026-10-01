@@ -5,6 +5,12 @@ pubDate: '2026-09-25'
 heroImage: '/images/unearthing-gems-classic-retro-anime-collectors-guide.png'
 genre: 'Timeless Classics'
 mediaType: 'anime'
+sidebarProducts:
+  - title: 'Classic Retro Anime Worth Watching'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DClassic%20Retro%20Anime%20Worth%20Watching&af_id=DMMaria-999'
+    imageUrl: '/images/unearthing-gems-classic-retro-anime-collectors-guide.png'
+    price: 0
+    microCopy: 'Check Details'
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->

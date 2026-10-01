@@ -5,6 +5,12 @@ pubDate: '2026-09-23'
 heroImage: '/images/serial-experiments-lain-collectors-guide-review.png'
 genre: 'Sci-Fi & Fantasy'
 mediaType: 'anime'
+sidebarProducts:
+  - title: 'Serial Experiments Lain Complete Series'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DSerial%20Experiments%20Lain%20Complete%20Series&af_id=DMMaria-999'
+    imageUrl: '/images/serial-experiments-lain-collectors-guide-review.png'
+    price: 0
+    microCopy: 'Check Details'
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->

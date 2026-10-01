@@ -5,6 +5,12 @@ pubDate: '2026-09-24'
 heroImage: '/images/best-seinen-manga-collector-guide.png'
 genre: 'Timeless Classics'
 mediaType: 'comic'
+sidebarProducts:
+  - title: 'Best Seinen Manga of All Time'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DBest%20Seinen%20Manga%20of%20All%20Time&af_id=DMMaria-999'
+    imageUrl: '/images/best-seinen-manga-collector-guide.png'
+    price: 0
+    microCopy: 'Check Details'
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->

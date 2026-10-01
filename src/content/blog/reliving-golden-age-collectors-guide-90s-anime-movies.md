@@ -5,6 +5,12 @@ pubDate: '2026-10-01'
 heroImage: '/images/reliving-golden-age-collectors-guide-90s-anime-movies.png'
 genre: 'Timeless Classics'
 mediaType: 'anime'
+sidebarProducts:
+  - title: 'Best Classic 90s Anime Movies'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DBest%20Classic%2090s%20Anime%20Movies&af_id=DMMaria-999'
+    imageUrl: '/images/reliving-golden-age-collectors-guide-90s-anime-movies.png'
+    price: 0
+    microCopy: 'Check Details'
 ---
 
 <!-- Disclosure: This page contains affiliate links. -->
