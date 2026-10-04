@@ -1,40 +1,50 @@
 ---
-title: 'Unboxing the Epic: Why the Attack on Titan Manga Box Set is a Must-Have for Every Fan'
-description: 'Dive into our in-depth review of the Attack on Titan Manga Box Set! Discover why this collector''s edition is essential.'
+title: 'Unboxing the Epic: Why the Attack on Titan Manga Box Set is a Must-Have for
+  Every Fan'
+description: Dive into our in-depth review of the Attack on Titan Manga Box Set! Discover
+  why this collector's edition is essential.
 pubDate: '2026-08-23'
-heroImage: '/images/attack-on-titan-manga-box-set-review-v2.jpg'
-genre: 'Action & Shonen'
-mediaType: 'comic'
+heroImage: /images/attack-on-titan-manga-box-set-review-v2.jpg
+genre: Action & Shonen
+mediaType: comic
 sidebarProducts:
-  - title: '進撃の巨人'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122517%2Fb900wkds06840%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900wkds06840/b900wkds06840pl.jpg'
-    price: 671
-    microCopy: 'View on DMM'
-  - title: '進撃の巨人 超合本版'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4088505%2Fb900wkds07620%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900wkds07620/b900wkds07620pl.jpg'
-    price: 2376
-    microCopy: 'View on DMM'
-  - title: '進撃の巨人マガジン15周年号'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6014394%2Fb900ckds01994%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900ckds01994/b900ckds01994pl.jpg'
-    price: 990
-    microCopy: 'View on DMM'
-  - title: '進撃の巨人 特装版 Ending'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4081257%2Fb900wkds06842%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900wkds06842/b900wkds06842pl.jpg'
-    price: 1078
-    microCopy: 'View on DMM'
+- title: 進撃の巨人
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122517%2Fb900wkds06840%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900wkds06840/b900wkds06840pl.jpg
+  price: 671
+  microCopy: View on DMM
+- title: 進撃の巨人 超合本版
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4088505%2Fb900wkds07620%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900wkds07620/b900wkds07620pl.jpg
+  price: 2376
+  microCopy: View on DMM
+- title: 進撃の巨人マガジン15周年号
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6014394%2Fb900ckds01994%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900ckds01994/b900ckds01994pl.jpg
+  price: 990
+  microCopy: View on DMM
+- title: 進撃の巨人 特装版 Ending
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4081257%2Fb900wkds06842%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900wkds06842/b900wkds06842pl.jpg
+  price: 1078
+  microCopy: View on DMM
 faq:
-  - question: 'Does this box set include all original volumes?'
-    answer: 'Yes, this complete box set collects the entire designated story arc or full series run in premium print format, along with exclusive collector extras.'
-  - question: 'How is the translation and print quality compared to individual volumes?'
-    answer: 'The print quality features enhanced paper stock with reduced bleed-through and updated translations that faithfully capture the original Japanese dialogue and nuance.'
-  - question: 'Is this edition suitable for newcomers or long-time fans?'
-    answer: 'It serves as both the definitive collector''s item for dedicated enthusiasts and the most convenient, cost-effective entry point for first-time readers.'
+- question: Does this box set include all original volumes?
+  answer: Yes, this complete box set collects the entire designated story arc or full
+    series run in premium print format, along with exclusive collector extras.
+- question: How is the translation and print quality compared to individual volumes?
+  answer: The print quality features enhanced paper stock with reduced bleed-through
+    and updated translations that faithfully capture the original Japanese dialogue
+    and nuance.
+- question: Is this edition suitable for newcomers or long-time fans?
+  answer: It serves as both the definitive collector's item for dedicated enthusiasts
+    and the most convenient, cost-effective entry point for first-time readers.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b900wkds06840/b900wkds06840pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900wkds07620/b900wkds07620pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900ckds01994/b900ckds01994pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900wkds06842/b900wkds06842pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">

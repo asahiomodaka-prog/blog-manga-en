@@ -1,33 +1,38 @@
 ---
 title: 'Chainsaw Man Volume 1: A Collector''s Guide to Denji''s Bloody Debut'
-description: 'Dive into Chainsaw Man Volume 1! Our review covers its art, story, and compares physical Japanese/English editions vs. Kindle digital for global collectors.'
+description: Dive into Chainsaw Man Volume 1! Our review covers its art, story, and
+  compares physical Japanese/English editions vs. Kindle digital for global collectors.
 pubDate: '2026-09-21'
-heroImage: '/images/chainsaw-man-volume-1-collectors-guide-denjis-bloody-debut.jpg'
-genre: 'Action & Shonen'
-mediaType: 'comic'
+heroImage: /images/chainsaw-man-volume-1-collectors-guide-denjis-bloody-debut.jpg
+genre: Action & Shonen
+mediaType: comic
 sidebarProducts:
-  - title: 'チェンソーマン'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F841834%2Fb950yshes29921%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes29921/b950yshes29921pl.jpg'
-    price: 572
-    microCopy: 'DMMで詳細を見る'
-  - title: 'チェンソーマン カラー版'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4141628%2Fb950vshes03373%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950vshes03373/b950vshes03373pl.jpg'
-    price: 569
-    microCopy: 'DMMで詳細を見る'
-  - title: '地獄楽 解体新書'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4072801%2Fb950ushes05013%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes05013/b950ushes05013pl.jpg'
-    price: 940
-    microCopy: 'DMMで詳細を見る'
-  - title: '藤本タツキ短編集 17-21'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4113881%2Fb950vshes01038%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950vshes01038/b950vshes01038pl.jpg'
-    price: 484
-    microCopy: 'DMMで詳細を見る'
+- title: チェンソーマン
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F841834%2Fb950yshes29921%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes29921/b950yshes29921pl.jpg
+  price: 572
+  microCopy: DMMで詳細を見る
+- title: チェンソーマン カラー版
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4141628%2Fb950vshes03373%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950vshes03373/b950vshes03373pl.jpg
+  price: 569
+  microCopy: DMMで詳細を見る
+- title: 地獄楽 解体新書
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4072801%2Fb950ushes05013%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950ushes05013/b950ushes05013pl.jpg
+  price: 940
+  microCopy: DMMで詳細を見る
+- title: 藤本タツキ短編集 17-21
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4113881%2Fb950vshes01038%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950vshes01038/b950vshes01038pl.jpg
+  price: 484
+  microCopy: DMMで詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b950yshes29921/b950yshes29921pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950vshes03373/b950vshes03373pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950ushes05013/b950ushes05013pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950vshes01038/b950vshes01038pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 # Chainsaw Man Volume 1: A Collector's Guide to Denji's Bloody Debut

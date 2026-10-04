@@ -1,39 +1,49 @@
 ---
-title: 'Why Spy x Family Manga is a Must-Read: A Deep Dive into the Forger Family''s Charm'
-description: 'Dive into the world of Spy x Family manga! Discover why this hilarious and heartwarming series about a fake family of spies, assassins, and psychics is capturing hearts worldwide.'
+title: 'Why Spy x Family Manga is a Must-Read: A Deep Dive into the Forger Family''s
+  Charm'
+description: Dive into the world of Spy x Family manga! Discover why this hilarious
+  and heartwarming series about a fake family of spies, assassins, and psychics is
+  capturing hearts worldwide.
 pubDate: '2026-08-21'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950yshss08129/b950yshss08129pl.jpg'
-genre: 'Action & Shonen'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b950yshss08129/b950yshss08129pl.jpg
+genre: Action & Shonen
 sidebarProducts:
-  - title: 'SPY×FAMILY'
-    url: 'https://global.bookwalker.jp/search/?word=SPY%20x%20FAMILY%20Manga'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes21535/b950yshes21535pl.jpg'
-    price: 606
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'SPY×FAMILY カラー版'
-    url: 'https://global.bookwalker.jp/search/?word=SPY%20x%20FAMILY%20Manga'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950vshes01824/b950vshes01824pl.jpg'
-    price: 611
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'SPY×FAMILY 公式ファンブック EYES ONLY'
-    url: 'https://global.bookwalker.jp/search/?word=SPY%20x%20FAMILY%20Manga'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950vshes07328/b950vshes07328pl.jpg'
-    price: 836
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'カナカナ'
-    url: 'https://global.bookwalker.jp/search/?word=SPY%20x%20FAMILY%20Manga'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600dsgk30417/b600dsgk30417pl.jpg'
-    price: 693
-    microCopy: 'Read on BOOK☆WALKER Global'
+- title: SPY×FAMILY
+  url: https://global.bookwalker.jp/search/?word=SPY%20x%20FAMILY%20Manga
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes21535/b950yshes21535pl.jpg
+  price: 606
+  microCopy: Read on BOOK☆WALKER Global
+- title: SPY×FAMILY カラー版
+  url: https://global.bookwalker.jp/search/?word=SPY%20x%20FAMILY%20Manga
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950vshes01824/b950vshes01824pl.jpg
+  price: 611
+  microCopy: Read on BOOK☆WALKER Global
+- title: SPY×FAMILY 公式ファンブック EYES ONLY
+  url: https://global.bookwalker.jp/search/?word=SPY%20x%20FAMILY%20Manga
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950vshes07328/b950vshes07328pl.jpg
+  price: 836
+  microCopy: Read on BOOK☆WALKER Global
+- title: カナカナ
+  url: https://global.bookwalker.jp/search/?word=SPY%20x%20FAMILY%20Manga
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600dsgk30417/b600dsgk30417pl.jpg
+  price: 693
+  microCopy: Read on BOOK☆WALKER Global
 faq:
-  - question: 'What makes this story stand out among modern masterpieces?'
-    answer: 'Its psychological complexity, boundary-pushing themes, and uncompromising character arcs elevate it beyond conventional genre storytelling.'
-  - question: 'Is prior knowledge of the genre required to appreciate this work?'
-    answer: 'Not at all. The universal themes of ambition, human struggle, and identity resonate strongly with both newcomers and seasoned connoisseurs.'
-  - question: 'Where is the best place to purchase authentic copies?'
-    answer: 'Major certified retailers like Amazon ensure authentic, undamaged copies backed by reliable buyer protection and prime shipping.'
+- question: What makes this story stand out among modern masterpieces?
+  answer: Its psychological complexity, boundary-pushing themes, and uncompromising
+    character arcs elevate it beyond conventional genre storytelling.
+- question: Is prior knowledge of the genre required to appreciate this work?
+  answer: Not at all. The universal themes of ambition, human struggle, and identity
+    resonate strongly with both newcomers and seasoned connoisseurs.
+- question: Where is the best place to purchase authentic copies?
+  answer: Major certified retailers like Amazon ensure authentic, undamaged copies
+    backed by reliable buyer protection and prime shipping.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b950yshes21535/b950yshes21535pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950vshes01824/b950vshes01824pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950vshes07328/b950vshes07328pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600dsgk30417/b600dsgk30417pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">

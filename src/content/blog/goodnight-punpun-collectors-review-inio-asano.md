@@ -1,30 +1,38 @@
 ---
-title: 'Goodnight Punpun: A Collector''s Journey into Inio Asano''s Unforgettable Masterpiece'
-description: 'Dive deep into Goodnight Punpun! Explore Inio Asano''''s dark masterpiece, comparing Viz Media''''s English omnibus editions, box sets, and Kindle digital convenience for global collectors.'
+title: 'Goodnight Punpun: A Collector''s Journey into Inio Asano''s Unforgettable
+  Masterpiece'
+description: Dive deep into Goodnight Punpun! Explore Inio Asano''s dark masterpiece,
+  comparing Viz Media''s English omnibus editions, box sets, and Kindle digital convenience
+  for global collectors.
 pubDate: '2026-09-15'
-heroImage: '/images/goodnight-punpun-collectors-review-inio-asano.jpg'
-genre: 'Timeless Classics'
-mediaType: 'comic'
+heroImage: /images/goodnight-punpun-collectors-review-inio-asano.jpg
+genre: Timeless Classics
+mediaType: comic
 sidebarProducts:
-  - title: 'おやすみプンプン'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F105280%2Fb600osgk04937%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600osgk04937/b600osgk04937pl.jpg'
-    price: 869
-    microCopy: 'DMMで詳細を見る'
-  - title: 'デッドデッドデーモンズデデデデデストラクション'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F300273%2Fb600bsgk04394%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk04394/b600bsgk04394pl.jpg'
-    price: 858
-    microCopy: 'DMMで詳細を見る'
+- title: おやすみプンプン
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F105280%2Fb600osgk04937%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600osgk04937/b600osgk04937pl.jpg
+  price: 869
+  microCopy: DMMで詳細を見る
+- title: デッドデッドデーモンズデデデデデストラクション
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F300273%2Fb600bsgk04394%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600bsgk04394/b600bsgk04394pl.jpg
+  price: 858
+  microCopy: DMMで詳細を見る
 faq:
-  - question: 'What makes this story stand out among modern masterpieces?'
-    answer: 'Its psychological complexity, boundary-pushing themes, and uncompromising character arcs elevate it beyond conventional genre storytelling.'
-  - question: 'Is prior knowledge of the genre required to appreciate this work?'
-    answer: 'Not at all. The universal themes of ambition, human struggle, and identity resonate strongly with both newcomers and seasoned connoisseurs.'
-  - question: 'Where is the best place to purchase authentic copies?'
-    answer: 'Major certified retailers like Amazon ensure authentic, undamaged copies backed by reliable buyer protection and prime shipping.'
+- question: What makes this story stand out among modern masterpieces?
+  answer: Its psychological complexity, boundary-pushing themes, and uncompromising
+    character arcs elevate it beyond conventional genre storytelling.
+- question: Is prior knowledge of the genre required to appreciate this work?
+  answer: Not at all. The universal themes of ambition, human struggle, and identity
+    resonate strongly with both newcomers and seasoned connoisseurs.
+- question: Where is the best place to purchase authentic copies?
+  answer: Major certified retailers like Amazon ensure authentic, undamaged copies
+    backed by reliable buyer protection and prime shipping.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b600osgk04937/b600osgk04937pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600bsgk04394/b600bsgk04394pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 # Goodnight Punpun: A Collector's Journey into Inio Asano's Unforgettable Masterpiece

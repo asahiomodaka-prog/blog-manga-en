@@ -1,40 +1,49 @@
 ---
-title: 'Delicious in Dungeon: A Culinary Adventure That''s More Than Just Monster Munchies'
-description: 'Dive into the whimsical world of Delicious in Dungeon! Our in-depth review and collector''s guide explores why this fantasy food manga is a must-read.'
+title: 'Delicious in Dungeon: A Culinary Adventure That''s More Than Just Monster
+  Munchies'
+description: Dive into the whimsical world of Delicious in Dungeon! Our in-depth review
+  and collector's guide explores why this fantasy food manga is a must-read.
 pubDate: '2026-08-27'
-heroImage: '/images/delicious-in-dungeon-manga-review-collectors-guide.jpg'
-genre: 'Sci-Fi & Fantasy'
-mediaType: 'comic'
+heroImage: /images/delicious-in-dungeon-manga-review-collectors-guide.jpg
+genre: Sci-Fi & Fantasy
+mediaType: comic
 sidebarProducts:
-  - title: 'ダンジョン飯'
-    url: 'https://global.bookwalker.jp/search/?word=Delicious%20in%20Dungeon%20Manga'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b000ehftx23714/b000ehftx23714pl.jpg'
-    price: 792
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'ダンジョン飯 ワールドガイド 冒険者バイブル 完全版'
-    url: 'https://global.bookwalker.jp/search/?word=Delicious%20in%20Dungeon%20Manga'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b000ehftx29143/b000ehftx29143pl.jpg'
-    price: 2090
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'ハルタ'
-    url: 'https://global.bookwalker.jp/search/?word=Delicious%20in%20Dungeon%20Manga'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b000fhftx12800/b000fhftx12800pl.jpg'
-    price: 880
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'ド丼パ！'
-    url: 'https://global.bookwalker.jp/search/?word=Delicious%20in%20Dungeon%20Manga'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b163aijt204910/b163aijt204910pl.jpg'
-    price: 1320
-    microCopy: 'Read on BOOK☆WALKER Global'
+- title: ダンジョン飯
+  url: https://global.bookwalker.jp/search/?word=Delicious%20in%20Dungeon%20Manga
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b000ehftx23714/b000ehftx23714pl.jpg
+  price: 792
+  microCopy: Read on BOOK☆WALKER Global
+- title: ダンジョン飯 ワールドガイド 冒険者バイブル 完全版
+  url: https://global.bookwalker.jp/search/?word=Delicious%20in%20Dungeon%20Manga
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b000ehftx29143/b000ehftx29143pl.jpg
+  price: 2090
+  microCopy: Read on BOOK☆WALKER Global
+- title: ハルタ
+  url: https://global.bookwalker.jp/search/?word=Delicious%20in%20Dungeon%20Manga
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b000fhftx12800/b000fhftx12800pl.jpg
+  price: 880
+  microCopy: Read on BOOK☆WALKER Global
+- title: ド丼パ！
+  url: https://global.bookwalker.jp/search/?word=Delicious%20in%20Dungeon%20Manga
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b163aijt204910/b163aijt204910pl.jpg
+  price: 1320
+  microCopy: Read on BOOK☆WALKER Global
 faq:
-  - question: 'What makes this story stand out among modern masterpieces?'
-    answer: 'Its psychological complexity, boundary-pushing themes, and uncompromising character arcs elevate it beyond conventional genre storytelling.'
-  - question: 'Is prior knowledge of the genre required to appreciate this work?'
-    answer: 'Not at all. The universal themes of ambition, human struggle, and identity resonate strongly with both newcomers and seasoned connoisseurs.'
-  - question: 'Where is the best place to purchase authentic copies?'
-    answer: 'Major certified retailers like Amazon ensure authentic, undamaged copies backed by reliable buyer protection and prime shipping.'
+- question: What makes this story stand out among modern masterpieces?
+  answer: Its psychological complexity, boundary-pushing themes, and uncompromising
+    character arcs elevate it beyond conventional genre storytelling.
+- question: Is prior knowledge of the genre required to appreciate this work?
+  answer: Not at all. The universal themes of ambition, human struggle, and identity
+    resonate strongly with both newcomers and seasoned connoisseurs.
+- question: Where is the best place to purchase authentic copies?
+  answer: Major certified retailers like Amazon ensure authentic, undamaged copies
+    backed by reliable buyer protection and prime shipping.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b000ehftx23714/b000ehftx23714pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b000ehftx29143/b000ehftx29143pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b000fhftx12800/b000fhftx12800pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b163aijt204910/b163aijt204910pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">

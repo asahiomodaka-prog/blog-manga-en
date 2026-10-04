@@ -2,7 +2,7 @@
 title: 'Rewind to Glory: Your Essential Collector''s Guide to the Best 90s Anime Movies'
 description: 'Dive into the golden age of anime cinema! This guide explores the best classic 90s anime movies, offering insights and collector tips.'
 pubDate: '2026-08-25'
-heroImage: '/images/safe-retro-anime-collector-desk.png'
+heroImage: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg'
 genre: 'Timeless Classics'
 mediaType: 'anime'
 faq:
@@ -15,7 +15,7 @@ faq:
 sidebarProducts:
   - title: 'Best Classic 90S Anime Movies Collector Guide'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DBest%20Classic%2090S%20Anime%20Movies%20Collector%20Guide&af_id=DMMaria-999'
-    imageUrl: '/images/safe-retro-anime-collector-desk.png'
+    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg'
     price: 0
     microCopy: 'Check Details'
 ---
@@ -36,7 +36,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/safe-retro-anime-collector-desk.png" alt="Best Classic 90S Anime Movies Collector Guide" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg" alt="Best Classic 90S Anime Movies Collector Guide" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
@@ -162,7 +162,7 @@ Beyond specific titles, here are some general tips for building your collection 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/safe-retro-anime-collector-desk.png" alt="Best Classic 90S Anime Movies Collector Guide" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg" alt="Best Classic 90S Anime Movies Collector Guide" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>

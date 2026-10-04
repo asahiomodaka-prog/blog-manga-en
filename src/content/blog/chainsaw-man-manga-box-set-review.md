@@ -2,38 +2,46 @@
 title: 'Chainsaw Man Manga Box Set: Unleash the Devil Hunter in Style'
 description: Dive into the world of Denji with the Chainsaw Man Manga Box Set. Our
 pubDate: '2026-08-20'
-heroImage: '/images/chainsaw-man-manga-box-set-review-v2.jpg'
+heroImage: /images/chainsaw-man-manga-box-set-review-v2.jpg
 genre: Action & Shonen
 sidebarProducts:
-  - title: 'チェンソーマン'
-    url: 'https://global.bookwalker.jp/search/?word=Chainsaw%20Man%20Manga%20Box%20Set'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes29921/b950yshes29921pl.jpg'
-    price: 543
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'チェンソーマン カラー版'
-    url: 'https://global.bookwalker.jp/search/?word=Chainsaw%20Man%20Manga%20Box%20Set'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950vshes03373/b950vshes03373pl.jpg'
-    price: 569
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: '地獄楽 解体新書'
-    url: 'https://global.bookwalker.jp/search/?word=Chainsaw%20Man%20Manga%20Box%20Set'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes05013/b950ushes05013pl.jpg'
-    price: 940
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: '藤本タツキ短編集 17-21'
-    url: 'https://global.bookwalker.jp/search/?word=Chainsaw%20Man%20Manga%20Box%20Set'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950vshes01038/b950vshes01038pl.jpg'
-    price: 459
-    microCopy: 'Read on BOOK☆WALKER Global'
+- title: チェンソーマン
+  url: https://global.bookwalker.jp/search/?word=Chainsaw%20Man%20Manga%20Box%20Set
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes29921/b950yshes29921pl.jpg
+  price: 543
+  microCopy: Read on BOOK☆WALKER Global
+- title: チェンソーマン カラー版
+  url: https://global.bookwalker.jp/search/?word=Chainsaw%20Man%20Manga%20Box%20Set
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950vshes03373/b950vshes03373pl.jpg
+  price: 569
+  microCopy: Read on BOOK☆WALKER Global
+- title: 地獄楽 解体新書
+  url: https://global.bookwalker.jp/search/?word=Chainsaw%20Man%20Manga%20Box%20Set
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950ushes05013/b950ushes05013pl.jpg
+  price: 940
+  microCopy: Read on BOOK☆WALKER Global
+- title: 藤本タツキ短編集 17-21
+  url: https://global.bookwalker.jp/search/?word=Chainsaw%20Man%20Manga%20Box%20Set
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950vshes01038/b950vshes01038pl.jpg
+  price: 459
+  microCopy: Read on BOOK☆WALKER Global
 faq:
-  - question: 'Does this box set include all original volumes?'
-    answer: 'Yes, this complete box set collects the entire designated story arc or full series run in premium print format, along with exclusive collector extras.'
-  - question: 'How is the translation and print quality compared to individual volumes?'
-    answer: 'The print quality features enhanced paper stock with reduced bleed-through and updated translations that faithfully capture the original Japanese dialogue and nuance.'
-  - question: 'Is this edition suitable for newcomers or long-time fans?'
-    answer: 'It serves as both the definitive collector''s item for dedicated enthusiasts and the most convenient, cost-effective entry point for first-time readers.'
+- question: Does this box set include all original volumes?
+  answer: Yes, this complete box set collects the entire designated story arc or full
+    series run in premium print format, along with exclusive collector extras.
+- question: How is the translation and print quality compared to individual volumes?
+  answer: The print quality features enhanced paper stock with reduced bleed-through
+    and updated translations that faithfully capture the original Japanese dialogue
+    and nuance.
+- question: Is this edition suitable for newcomers or long-time fans?
+  answer: It serves as both the definitive collector's item for dedicated enthusiasts
+    and the most convenient, cost-effective entry point for first-time readers.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b950yshes29921/b950yshes29921pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950vshes03373/b950vshes03373pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950ushes05013/b950ushes05013pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950vshes01038/b950vshes01038pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">

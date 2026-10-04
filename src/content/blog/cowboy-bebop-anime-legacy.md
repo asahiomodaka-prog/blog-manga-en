@@ -1,23 +1,27 @@
 ---
 title: 'Why Cowboy Bebop Remains the Ultimate Anime Masterpiece: A Timeless Jazz Voyage'
-description: 'An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover why this space western classic remains an absolute masterpiece.'
+description: An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover
+  why this space western classic remains an absolute masterpiece.
 pubDate: '2026-08-19'
-heroImage: '/images/safe-retro-anime-collector-desk.png'
-genre: 'Sci-Fi & Cyberpunk'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b867atobk07641/b867atobk07641pl.jpg
+genre: Sci-Fi & Cyberpunk
 sidebarProducts:
-  - title: 'カウボーイビバップ'
-    url: 'https://global.bookwalker.jp/search/?word=Cowboy%20Bebop%20Complete%20Series%20Blu-ray'
-    imageUrl: '/images/safe-retro-anime-collector-desk.png'
-    microCopy: 'Read on BOOK☆WALKER Global'
+- title: カウボーイビバップ
+  url: https://global.bookwalker.jp/search/?word=Cowboy%20Bebop%20Complete%20Series%20Blu-ray
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b867atobk07641/b867atobk07641pl.jpg
+  microCopy: Read on BOOK☆WALKER Global
 faq:
-  - question: 'Is Cowboy Bebop beginner-friendly for newcomers to Japanese animation?'
-    answer: 'Absolutely. Its grounded cinematic direction, relatable adult themes, and episodic format make it one of the absolute best gateway anime series of all time.'
-  - question: 'Should I watch the English dub or the Japanese original?'
-    answer: 'Cowboy Bebop features one of the most revered English dub casts in the industry (led by Steve Blum as Spike), but the Japanese voice acting (starring Koichi Yamadera) is equally phenomenal. You cannot go wrong with either.'
-  - question: 'How many episodes are there in the series?'
-    answer: 'The complete original TV series spans 26 episodes, accompanied by a feature-length theatrical film, Cowboy Bebop: Knockin'' on Heaven''s Door (2001).'
+- question: Is Cowboy Bebop beginner-friendly for newcomers to Japanese animation?
+  answer: Absolutely. Its grounded cinematic direction, relatable adult themes, and
+    episodic format make it one of the absolute best gateway anime series of all time.
+- question: Should I watch the English dub or the Japanese original?
+  answer: Cowboy Bebop features one of the most revered English dub casts in the industry
+    (led by Steve Blum as Spike), but the Japanese voice acting (starring Koichi Yamadera)
+    is equally phenomenal. You cannot go wrong with either.
+- question: How many episodes are there in the series?
+  answer: 'The complete original TV series spans 26 episodes, accompanied by a feature-length
+    theatrical film, Cowboy Bebop: Knockin'' on Heaven''s Door (2001).'
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 :::note
@@ -40,7 +44,7 @@ When Shinichiro Watanabe and Studio Sunrise released *Cowboy Bebop* in 1998, the
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/safe-retro-anime-collector-desk.png" alt="Cowboy Bebop" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b867atobk07641/b867atobk07641pl.jpg" alt="Cowboy Bebop" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
@@ -89,7 +93,7 @@ A3: The complete original TV series spans 26 episodes, accompanied by a feature-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/safe-retro-anime-collector-desk.png" alt="Cowboy Bebop" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b867atobk07641/b867atobk07641pl.jpg" alt="Cowboy Bebop" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>

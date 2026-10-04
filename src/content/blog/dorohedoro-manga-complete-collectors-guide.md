@@ -1,28 +1,34 @@
 ---
-title: 'Dorohedoro Manga Complete: A Collector''s Guide to Q Hayashida''s Dark Fantasy Masterpiece'
-description: 'Dive into Dorohedoro! A collector''''s guide to Q Hayashida''''s unique dark fantasy manga, comparing English physical volumes, Japanese imports, and Kindle digital releases.'
+title: 'Dorohedoro Manga Complete: A Collector''s Guide to Q Hayashida''s Dark Fantasy
+  Masterpiece'
+description: Dive into Dorohedoro! A collector''s guide to Q Hayashida''s unique dark
+  fantasy manga, comparing English physical volumes, Japanese imports, and Kindle
+  digital releases.
 pubDate: '2026-09-22'
-heroImage: '/images/dorohedoro-manga-complete-collectors-guide.jpg'
-genre: 'Sci-Fi & Fantasy'
-mediaType: 'comic'
+heroImage: /images/dorohedoro-manga-complete-collectors-guide.jpg
+genre: Sci-Fi & Fantasy
+mediaType: comic
 sidebarProducts:
-  - title: 'ドロヘドロ'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F829112%2Fb600usgk03714%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600usgk03714/b600usgk03714pl.jpg'
-    price: 1969
-    microCopy: 'DMMで詳細を見る'
-  - title: 'ヒバナ'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F504628%2Fb600ssgk02756%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600ssgk02756/b600ssgk02756pl.jpg'
-    price: 662
-    microCopy: 'DMMで詳細を見る'
-  - title: '大ダーク'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F899509%2Fb600esgk34323%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600esgk34323/b600esgk34323pl.jpg'
-    price: 1089
-    microCopy: 'DMMで詳細を見る'
+- title: ドロヘドロ
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F829112%2Fb600usgk03714%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600usgk03714/b600usgk03714pl.jpg
+  price: 1969
+  microCopy: DMMで詳細を見る
+- title: ヒバナ
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F504628%2Fb600ssgk02756%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600ssgk02756/b600ssgk02756pl.jpg
+  price: 662
+  microCopy: DMMで詳細を見る
+- title: 大ダーク
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F899509%2Fb600esgk34323%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600esgk34323/b600esgk34323pl.jpg
+  price: 1089
+  microCopy: DMMで詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b600usgk03714/b600usgk03714pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600ssgk02756/b600ssgk02756pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600esgk34323/b600esgk34323pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 # Dorohedoro Manga Complete: A Collector's Guide to Q Hayashida's Dark Fantasy Masterpiece

@@ -2,38 +2,45 @@
 title: 'Beyond the Stars: Why ''''Space Brothers'''' is a Must-Read Manga and Must-Watch'
 description: Dive into ''Space Brothers,'' the inspiring manga and anime about two
 pubDate: '2026-08-19'
-heroImage: '/images/space-brothers-uchuu-kyoudai-manga-anime-review-guide-v2.jpg'
+heroImage: /images/space-brothers-uchuu-kyoudai-manga-anime-review-guide-v2.jpg
 genre: Sci-Fi & Fantasy
 sidebarProducts:
-  - title: '宇宙兄弟'
-    url: 'https://global.bookwalker.jp/search/?word=Space%20Brothers%20Manga'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg'
-    price: 1130
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: '宇宙兄弟 オールカラー版'
-    url: 'https://global.bookwalker.jp/search/?word=Space%20Brothers%20Manga'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900zkds16787/b900zkds16787pl.jpg'
-    price: 946
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: '宇宙兄弟 画集付き 特装版'
-    url: 'https://global.bookwalker.jp/search/?word=Space%20Brothers%20Manga'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900wkds04319/b900wkds04319pl.jpg'
-    price: 1870
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: '宇宙兄弟公式コミックガイド'
-    url: 'https://global.bookwalker.jp/search/?word=Space%20Brothers%20Manga'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900wkds04316/b900wkds04316pl.jpg'
-    price: 1100
-    microCopy: 'Read on BOOK☆WALKER Global'
+- title: 宇宙兄弟
+  url: https://global.bookwalker.jp/search/?word=Space%20Brothers%20Manga
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg
+  price: 1130
+  microCopy: Read on BOOK☆WALKER Global
+- title: 宇宙兄弟 オールカラー版
+  url: https://global.bookwalker.jp/search/?word=Space%20Brothers%20Manga
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900zkds16787/b900zkds16787pl.jpg
+  price: 946
+  microCopy: Read on BOOK☆WALKER Global
+- title: 宇宙兄弟 画集付き 特装版
+  url: https://global.bookwalker.jp/search/?word=Space%20Brothers%20Manga
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900wkds04319/b900wkds04319pl.jpg
+  price: 1870
+  microCopy: Read on BOOK☆WALKER Global
+- title: 宇宙兄弟公式コミックガイド
+  url: https://global.bookwalker.jp/search/?word=Space%20Brothers%20Manga
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900wkds04316/b900wkds04316pl.jpg
+  price: 1100
+  microCopy: Read on BOOK☆WALKER Global
 faq:
-  - question: 'What makes this story stand out among modern masterpieces?'
-    answer: 'Its psychological complexity, boundary-pushing themes, and uncompromising character arcs elevate it beyond conventional genre storytelling.'
-  - question: 'Is prior knowledge of the genre required to appreciate this work?'
-    answer: 'Not at all. The universal themes of ambition, human struggle, and identity resonate strongly with both newcomers and seasoned connoisseurs.'
-  - question: 'Where is the best place to purchase authentic copies?'
-    answer: 'Major certified retailers like Amazon ensure authentic, undamaged copies backed by reliable buyer protection and prime shipping.'
+- question: What makes this story stand out among modern masterpieces?
+  answer: Its psychological complexity, boundary-pushing themes, and uncompromising
+    character arcs elevate it beyond conventional genre storytelling.
+- question: Is prior knowledge of the genre required to appreciate this work?
+  answer: Not at all. The universal themes of ambition, human struggle, and identity
+    resonate strongly with both newcomers and seasoned connoisseurs.
+- question: Where is the best place to purchase authentic copies?
+  answer: Major certified retailers like Amazon ensure authentic, undamaged copies
+    backed by reliable buyer protection and prime shipping.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900zkds16787/b900zkds16787pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900wkds04319/b900wkds04319pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900wkds04316/b900wkds04316pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">

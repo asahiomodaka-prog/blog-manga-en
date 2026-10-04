@@ -1,30 +1,36 @@
 ---
 title: 'Beyond Guts: Unearthing Dark Fantasy Manga Akin to Berserk for Collectors'
-description: 'Explore the best dark fantasy manga akin to Berserk. A collector''''s guide to premium physical editions and instant digital releases.'
+description: Explore the best dark fantasy manga akin to Berserk. A collector''s guide
+  to premium physical editions and instant digital releases.
 pubDate: '2026-09-06'
-heroImage: '/images/dark-fantasy-manga-like-berserk-collectors-guide.jpg'
-genre: 'Sci-Fi & Fantasy'
-mediaType: 'comic'
+heroImage: /images/dark-fantasy-manga-like-berserk-collectors-guide.jpg
+genre: Sci-Fi & Fantasy
+mediaType: comic
 sidebarProducts:
-  - title: 'ベルセルク'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102108%2Fb371khkss06951%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg'
-    price: 880
-    microCopy: 'DMMで詳細を見る'
-  - title: '『ベルセルク』スペシャル編集版'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122781%2Fb371chkss00387%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371chkss00387/b371chkss00387pl.jpg'
-    price: 1236
-    microCopy: 'DMMで詳細を見る'
+- title: ベルセルク
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102108%2Fb371khkss06951%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg
+  price: 880
+  microCopy: DMMで詳細を見る
+- title: 『ベルセルク』スペシャル編集版
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122781%2Fb371chkss00387%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b371chkss00387/b371chkss00387pl.jpg
+  price: 1236
+  microCopy: DMMで詳細を見る
 faq:
-  - question: 'What makes this story stand out among modern masterpieces?'
-    answer: 'Its psychological complexity, boundary-pushing themes, and uncompromising character arcs elevate it beyond conventional genre storytelling.'
-  - question: 'Is prior knowledge of the genre required to appreciate this work?'
-    answer: 'Not at all. The universal themes of ambition, human struggle, and identity resonate strongly with both newcomers and seasoned connoisseurs.'
-  - question: 'Where is the best place to purchase authentic copies?'
-    answer: 'Major certified retailers like Amazon ensure authentic, undamaged copies backed by reliable buyer protection and prime shipping.'
+- question: What makes this story stand out among modern masterpieces?
+  answer: Its psychological complexity, boundary-pushing themes, and uncompromising
+    character arcs elevate it beyond conventional genre storytelling.
+- question: Is prior knowledge of the genre required to appreciate this work?
+  answer: Not at all. The universal themes of ambition, human struggle, and identity
+    resonate strongly with both newcomers and seasoned connoisseurs.
+- question: Where is the best place to purchase authentic copies?
+  answer: Major certified retailers like Amazon ensure authentic, undamaged copies
+    backed by reliable buyer protection and prime shipping.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b371chkss00387/b371chkss00387pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 # Beyond Guts: [Unearthing](/blog/unearthing-gems-classic-retro-anime-worth-watching/) Dark Fantasy Manga [Masterpieces](/blog/underrated-manga-masterpieces-collectors-guide/) for Collectors

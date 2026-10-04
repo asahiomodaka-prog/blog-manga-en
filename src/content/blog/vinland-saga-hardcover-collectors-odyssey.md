@@ -1,33 +1,39 @@
 ---
-title: 'Vinland Saga Hardcover: A Collector''s Odyssey into Viking Lore and Premium Manga Editions'
-description: 'Dive deep into the Vinland Saga Hardcover editions. A comprehensive guide for international collectors comparing physical vs. English Kindle releases.'
+title: 'Vinland Saga Hardcover: A Collector''s Odyssey into Viking Lore and Premium
+  Manga Editions'
+description: Dive deep into the Vinland Saga Hardcover editions. A comprehensive guide
+  for international collectors comparing physical vs. English Kindle releases.
 pubDate: '2026-09-18'
-heroImage: '/images/vinland-saga-hardcover-collectors-odyssey.jpg'
-genre: 'Timeless Classics'
-mediaType: 'comic'
+heroImage: /images/vinland-saga-hardcover-collectors-odyssey.jpg
+genre: Timeless Classics
+mediaType: comic
 sidebarProducts:
-  - title: 'ヴィンランド・サガ'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F100792%2Fb900ckds55391%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900ckds55391/b900ckds55391pl.jpg'
-    price: 1012
-    microCopy: 'DMMで詳細を見る'
-  - title: 'ヴィンランド・サガ 公式ガイドブック'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F908823%2Fb900vkds02423%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900vkds02423/b900vkds02423pl.jpg'
-    price: 1265
-    microCopy: 'DMMで詳細を見る'
-  - title: 'Tシャツ日和'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F588175%2Fb202aoota00620%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b202aoota00620/b202aoota00620pl.jpg'
-    price: 1100
-    microCopy: 'DMMで詳細を見る'
-  - title: 'のーどうでいず'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F708640%2Fb388atabd00252%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b388atabd00252/b388atabd00252pl.jpg'
-    price: 880
-    microCopy: 'DMMで詳細を見る'
+- title: ヴィンランド・サガ
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F100792%2Fb900ckds55391%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900ckds55391/b900ckds55391pl.jpg
+  price: 1012
+  microCopy: DMMで詳細を見る
+- title: ヴィンランド・サガ 公式ガイドブック
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F908823%2Fb900vkds02423%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900vkds02423/b900vkds02423pl.jpg
+  price: 1265
+  microCopy: DMMで詳細を見る
+- title: Tシャツ日和
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F588175%2Fb202aoota00620%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b202aoota00620/b202aoota00620pl.jpg
+  price: 1100
+  microCopy: DMMで詳細を見る
+- title: のーどうでいず
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F708640%2Fb388atabd00252%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b388atabd00252/b388atabd00252pl.jpg
+  price: 880
+  microCopy: DMMで詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b900ckds55391/b900ckds55391pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900vkds02423/b900vkds02423pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b202aoota00620/b202aoota00620pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b388atabd00252/b388atabd00252pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 # Vinland Saga Hardcover: A Collector's Odyssey into Viking Lore and Premium Manga Editions

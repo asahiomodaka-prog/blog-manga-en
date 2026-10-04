@@ -1,40 +1,49 @@
 ---
-title: 'Journey to Vinland: Why the Hardcover Manga is a Must-Have for Every Saga Fan'
-description: 'Dive deep into Vinland Saga''''s epic world with our review of the stunning hardcover manga. A collector''''s guide for true fans!'
+title: 'Journey to Vinland: Why the Hardcover Manga is a Must-Have for Every Saga
+  Fan'
+description: Dive deep into Vinland Saga''s epic world with our review of the stunning
+  hardcover manga. A collector''s guide for true fans!
 pubDate: '2026-08-31'
-heroImage: '/images/vinland-saga-hardcover-manga-review-buying-guide.jpg'
-genre: 'Action & Shonen'
-mediaType: 'comic'
+heroImage: /images/vinland-saga-hardcover-manga-review-buying-guide.jpg
+genre: Action & Shonen
+mediaType: comic
 sidebarProducts:
-  - title: 'ヴィンランド・サガ'
-    url: 'https://global.bookwalker.jp/search/?word='
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900ckds55391/b900ckds55391pl.jpg'
-    price: 1012
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'ヴィンランド・サガ 公式ガイドブック'
-    url: 'https://global.bookwalker.jp/search/?word='
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900vkds02423/b900vkds02423pl.jpg'
-    price: 1265
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'Tシャツ日和'
-    url: 'https://global.bookwalker.jp/search/?word='
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b202aoota00620/b202aoota00620pl.jpg'
-    price: 1100
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'のーどうでいず'
-    url: 'https://global.bookwalker.jp/search/?word='
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b388atabd00252/b388atabd00252pl.jpg'
-    price: 880
-    microCopy: 'Read on BOOK☆WALKER Global'
+- title: ヴィンランド・サガ
+  url: https://global.bookwalker.jp/search/?word=
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900ckds55391/b900ckds55391pl.jpg
+  price: 1012
+  microCopy: Read on BOOK☆WALKER Global
+- title: ヴィンランド・サガ 公式ガイドブック
+  url: https://global.bookwalker.jp/search/?word=
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900vkds02423/b900vkds02423pl.jpg
+  price: 1265
+  microCopy: Read on BOOK☆WALKER Global
+- title: Tシャツ日和
+  url: https://global.bookwalker.jp/search/?word=
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b202aoota00620/b202aoota00620pl.jpg
+  price: 1100
+  microCopy: Read on BOOK☆WALKER Global
+- title: のーどうでいず
+  url: https://global.bookwalker.jp/search/?word=
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b388atabd00252/b388atabd00252pl.jpg
+  price: 880
+  microCopy: Read on BOOK☆WALKER Global
 faq:
-  - question: 'Why choose the Deluxe Hardcover Edition over standard paperbacks?'
-    answer: 'The oversized pages showcase intricate artwork in unprecedented detail, while the sewn binding and leatherette hardcover provide lifelong shelf durability.'
-  - question: 'Does this volume include color illustrations or author notes?'
-    answer: 'Yes, it preserves original color spreads, promotional gallery art, and comprehensive creator notes that standard tankobon editions often omit.'
-  - question: 'What is the best way to care for and store these oversized volumes?'
-    answer: 'Store them upright on sturdy shelving away from direct sunlight and high humidity to preserve the foil stamping and archival paper quality.'
+- question: Why choose the Deluxe Hardcover Edition over standard paperbacks?
+  answer: The oversized pages showcase intricate artwork in unprecedented detail,
+    while the sewn binding and leatherette hardcover provide lifelong shelf durability.
+- question: Does this volume include color illustrations or author notes?
+  answer: Yes, it preserves original color spreads, promotional gallery art, and comprehensive
+    creator notes that standard tankobon editions often omit.
+- question: What is the best way to care for and store these oversized volumes?
+  answer: Store them upright on sturdy shelving away from direct sunlight and high
+    humidity to preserve the foil stamping and archival paper quality.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b900ckds55391/b900ckds55391pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900vkds02423/b900vkds02423pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b202aoota00620/b202aoota00620pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b388atabd00252/b388atabd00252pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">

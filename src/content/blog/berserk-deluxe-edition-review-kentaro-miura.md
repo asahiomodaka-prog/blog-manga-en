@@ -2,38 +2,45 @@
 title: 'Unleashing the Beast: Why Berserk Deluxe Edition is the Definitive Way to'
 description: Dive deep into the brutal beauty of Berserk with our comprehensive review
 pubDate: '2026-08-19'
-heroImage: '/images/berserk-deluxe-edition-review-kentaro-miura-v2.jpg'
+heroImage: /images/berserk-deluxe-edition-review-kentaro-miura-v2.jpg
 genre: Sci-Fi & Fantasy
 sidebarProducts:
-  - title: 'ベルセルク'
-    url: 'https://global.bookwalker.jp/search/?word=Berserk%20Deluxe%20Edition'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg'
-    price: 880
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: '『ベルセルク』スペシャル編集版'
-    url: 'https://global.bookwalker.jp/search/?word=Berserk%20Deluxe%20Edition'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371chkss00387/b371chkss00387pl.jpg'
-    price: 1236
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: '暴食のベルセルク〜俺だけレベルという概念を突破して最強〜'
-    url: 'https://global.bookwalker.jp/search/?word=Berserk%20Deluxe%20Edition'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b389amcmg04375/b389amcmg04375pl.jpg'
-    price: 67
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: '暴食のベルセルク〜俺だけレベルという概念を突破する〜【単話版】（単話）'
-    url: 'https://global.bookwalker.jp/search/?word=Berserk%20Deluxe%20Edition'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b389amcmg05002/b389amcmg05002pl.jpg'
-    price: 110
-    microCopy: 'Read on BOOK☆WALKER Global'
+- title: ベルセルク
+  url: https://global.bookwalker.jp/search/?word=Berserk%20Deluxe%20Edition
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg
+  price: 880
+  microCopy: Read on BOOK☆WALKER Global
+- title: 『ベルセルク』スペシャル編集版
+  url: https://global.bookwalker.jp/search/?word=Berserk%20Deluxe%20Edition
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b371chkss00387/b371chkss00387pl.jpg
+  price: 1236
+  microCopy: Read on BOOK☆WALKER Global
+- title: 暴食のベルセルク〜俺だけレベルという概念を突破して最強〜
+  url: https://global.bookwalker.jp/search/?word=Berserk%20Deluxe%20Edition
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b389amcmg04375/b389amcmg04375pl.jpg
+  price: 67
+  microCopy: Read on BOOK☆WALKER Global
+- title: 暴食のベルセルク〜俺だけレベルという概念を突破する〜【単話版】（単話）
+  url: https://global.bookwalker.jp/search/?word=Berserk%20Deluxe%20Edition
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b389amcmg05002/b389amcmg05002pl.jpg
+  price: 110
+  microCopy: Read on BOOK☆WALKER Global
 faq:
-  - question: 'Why choose the Deluxe Hardcover Edition over standard paperbacks?'
-    answer: 'The oversized pages showcase intricate artwork in unprecedented detail, while the sewn binding and leatherette hardcover provide lifelong shelf durability.'
-  - question: 'Does this volume include color illustrations or author notes?'
-    answer: 'Yes, it preserves original color spreads, promotional gallery art, and comprehensive creator notes that standard tankobon editions often omit.'
-  - question: 'What is the best way to care for and store these oversized volumes?'
-    answer: 'Store them upright on sturdy shelving away from direct sunlight and high humidity to preserve the foil stamping and archival paper quality.'
+- question: Why choose the Deluxe Hardcover Edition over standard paperbacks?
+  answer: The oversized pages showcase intricate artwork in unprecedented detail,
+    while the sewn binding and leatherette hardcover provide lifelong shelf durability.
+- question: Does this volume include color illustrations or author notes?
+  answer: Yes, it preserves original color spreads, promotional gallery art, and comprehensive
+    creator notes that standard tankobon editions often omit.
+- question: What is the best way to care for and store these oversized volumes?
+  answer: Store them upright on sturdy shelving away from direct sunlight and high
+    humidity to preserve the foil stamping and archival paper quality.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b371chkss00387/b371chkss00387pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b389amcmg04375/b389amcmg04375pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b389amcmg05002/b389amcmg05002pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">

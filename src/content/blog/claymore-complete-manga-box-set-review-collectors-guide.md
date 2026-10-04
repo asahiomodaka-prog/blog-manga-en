@@ -1,38 +1,49 @@
 ---
-title: 'Claymore Complete Manga Box Set: A Collector''s Guide to Yagi Norihiro''s Dark Fantasy Epic'
-description: 'Dive into Claymore''''s brutal world with this complete manga box set review. Compare physical vs. Kindle for international dark fantasy collectors.'
+title: 'Claymore Complete Manga Box Set: A Collector''s Guide to Yagi Norihiro''s
+  Dark Fantasy Epic'
+description: Dive into Claymore''s brutal world with this complete manga box set review.
+  Compare physical vs. Kindle for international dark fantasy collectors.
 pubDate: '2026-09-15'
-heroImage: '/images/claymore-complete-manga-box-set-review-collectors-guide.jpg'
-genre: 'Sci-Fi & Fantasy'
-mediaType: 'comic'
+heroImage: /images/claymore-complete-manga-box-set-review-collectors-guide.jpg
+genre: Sci-Fi & Fantasy
+mediaType: comic
 sidebarProducts:
-  - title: 'CLAYMORE'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56837%2Fb950lshes04730%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950lshes04730/b950lshes04730pl.jpg'
-    price: 418
-    microCopy: 'DMMで詳細を見る'
-  - title: 'CLAYMORE セルフリメイク版'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6029493%2Fb950xshes64331%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes64331/b950xshes64331pl.jpg'
-    price: 408
-    microCopy: 'DMMで詳細を見る'
-  - title: '蒼穹のアリアドネ'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F797381%2Fb600dsgk09949%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600dsgk09949/b600dsgk09949pl.jpg'
-    price: 528
-    microCopy: 'DMMで詳細を見る'
-  - title: 'ジャンプデジタル画集 デジガ CLAYMORE'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6230977%2Fb950yshes03982%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes03982/b950yshes03982pl.jpg'
-    price: 990
-    microCopy: 'DMMで詳細を見る'
+- title: CLAYMORE
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56837%2Fb950lshes04730%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950lshes04730/b950lshes04730pl.jpg
+  price: 418
+  microCopy: DMMで詳細を見る
+- title: CLAYMORE セルフリメイク版
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6029493%2Fb950xshes64331%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950xshes64331/b950xshes64331pl.jpg
+  price: 408
+  microCopy: DMMで詳細を見る
+- title: 蒼穹のアリアドネ
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F797381%2Fb600dsgk09949%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600dsgk09949/b600dsgk09949pl.jpg
+  price: 528
+  microCopy: DMMで詳細を見る
+- title: ジャンプデジタル画集 デジガ CLAYMORE
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6230977%2Fb950yshes03982%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes03982/b950yshes03982pl.jpg
+  price: 990
+  microCopy: DMMで詳細を見る
 faq:
-  - question: 'Does this box set include all original volumes?'
-    answer: 'Yes, this complete box set collects the entire designated story arc or full series run in premium print format, along with exclusive collector extras.'
-  - question: 'How is the translation and print quality compared to individual volumes?'
-    answer: 'The print quality features enhanced paper stock with reduced bleed-through and updated translations that faithfully capture the original Japanese dialogue and nuance.'
-  - question: 'Is this edition suitable for newcomers or long-time fans?'
-    answer: 'It serves as both the definitive collector''s item for dedicated enthusiasts and the most convenient, cost-effective entry point for first-time readers.'
+- question: Does this box set include all original volumes?
+  answer: Yes, this complete box set collects the entire designated story arc or full
+    series run in premium print format, along with exclusive collector extras.
+- question: How is the translation and print quality compared to individual volumes?
+  answer: The print quality features enhanced paper stock with reduced bleed-through
+    and updated translations that faithfully capture the original Japanese dialogue
+    and nuance.
+- question: Is this edition suitable for newcomers or long-time fans?
+  answer: It serves as both the definitive collector's item for dedicated enthusiasts
+    and the most convenient, cost-effective entry point for first-time readers.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b950lshes04730/b950lshes04730pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950xshes64331/b950xshes64331pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600dsgk09949/b600dsgk09949pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950yshes03982/b950yshes03982pl.jpg
 ---
 <!-- Disclosure: This page contains affiliate links. -->
 

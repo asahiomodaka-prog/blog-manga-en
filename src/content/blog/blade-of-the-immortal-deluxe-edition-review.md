@@ -1,40 +1,49 @@
 ---
-title: 'Blade of the Immortal Deluxe Edition: A Collector''s Guide to Hiroaki Samura''s Masterpiece'
-description: 'Dive into the Blade of the Immortal Deluxe Edition. A collector''''s guide comparing the oversized hardcovers to digital releases for international fans.'
+title: 'Blade of the Immortal Deluxe Edition: A Collector''s Guide to Hiroaki Samura''s
+  Masterpiece'
+description: Dive into the Blade of the Immortal Deluxe Edition. A collector''s guide
+  comparing the oversized hardcovers to digital releases for international fans.
 pubDate: '2026-09-05'
-heroImage: '/images/blade-of-the-immortal-deluxe-edition-review.jpg'
-genre: 'Timeless Classics'
-mediaType: 'comic'
+heroImage: /images/blade-of-the-immortal-deluxe-edition-review.jpg
+genre: Timeless Classics
+mediaType: comic
 sidebarProducts:
-  - title: '無限の住人'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122235%2Fb900kkds00166%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900kkds00166/b900kkds00166pl.jpg'
-    price: 792
-    microCopy: 'DMMで詳細を見る'
-  - title: '無限の住人 超合本版'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F821089%2Fb900skds03468%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900skds03468/b900skds03468pl.jpg'
-    price: 3960
-    microCopy: 'DMMで詳細を見る'
-  - title: '無限の住人〜幕末ノ章〜'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F895798%2Fb900bkds88264%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900bkds88264/b900bkds88264pl.jpg'
-    price: 880
-    microCopy: 'DMMで詳細を見る'
-  - title: 'ベアゲルター'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F57519%2Fb900alds15167%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900alds15167/b900alds15167pl.jpg'
-    price: 847
-    microCopy: 'DMMで詳細を見る'
+- title: 無限の住人
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122235%2Fb900kkds00166%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900kkds00166/b900kkds00166pl.jpg
+  price: 792
+  microCopy: DMMで詳細を見る
+- title: 無限の住人 超合本版
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F821089%2Fb900skds03468%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900skds03468/b900skds03468pl.jpg
+  price: 3960
+  microCopy: DMMで詳細を見る
+- title: 無限の住人〜幕末ノ章〜
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F895798%2Fb900bkds88264%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900bkds88264/b900bkds88264pl.jpg
+  price: 880
+  microCopy: DMMで詳細を見る
+- title: ベアゲルター
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F57519%2Fb900alds15167%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900alds15167/b900alds15167pl.jpg
+  price: 847
+  microCopy: DMMで詳細を見る
 faq:
-  - question: 'Why choose the Deluxe Hardcover Edition over standard paperbacks?'
-    answer: 'The oversized pages showcase intricate artwork in unprecedented detail, while the sewn binding and leatherette hardcover provide lifelong shelf durability.'
-  - question: 'Does this volume include color illustrations or author notes?'
-    answer: 'Yes, it preserves original color spreads, promotional gallery art, and comprehensive creator notes that standard tankobon editions often omit.'
-  - question: 'What is the best way to care for and store these oversized volumes?'
-    answer: 'Store them upright on sturdy shelving away from direct sunlight and high humidity to preserve the foil stamping and archival paper quality.'
+- question: Why choose the Deluxe Hardcover Edition over standard paperbacks?
+  answer: The oversized pages showcase intricate artwork in unprecedented detail,
+    while the sewn binding and leatherette hardcover provide lifelong shelf durability.
+- question: Does this volume include color illustrations or author notes?
+  answer: Yes, it preserves original color spreads, promotional gallery art, and comprehensive
+    creator notes that standard tankobon editions often omit.
+- question: What is the best way to care for and store these oversized volumes?
+  answer: Store them upright on sturdy shelving away from direct sunlight and high
+    humidity to preserve the foil stamping and archival paper quality.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b900kkds00166/b900kkds00166pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900skds03468/b900skds03468pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900bkds88264/b900bkds88264pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900alds15167/b900alds15167pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 # Blade of the Immortal Deluxe Edition: A Collector's Guide to Hiroaki Samura's Masterpiece

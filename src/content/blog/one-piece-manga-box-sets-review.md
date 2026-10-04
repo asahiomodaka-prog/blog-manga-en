@@ -2,38 +2,46 @@
 title: 'Setting Sail with the Straw Hats: Why the One Piece Manga Box Sets Are a Must-Have'
 description: Dive into the grand adventure of One Piece with these essential manga
 pubDate: '2026-08-20'
-heroImage: '/images/one-piece-manga-box-sets-review-v2.jpg'
+heroImage: /images/one-piece-manga-box-sets-review-v2.jpg
 genre: Action & Shonen
 sidebarProducts:
-  - title: 'ONE PIECE学園'
-    url: 'https://global.bookwalker.jp/search/?word=One%20Piece%20Manga%20Box%20Set'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes32615/b950yshes32615pl.jpg'
-    price: 572
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'ONE PIECE カラー版'
-    url: 'https://global.bookwalker.jp/search/?word=One%20Piece%20Manga%20Box%20Set'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes23527/b950yshes23527pl.jpg'
-    price: 611
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'ONE PIECE モノクロ版'
-    url: 'https://global.bookwalker.jp/search/?word=One%20Piece%20Manga%20Box%20Set'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes32627/b950yshes32627pl.jpg'
-    price: 594
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'ONE PIECE magazine'
-    url: 'https://global.bookwalker.jp/search/?word=One%20Piece%20Manga%20Box%20Set'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes95830/b950xshes95830pl.jpg'
-    price: 1567
-    microCopy: 'Read on BOOK☆WALKER Global'
+- title: ONE PIECE学園
+  url: https://global.bookwalker.jp/search/?word=One%20Piece%20Manga%20Box%20Set
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes32615/b950yshes32615pl.jpg
+  price: 572
+  microCopy: Read on BOOK☆WALKER Global
+- title: ONE PIECE カラー版
+  url: https://global.bookwalker.jp/search/?word=One%20Piece%20Manga%20Box%20Set
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes23527/b950yshes23527pl.jpg
+  price: 611
+  microCopy: Read on BOOK☆WALKER Global
+- title: ONE PIECE モノクロ版
+  url: https://global.bookwalker.jp/search/?word=One%20Piece%20Manga%20Box%20Set
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes32627/b950yshes32627pl.jpg
+  price: 594
+  microCopy: Read on BOOK☆WALKER Global
+- title: ONE PIECE magazine
+  url: https://global.bookwalker.jp/search/?word=One%20Piece%20Manga%20Box%20Set
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950xshes95830/b950xshes95830pl.jpg
+  price: 1567
+  microCopy: Read on BOOK☆WALKER Global
 faq:
-  - question: 'Does this box set include all original volumes?'
-    answer: 'Yes, this complete box set collects the entire designated story arc or full series run in premium print format, along with exclusive collector extras.'
-  - question: 'How is the translation and print quality compared to individual volumes?'
-    answer: 'The print quality features enhanced paper stock with reduced bleed-through and updated translations that faithfully capture the original Japanese dialogue and nuance.'
-  - question: 'Is this edition suitable for newcomers or long-time fans?'
-    answer: 'It serves as both the definitive collector''s item for dedicated enthusiasts and the most convenient, cost-effective entry point for first-time readers.'
+- question: Does this box set include all original volumes?
+  answer: Yes, this complete box set collects the entire designated story arc or full
+    series run in premium print format, along with exclusive collector extras.
+- question: How is the translation and print quality compared to individual volumes?
+  answer: The print quality features enhanced paper stock with reduced bleed-through
+    and updated translations that faithfully capture the original Japanese dialogue
+    and nuance.
+- question: Is this edition suitable for newcomers or long-time fans?
+  answer: It serves as both the definitive collector's item for dedicated enthusiasts
+    and the most convenient, cost-effective entry point for first-time readers.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b950yshes32615/b950yshes32615pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950yshes23527/b950yshes23527pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950yshes32627/b950yshes32627pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950xshes95830/b950xshes95830pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">

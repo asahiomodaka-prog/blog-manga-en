@@ -1,40 +1,48 @@
 ---
 title: 'Death Note All-in-One Edition: Is This Gigantic Tome Worth It?'
-description: 'Dive into our review of the Death Note All-in-One Edition. Is this massive manga collection the ultimate way to own the series?'
+description: Dive into our review of the Death Note All-in-One Edition. Is this massive
+  manga collection the ultimate way to own the series?
 pubDate: '2026-08-29'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950ashes00312/b950ashes00312pl.jpg'
-genre: 'Mystery & Suspense'
-mediaType: 'comic'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b950ashes00312/b950ashes00312pl.jpg
+genre: Mystery & Suspense
+mediaType: comic
 sidebarProducts:
-  - title: 'DEATH NOTE短編集'
-    url: 'https://global.bookwalker.jp/search/?word=Death%20Note%20All-in-One%20Edition'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes02482/b950ushes02482pl.jpg'
-    price: 564
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'DEATH NOTE カラー版'
-    url: 'https://global.bookwalker.jp/search/?word=Death%20Note%20All-in-One%20Edition'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ashes00312/b950ashes00312pl.jpg'
-    price: 674
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'DEATH NOTE モノクロ版'
-    url: 'https://global.bookwalker.jp/search/?word=Death%20Note%20All-in-One%20Edition'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ashes00324/b950ashes00324pl.jpg'
-    price: 564
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'ジャンプデジタル画集 デジガ DEATH NOTE'
-    url: 'https://global.bookwalker.jp/search/?word=Death%20Note%20All-in-One%20Edition'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes16183/b950yshes16183pl.jpg'
-    price: 990
-    microCopy: 'Read on BOOK☆WALKER Global'
+- title: DEATH NOTE短編集
+  url: https://global.bookwalker.jp/search/?word=Death%20Note%20All-in-One%20Edition
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950ushes02482/b950ushes02482pl.jpg
+  price: 564
+  microCopy: Read on BOOK☆WALKER Global
+- title: DEATH NOTE カラー版
+  url: https://global.bookwalker.jp/search/?word=Death%20Note%20All-in-One%20Edition
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950ashes00312/b950ashes00312pl.jpg
+  price: 674
+  microCopy: Read on BOOK☆WALKER Global
+- title: DEATH NOTE モノクロ版
+  url: https://global.bookwalker.jp/search/?word=Death%20Note%20All-in-One%20Edition
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950ashes00324/b950ashes00324pl.jpg
+  price: 564
+  microCopy: Read on BOOK☆WALKER Global
+- title: ジャンプデジタル画集 デジガ DEATH NOTE
+  url: https://global.bookwalker.jp/search/?word=Death%20Note%20All-in-One%20Edition
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes16183/b950yshes16183pl.jpg
+  price: 990
+  microCopy: Read on BOOK☆WALKER Global
 faq:
-  - question: 'Why choose the Deluxe Hardcover Edition over standard paperbacks?'
-    answer: 'The oversized pages showcase intricate artwork in unprecedented detail, while the sewn binding and leatherette hardcover provide lifelong shelf durability.'
-  - question: 'Does this volume include color illustrations or author notes?'
-    answer: 'Yes, it preserves original color spreads, promotional gallery art, and comprehensive creator notes that standard tankobon editions often omit.'
-  - question: 'What is the best way to care for and store these oversized volumes?'
-    answer: 'Store them upright on sturdy shelving away from direct sunlight and high humidity to preserve the foil stamping and archival paper quality.'
+- question: Why choose the Deluxe Hardcover Edition over standard paperbacks?
+  answer: The oversized pages showcase intricate artwork in unprecedented detail,
+    while the sewn binding and leatherette hardcover provide lifelong shelf durability.
+- question: Does this volume include color illustrations or author notes?
+  answer: Yes, it preserves original color spreads, promotional gallery art, and comprehensive
+    creator notes that standard tankobon editions often omit.
+- question: What is the best way to care for and store these oversized volumes?
+  answer: Store them upright on sturdy shelving away from direct sunlight and high
+    humidity to preserve the foil stamping and archival paper quality.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b950ushes02482/b950ushes02482pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950ashes00312/b950ashes00312pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950ashes00324/b950ashes00324pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950yshes16183/b950yshes16183pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">

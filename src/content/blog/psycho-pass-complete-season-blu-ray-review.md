@@ -1,40 +1,48 @@
 ---
 title: 'Psycho-Pass Complete Season Blu-ray: A Deep Dive into Dystopian Justice'
-description: 'Explore the chilling world of Psycho-Pass with our in-depth review of the Complete Season Blu-ray. A must-have for sci-fi fans!'
+description: Explore the chilling world of Psycho-Pass with our in-depth review of
+  the Complete Season Blu-ray. A must-have for sci-fi fans!
 pubDate: '2026-08-26'
-heroImage: '/images/psycho-pass-complete-season-blu-ray-review.jpg'
-genre: 'Sci-Fi & Fantasy'
-mediaType: 'anime'
+heroImage: /images/psycho-pass-complete-season-blu-ray-review.jpg
+genre: Sci-Fi & Fantasy
+mediaType: anime
 sidebarProducts:
-  - title: 'PSYCHO-PASS サイコパス 3'
-    url: 'https://global.bookwalker.jp/search/?word=Psycho%20Pass%20Complete%20Season%20Blu-ray'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes09969/b950ushes09969pl.jpg'
-    price: 679
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'PSYCHO-PASS サイコパス 2'
-    url: 'https://global.bookwalker.jp/search/?word=Psycho%20Pass%20Complete%20Season%20Blu-ray'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b132amggd01224/b132amggd01224pl.jpg'
-    price: 605
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'PSYCHO-PASS 監視官 狡噛慎也'
-    url: 'https://global.bookwalker.jp/search/?word=Psycho%20Pass%20Complete%20Season%20Blu-ray'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b132amggd01361/b132amggd01361pl.jpg'
-    price: 627
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'PSYCHO-PASS サイコパス 3 FIRST INSPECTOR'
-    url: 'https://global.bookwalker.jp/search/?word=Psycho%20Pass%20Complete%20Season%20Blu-ray'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950wshes03577/b950wshes03577pl.jpg'
-    price: 679
-    microCopy: 'Read on BOOK☆WALKER Global'
+- title: PSYCHO-PASS サイコパス 3
+  url: https://global.bookwalker.jp/search/?word=Psycho%20Pass%20Complete%20Season%20Blu-ray
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950ushes09969/b950ushes09969pl.jpg
+  price: 679
+  microCopy: Read on BOOK☆WALKER Global
+- title: PSYCHO-PASS サイコパス 2
+  url: https://global.bookwalker.jp/search/?word=Psycho%20Pass%20Complete%20Season%20Blu-ray
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b132amggd01224/b132amggd01224pl.jpg
+  price: 605
+  microCopy: Read on BOOK☆WALKER Global
+- title: PSYCHO-PASS 監視官 狡噛慎也
+  url: https://global.bookwalker.jp/search/?word=Psycho%20Pass%20Complete%20Season%20Blu-ray
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b132amggd01361/b132amggd01361pl.jpg
+  price: 627
+  microCopy: Read on BOOK☆WALKER Global
+- title: PSYCHO-PASS サイコパス 3 FIRST INSPECTOR
+  url: https://global.bookwalker.jp/search/?word=Psycho%20Pass%20Complete%20Season%20Blu-ray
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950wshes03577/b950wshes03577pl.jpg
+  price: 679
+  microCopy: Read on BOOK☆WALKER Global
 faq:
-  - question: 'What makes this story stand out among modern masterpieces?'
-    answer: 'Its psychological complexity, boundary-pushing themes, and uncompromising character arcs elevate it beyond conventional genre storytelling.'
-  - question: 'Is prior knowledge of the genre required to appreciate this work?'
-    answer: 'Not at all. The universal themes of ambition, human struggle, and identity resonate strongly with both newcomers and seasoned connoisseurs.'
-  - question: 'Where is the best place to purchase authentic copies?'
-    answer: 'Major certified retailers like Amazon ensure authentic, undamaged copies backed by reliable buyer protection and prime shipping.'
+- question: What makes this story stand out among modern masterpieces?
+  answer: Its psychological complexity, boundary-pushing themes, and uncompromising
+    character arcs elevate it beyond conventional genre storytelling.
+- question: Is prior knowledge of the genre required to appreciate this work?
+  answer: Not at all. The universal themes of ambition, human struggle, and identity
+    resonate strongly with both newcomers and seasoned connoisseurs.
+- question: Where is the best place to purchase authentic copies?
+  answer: Major certified retailers like Amazon ensure authentic, undamaged copies
+    backed by reliable buyer protection and prime shipping.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b950ushes09969/b950ushes09969pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b132amggd01224/b132amggd01224pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b132amggd01361/b132amggd01361pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950wshes03577/b950wshes03577pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">

@@ -1,35 +1,45 @@
 ---
 title: 'BLAME! Master Edition: Tsutomu Nihei''s Dystopian Masterpiece Reborn for Collectors'
-description: 'An in-depth review of BLAME! Master Edition. Explore Nihei''''s sci-fi epic, comparing premium hardcovers to instant Kindle access for global collectors.'
+description: An in-depth review of BLAME! Master Edition. Explore Nihei''s sci-fi
+  epic, comparing premium hardcovers to instant Kindle access for global collectors.
 pubDate: '2026-09-16'
-heroImage: '/images/blame-master-edition-collectors-review-guide.jpg'
-genre: 'Sci-Fi & Fantasy'
-mediaType: 'comic'
+heroImage: /images/blame-master-edition-collectors-review-guide.jpg
+genre: Sci-Fi & Fantasy
+mediaType: comic
 sidebarProducts:
-  - title: 'BLAME！'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F100111%2Fb900kkds00194%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900kkds00194/b900kkds00194pl.jpg'
-    price: 792
-    microCopy: 'DMMで詳細を見る'
-  - title: 'NOiSE'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F533019%2Fb900kkds00206%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900kkds00206/b900kkds00206pl.jpg'
-    price: 792
-    microCopy: 'DMMで詳細を見る'
-  - title: '人形の国'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F731492%2Fb900xkds03519%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900xkds03519/b900xkds03519pl.jpg'
-    price: 792
-    microCopy: 'DMMで詳細を見る'
+- title: BLAME！
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F100111%2Fb900kkds00194%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900kkds00194/b900kkds00194pl.jpg
+  price: 792
+  microCopy: DMMで詳細を見る
+- title: NOiSE
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F533019%2Fb900kkds00206%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900kkds00206/b900kkds00206pl.jpg
+  price: 792
+  microCopy: DMMで詳細を見る
+- title: 人形の国
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F731492%2Fb900xkds03519%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900xkds03519/b900xkds03519pl.jpg
+  price: 792
+  microCopy: DMMで詳細を見る
 faq:
-  - question: 'What makes the Master Edition different from the original release?'
-    answer: 'The BLAME! Master Edition features an oversized format, premium paper stock, and high-fidelity reproductions of Tsutomu Nihei''s original intricate artwork, making it the definitive collector''s edition.'
-  - question: 'Is BLAME! suitable for beginners to cyberpunk manga?'
-    answer: 'Yes. While the storytelling is atmospheric and relies heavily on environmental visual exploration rather than heavy exposition, anyone who appreciates hard sci-fi and architectural art will easily get immersed.'
-  - question: 'Where can international collectors buy the physical edition?'
-    answer: 'Global collectors can purchase both the physical English Master Editions and the original Japanese volumes with reliable international shipping via Amazon Japan, as well as digital editions via Kindle.'
+- question: What makes the Master Edition different from the original release?
+  answer: The BLAME! Master Edition features an oversized format, premium paper stock,
+    and high-fidelity reproductions of Tsutomu Nihei's original intricate artwork,
+    making it the definitive collector's edition.
+- question: Is BLAME! suitable for beginners to cyberpunk manga?
+  answer: Yes. While the storytelling is atmospheric and relies heavily on environmental
+    visual exploration rather than heavy exposition, anyone who appreciates hard sci-fi
+    and architectural art will easily get immersed.
+- question: Where can international collectors buy the physical edition?
+  answer: Global collectors can purchase both the physical English Master Editions
+    and the original Japanese volumes with reliable international shipping via Amazon
+    Japan, as well as digital editions via Kindle.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b900kkds00194/b900kkds00194pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900kkds00206/b900kkds00206pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900xkds03519/b900xkds03519pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 # BLAME! Master Edition: Tsutomu Nihei's Dystopian Masterpiece Reborn for [Collectors](/blog/dark-fantasy-manga-like-berserk-collectors-guide/)

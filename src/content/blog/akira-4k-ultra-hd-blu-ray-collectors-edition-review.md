@@ -1,30 +1,37 @@
 ---
-title: 'Akira 4K Ultra HD Blu-ray Collector''s Edition: The Definitive Way to Experience a Cyberpunk Masterpiece'
-description: 'Dive into the definitive Akira 4K Ultra HD Blu-ray Collector''''s Edition. An essential guide for international collectors seeking premium anime.'
+title: 'Akira 4K Ultra HD Blu-ray Collector''s Edition: The Definitive Way to Experience
+  a Cyberpunk Masterpiece'
+description: Dive into the definitive Akira 4K Ultra HD Blu-ray Collector''s Edition.
+  An essential guide for international collectors seeking premium anime.
 pubDate: '2026-09-07'
-heroImage: '/images/akira-4k-ultra-hd-blu-ray-collectors-edition-review.jpg'
-genre: 'Sci-Fi & Fantasy'
-mediaType: 'anime'
+heroImage: /images/akira-4k-ultra-hd-blu-ray-collectors-edition-review.jpg
+genre: Sci-Fi & Fantasy
+mediaType: anime
 sidebarProducts:
-  - title: 'AKIRA 4Kリマスターセット'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg'
-    price: 10780
-    microCopy: 'DMMで詳細を見る'
-  - title: 'Akira (Original Manga Vol.1)'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F104057%2Fb600psgk02937%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg'
-    price: 1100
-    microCopy: 'DMMで詳細を見る'
+- title: AKIRA 4Kリマスターセット
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg
+  price: 10780
+  microCopy: DMMで詳細を見る
+- title: Akira (Original Manga Vol.1)
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F104057%2Fb600psgk02937%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg
+  price: 1100
+  microCopy: DMMで詳細を見る
 faq:
-  - question: 'Why choose the Deluxe Hardcover Edition over standard paperbacks?'
-    answer: 'The oversized pages showcase intricate artwork in unprecedented detail, while the sewn binding and leatherette hardcover provide lifelong shelf durability.'
-  - question: 'Does this volume include color illustrations or author notes?'
-    answer: 'Yes, it preserves original color spreads, promotional gallery art, and comprehensive creator notes that standard tankobon editions often omit.'
-  - question: 'What is the best way to care for and store these oversized volumes?'
-    answer: 'Store them upright on sturdy shelving away from direct sunlight and high humidity to preserve the foil stamping and archival paper quality.'
+- question: Why choose the Deluxe Hardcover Edition over standard paperbacks?
+  answer: The oversized pages showcase intricate artwork in unprecedented detail,
+    while the sewn binding and leatherette hardcover provide lifelong shelf durability.
+- question: Does this volume include color illustrations or author notes?
+  answer: Yes, it preserves original color spreads, promotional gallery art, and comprehensive
+    creator notes that standard tankobon editions often omit.
+- question: What is the best way to care for and store these oversized volumes?
+  answer: Store them upright on sturdy shelving away from direct sunlight and high
+    humidity to preserve the foil stamping and archival paper quality.
+heroImages:
+- https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg
+- https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 # Akira 4K Ultra HD Blu-ray Collector's Edition: The [Definitive](/blog/berserk-deluxe-edition-review-kentaro-miura/) Way to Experience a Cyberpunk Masterpiece

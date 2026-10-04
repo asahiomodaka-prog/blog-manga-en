@@ -2,38 +2,45 @@
 title: 'Childhood Dreams and Global Nightmares: A Deep Dive into 20th Century Boys'
 description: Unravel a global conspiracy rooted in childhood memories. Our review
 pubDate: '2026-08-20'
-heroImage: '/images/20th-century-boys-perfect-edition-review-v2.jpg'
+heroImage: /images/20th-century-boys-perfect-edition-review-v2.jpg
 genre: Mystery & Suspense
 sidebarProducts:
-  - title: '20世紀少年 完全版 デジタル Ver.'
-    url: 'https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg'
-    price: 770
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'あさドラ！'
-    url: 'https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600esgk03187/b600esgk03187pl.jpg'
-    price: 891
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: 'デメキング 完結版'
-    url: 'https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b202aoota01351/b202aoota01351pl.jpg'
-    price: 1320
-    microCopy: 'Read on BOOK☆WALKER Global'
-  - title: '浦沢直樹 描いて描いて描きまくる'
-    url: 'https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk02700/b600bsgk02700pl.jpg'
-    price: 1650
-    microCopy: 'Read on BOOK☆WALKER Global'
+- title: 20世紀少年 完全版 デジタル Ver.
+  url: https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg
+  price: 770
+  microCopy: Read on BOOK☆WALKER Global
+- title: あさドラ！
+  url: https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600esgk03187/b600esgk03187pl.jpg
+  price: 891
+  microCopy: Read on BOOK☆WALKER Global
+- title: デメキング 完結版
+  url: https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b202aoota01351/b202aoota01351pl.jpg
+  price: 1320
+  microCopy: Read on BOOK☆WALKER Global
+- title: 浦沢直樹 描いて描いて描きまくる
+  url: https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600bsgk02700/b600bsgk02700pl.jpg
+  price: 1650
+  microCopy: Read on BOOK☆WALKER Global
 faq:
-  - question: 'Why choose the Deluxe Hardcover Edition over standard paperbacks?'
-    answer: 'The oversized pages showcase intricate artwork in unprecedented detail, while the sewn binding and leatherette hardcover provide lifelong shelf durability.'
-  - question: 'Does this volume include color illustrations or author notes?'
-    answer: 'Yes, it preserves original color spreads, promotional gallery art, and comprehensive creator notes that standard tankobon editions often omit.'
-  - question: 'What is the best way to care for and store these oversized volumes?'
-    answer: 'Store them upright on sturdy shelving away from direct sunlight and high humidity to preserve the foil stamping and archival paper quality.'
+- question: Why choose the Deluxe Hardcover Edition over standard paperbacks?
+  answer: The oversized pages showcase intricate artwork in unprecedented detail,
+    while the sewn binding and leatherette hardcover provide lifelong shelf durability.
+- question: Does this volume include color illustrations or author notes?
+  answer: Yes, it preserves original color spreads, promotional gallery art, and comprehensive
+    creator notes that standard tankobon editions often omit.
+- question: What is the best way to care for and store these oversized volumes?
+  answer: Store them upright on sturdy shelving away from direct sunlight and high
+    humidity to preserve the foil stamping and archival paper quality.
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600esgk03187/b600esgk03187pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b202aoota01351/b202aoota01351pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600bsgk02700/b600bsgk02700pl.jpg
 ---
-
 <!-- Disclosure: This page contains affiliate links. -->
 
 Finding the right edition of a classic series can be challenging with so many print and digital versions available. Here is an in-depth, collector-focused look at **Childhood Dreams and Global**, examining its storytelling, artwork, and physical edition quality.
