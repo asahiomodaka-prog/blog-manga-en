@@ -3,7 +3,7 @@ title: 'Goodnight Punpun: A Journey Through the Human Psyche'
 description: Dive deep into Inio Asano's critically acclaimed manga, Goodnight Punpun.
   An emotional and raw psychological journey.
 pubDate: '2026-08-20'
-heroImage: https://ebook-assets.dmm.com/digital/e-book/b600osgk04937/b600osgk04937pl.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600osgk04937/b600osgk04937pl.jpg'
 genre: Timeless Classics
 sidebarProducts:
 - title: おやすみプンプン

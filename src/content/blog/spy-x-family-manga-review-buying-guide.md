@@ -5,7 +5,7 @@ description: Dive into the world of Spy x Family manga! Discover why this hilari
   and heartwarming series about a fake family of spies, assassins, and psychics is
   capturing hearts worldwide.
 pubDate: '2026-08-21'
-heroImage: https://ebook-assets.dmm.com/digital/e-book/b950yshss08129/b950yshss08129pl.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950yshss08129/b950yshss08129pl.jpg'
 genre: Action & Shonen
 sidebarProducts:
 - title: SPY×FAMILY

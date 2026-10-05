@@ -3,7 +3,7 @@ title: 'Death Note All-in-One Edition: Is This Gigantic Tome Worth It?'
 description: Dive into our review of the Death Note All-in-One Edition. Is this massive
   manga collection the ultimate way to own the series?
 pubDate: '2026-08-29'
-heroImage: https://ebook-assets.dmm.com/digital/e-book/b950ashes00312/b950ashes00312pl.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950ashes00312/b950ashes00312pl.jpg'
 genre: Mystery & Suspense
 mediaType: comic
 sidebarProducts:

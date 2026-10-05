@@ -4,7 +4,7 @@ title: 'Claymore Complete Manga Box Set: A Collector''s Guide to Yagi Norihiro''
 description: Dive into Claymore''s brutal world with this complete manga box set review.
   Compare physical vs. Kindle for international dark fantasy collectors.
 pubDate: '2026-09-15'
-heroImage: /images/claymore-complete-manga-box-set-review-collectors-guide.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950lshes04730/b950lshes04730pl.jpg'
 genre: Sci-Fi & Fantasy
 mediaType: comic
 sidebarProducts:

@@ -3,7 +3,7 @@ title: 'Jujutsu Kaisen Manga Collection: A Collector''s Dive into Modern Dark Fa
 description: An in-depth guide to collecting Jujutsu Kaisen manga, comparing physical
   tankobon volumes, box sets, and digital Kindle editions.
 pubDate: '2026-09-09'
-heroImage: /images/jujutsu-kaisen-manga-collection-review-collectors-guide.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes60848/b950xshes60848pl.jpg'
 genre: Action & Shonen
 mediaType: comic
 sidebarProducts:

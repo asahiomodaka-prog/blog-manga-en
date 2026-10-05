@@ -4,7 +4,7 @@ title: 'Steins;Gate Complete Series Blu-ray: A Collector''s Journey Through Time
 description: Dive deep into the Steins;Gate Complete Series Blu-ray. Discover why
   this sci-fi masterpiece is a must-own for international collectors.
 pubDate: '2026-10-01'
-heroImage: /images/steins-gate-complete-series-blu-ray-collectors-guide.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b330ctksb01945/b330ctksb01945pl.jpg'
 genre: Sci-Fi & Fantasy
 mediaType: anime
 sidebarProducts:

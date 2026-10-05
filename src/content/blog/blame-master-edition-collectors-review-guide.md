@@ -3,7 +3,7 @@ title: 'BLAME! Master Edition: Tsutomu Nihei''s Dystopian Masterpiece Reborn for
 description: An in-depth review of BLAME! Master Edition. Explore Nihei''s sci-fi
   epic, comparing premium hardcovers to instant Kindle access for global collectors.
 pubDate: '2026-09-16'
-heroImage: /images/blame-master-edition-collectors-review-guide.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900kkds00194/b900kkds00194pl.jpg'
 genre: Sci-Fi & Fantasy
 mediaType: comic
 sidebarProducts:

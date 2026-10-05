@@ -3,7 +3,7 @@ title: 'Beyond Guts: Unearthing Dark Fantasy Manga Akin to Berserk for Collector
 description: Explore the best dark fantasy manga akin to Berserk. A collector''s guide
   to premium physical editions and instant digital releases.
 pubDate: '2026-09-06'
-heroImage: /images/dark-fantasy-manga-like-berserk-collectors-guide.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg'
 genre: Sci-Fi & Fantasy
 mediaType: comic
 sidebarProducts:

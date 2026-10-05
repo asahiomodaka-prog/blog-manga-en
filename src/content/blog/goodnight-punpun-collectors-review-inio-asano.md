@@ -5,7 +5,7 @@ description: Dive deep into Goodnight Punpun! Explore Inio Asano''s dark masterp
   comparing Viz Media''s English omnibus editions, box sets, and Kindle digital convenience
   for global collectors.
 pubDate: '2026-09-15'
-heroImage: /images/goodnight-punpun-collectors-review-inio-asano.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600osgk04937/b600osgk04937pl.jpg'
 genre: Timeless Classics
 mediaType: comic
 sidebarProducts:

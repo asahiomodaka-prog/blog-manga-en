@@ -3,7 +3,7 @@ title: 'Unraveling the Wired: A Collector''s Guide to Serial Experiments Lain'
 description: Dive deep into Serial Experiments Lain. This guide reviews physical Blu-ray
   editions vs. digital streams for global collectors.
 pubDate: '2026-09-23'
-heroImage: https://pics.dmm.com/mono/hobby/c260903640/c260903640pl.jpg
+heroImage: 'https://pics.dmm.com/mono/hobby/c260903640/c260903640pl.jpg'
 genre: Sci-Fi & Fantasy
 mediaType: anime
 sidebarProducts:

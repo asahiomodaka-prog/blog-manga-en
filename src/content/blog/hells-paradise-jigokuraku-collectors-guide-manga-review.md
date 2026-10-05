@@ -4,7 +4,7 @@ title: 'Hell''s Paradise: Jigokuraku – A Collector''s Guide to Kaku''s Dark Fa
 description: 'Dive into Hell''''s Paradise: Jigokuraku. This review covers its intense
   story, unique art, and offers a collector''''s guide for physical and digital editions.'
 pubDate: '2026-09-26'
-heroImage: /images/hells-paradise-jigokuraku-collectors-guide-manga-review.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes04994/b950ushes04994pl.jpg'
 genre: Action & Shonen
 mediaType: comic
 sidebarProducts:

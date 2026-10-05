@@ -3,7 +3,7 @@ title: 'Why Cowboy Bebop Remains the Ultimate Anime Masterpiece: A Timeless Jazz
 description: An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Discover
   why this space western classic remains an absolute masterpiece.
 pubDate: '2026-08-19'
-heroImage: https://ebook-assets.dmm.com/digital/e-book/b867atobk07641/b867atobk07641pl.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b867atobk07641/b867atobk07641pl.jpg'
 genre: Sci-Fi & Cyberpunk
 sidebarProducts:
 - title: カウボーイビバップ

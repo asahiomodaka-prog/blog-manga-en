@@ -3,7 +3,7 @@ title: 'Chainsaw Man Volume 1: A Collector''s Guide to Denji''s Bloody Debut'
 description: Dive into Chainsaw Man Volume 1! Our review covers its art, story, and
   compares physical Japanese/English editions vs. Kindle digital for global collectors.
 pubDate: '2026-09-21'
-heroImage: /images/chainsaw-man-volume-1-collectors-guide-denjis-bloody-debut.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes29921/b950yshes29921pl.jpg'
 genre: Action & Shonen
 mediaType: comic
 sidebarProducts:

@@ -4,7 +4,7 @@ title: 'Akira 4K Ultra HD Blu-ray Collector''s Edition: The Definitive Way to Ex
 description: Dive into the definitive Akira 4K Ultra HD Blu-ray Collector''s Edition.
   An essential guide for international collectors seeking premium anime.
 pubDate: '2026-09-07'
-heroImage: /images/akira-4k-ultra-hd-blu-ray-collectors-edition-review.jpg
+heroImage: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg'
 genre: Sci-Fi & Fantasy
 mediaType: anime
 sidebarProducts:

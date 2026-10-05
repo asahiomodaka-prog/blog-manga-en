@@ -4,7 +4,7 @@ title: 'One Piece Manga Box Sets: Charting Your Course Through the Grand Line of
 description: 'An in-depth guide to One Piece Manga Box Sets for international collectors:
   physical vs. Kindle, shipping, art, and why it''''s a must-have.'
 pubDate: '2026-09-29'
-heroImage: /images/one-piece-manga-box-sets-collectors-guide.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes32615/b950yshes32615pl.jpg'
 genre: Action & Shonen
 mediaType: comic
 sidebarProducts:

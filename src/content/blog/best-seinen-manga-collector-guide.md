@@ -3,7 +3,7 @@ title: 'Building Your Pantheon: A Collector''s Guide to the Best Seinen Manga Ma
 description: Dive into the world of essential seinen manga. Explore premium collector
   editions, digital convenience, and international buying advice.
 pubDate: '2026-09-24'
-heroImage: https://ebook-assets.dmm.com/digital/e-book/b900ckds55391/b900ckds55391pl.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900ckds55391/b900ckds55391pl.jpg'
 genre: Timeless Classics
 mediaType: comic
 sidebarProducts:

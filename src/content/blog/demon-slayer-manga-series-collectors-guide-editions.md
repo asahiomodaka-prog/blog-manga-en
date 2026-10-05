@@ -3,7 +3,7 @@ title: 'Demon Slayer Manga Series: A Collector''s Guide to Breathing Styles & Ed
 description: Dive into Demon Slayer''s manga editions. Compare premium physical releases
   for your shelf vs. official Kindle for instant reading.
 pubDate: '2026-09-17'
-heroImage: /images/demon-slayer-manga-series-collectors-guide-editions.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes00311/b950ushes00311pl.jpg'
 genre: Action & Shonen
 mediaType: comic
 sidebarProducts:

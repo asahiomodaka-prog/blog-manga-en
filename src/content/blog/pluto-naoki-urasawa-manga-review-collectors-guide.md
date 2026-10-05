@@ -4,7 +4,7 @@ title: 'Pluto: Naoki Urasawa''s Masterpiece Reimagining – A Collector''s Essen
 description: Dive into Naoki Urasawa''s Pluto. A collector''s guide comparing premium
   English physical editions with convenient digital releases. Essential sci-fi mystery.
 pubDate: '2026-09-27'
-heroImage: /images/pluto-naoki-urasawa-manga-review-collectors-guide.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600csgk09078/b600csgk09078pl.jpg'
 genre: Mystery & Suspense
 mediaType: comic
 sidebarProducts:

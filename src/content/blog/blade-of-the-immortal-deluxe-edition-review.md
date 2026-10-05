@@ -4,7 +4,7 @@ title: 'Blade of the Immortal Deluxe Edition: A Collector''s Guide to Hiroaki Sa
 description: Dive into the Blade of the Immortal Deluxe Edition. A collector''s guide
   comparing the oversized hardcovers to digital releases for international fans.
 pubDate: '2026-09-05'
-heroImage: /images/blade-of-the-immortal-deluxe-edition-review.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900kkds00166/b900kkds00166pl.jpg'
 genre: Timeless Classics
 mediaType: comic
 sidebarProducts:

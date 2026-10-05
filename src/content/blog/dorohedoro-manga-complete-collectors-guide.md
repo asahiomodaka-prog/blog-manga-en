@@ -5,7 +5,7 @@ description: Dive into Dorohedoro! A collector''s guide to Q Hayashida''s unique
   fantasy manga, comparing English physical volumes, Japanese imports, and Kindle
   digital releases.
 pubDate: '2026-09-22'
-heroImage: /images/dorohedoro-manga-complete-collectors-guide.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600usgk03714/b600usgk03714pl.jpg'
 genre: Sci-Fi & Fantasy
 mediaType: comic
 sidebarProducts:

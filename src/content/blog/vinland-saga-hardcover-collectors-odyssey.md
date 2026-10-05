@@ -4,7 +4,7 @@ title: 'Vinland Saga Hardcover: A Collector''s Odyssey into Viking Lore and Prem
 description: Dive deep into the Vinland Saga Hardcover editions. A comprehensive guide
   for international collectors comparing physical vs. English Kindle releases.
 pubDate: '2026-09-18'
-heroImage: /images/vinland-saga-hardcover-collectors-odyssey.jpg
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900ckds55391/b900ckds55391pl.jpg'
 genre: Timeless Classics
 mediaType: comic
 sidebarProducts:
