@@ -10,23 +10,19 @@ mediaType: comic
 sidebarProducts:
 - title: ヴィンランド・サガ
   url: https://global.bookwalker.jp/search/?word=
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900ckds55391/b900ckds55391pl.jpg
-  price: 1012
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784065355190_1_2.jpg?_ex=600x600
   microCopy: Read on BOOK☆WALKER Global
 - title: ヴィンランド・サガ 公式ガイドブック
   url: https://global.bookwalker.jp/search/?word=
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900vkds02423/b900vkds02423pl.jpg
-  price: 1265
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784065355190_1_2.jpg?_ex=600x600
   microCopy: Read on BOOK☆WALKER Global
 - title: Tシャツ日和
   url: https://global.bookwalker.jp/search/?word=
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b202aoota00620/b202aoota00620pl.jpg
-  price: 1100
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784065355190_1_2.jpg?_ex=600x600
   microCopy: Read on BOOK☆WALKER Global
 - title: のーどうでいず
   url: https://global.bookwalker.jp/search/?word=
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b388atabd00252/b388atabd00252pl.jpg
-  price: 880
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784065355190_1_2.jpg?_ex=600x600
   microCopy: Read on BOOK☆WALKER Global
 faq:
 - question: Why choose the Deluxe Hardcover Edition over standard paperbacks?
