@@ -4,6 +4,8 @@ description: 'Looking to collect Hajime Isayama’s masterpiece? Read our compre
 pubDate: '2026-08-23'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900wkds06840/b900wkds06840pl.jpg'
 genre: 'Action & Shonen'
+featured: true
+featuredOrder: 2
 mediaType: 'comic'
 tags:
   - 'attack-on-titan'

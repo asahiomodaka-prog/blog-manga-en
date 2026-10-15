@@ -4,6 +4,8 @@ description: 'Experience Katsuhiro Otomo’s Akira in true 4K HDR. Read our comp
 pubDate: '2026-09-07'
 heroImage: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg'
 genre: 'Sci-Fi & Cyberpunk'
+featured: true
+featuredOrder: 3
 mediaType: 'anime'
 tags:
   - 'akira'

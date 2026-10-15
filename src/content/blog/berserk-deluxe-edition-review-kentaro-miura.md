@@ -4,6 +4,8 @@ description: 'Is the Berserk Deluxe Edition worth $50? Explore our in-depth revi
 pubDate: '2026-08-19'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg'
 genre: 'Dark Fantasy & Seinen'
+featured: true
+featuredOrder: 1
 mediaType: 'comic'
 tags:
   - 'berserk'
