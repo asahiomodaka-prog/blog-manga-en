@@ -4,6 +4,7 @@ description: Dive into the world of Denji with the Chainsaw Man Manga Box Set. O
 pubDate: '2026-08-20'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes29921/b950yshes29921pl.jpg'
 genre: Action & Shonen
+mediaType: 'comic'
 sidebarProducts:
 - title: チェンソーマン
   url: https://global.bookwalker.jp/search/?word=Chainsaw%20Man%20Manga%20Box%20Set

@@ -144,7 +144,7 @@ In an age of endless streaming options and fragmented information, a meticulousl
 Whether you opt for the stunning physical hardcover to grace your shelves or the convenient digital edition for instant access on the go, this guide is an invaluable resource. It's an investment in understanding, appreciating, and exploring the boundless imagination of Japanese sci-fi anime, making it an absolute must-have for any serious international collector.
 
 
-## Frequently Asked Questions (FAQ)
+##### Frequently Asked Questions (FAQ)
 
 ### Q. Is Unveiling the Cosmos worth buying for physical manga collectors?
 
@@ -157,4 +157,3 @@ Collector's box sets and deluxe hardcover editions feature crisp ink contrast, m
 ### Q. What is the best way to store and protect these volumes?
 
 Keep the volumes away from direct sunlight and high humidity. Storing box sets horizontally or upright with proper bookends prevents spine warping over time.
-

@@ -4,6 +4,7 @@ description: Unravel a global conspiracy rooted in childhood memories. Our revie
 pubDate: '2026-08-20'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg'
 genre: Mystery & Suspense
+mediaType: 'comic'
 sidebarProducts:
 - title: 20世紀少年 完全版 デジタル Ver.
   url: https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition

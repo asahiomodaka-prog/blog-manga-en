@@ -4,6 +4,7 @@ description: 'Dive into the definitive review of the Ghost in the Shell: Stand A
 pubDate: '2026-08-20'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900pkds03498/b900pkds03498pl.jpg'
 genre: Sci-Fi & Fantasy
+mediaType: 'anime'
 sidebarProducts:
 - title: 攻殻機動隊
   url: https://global.bookwalker.jp/search/?word=Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20Blu-ray%20Box

@@ -179,7 +179,7 @@ Naoki Urasawa's *Pluto* is a triumph of storytelling, a series that pushes the b
 Regardless of your chosen format, *Pluto* is an indispensable addition to any manga collection. It's a series that demands to be read, discussed, and cherished – a true masterpiece that exemplifies the very best of Japanese sequential art.
 
 
-## Frequently Asked Questions (FAQ)
+##### Frequently Asked Questions (FAQ)
 
 ### Q. Is Pluto worth buying for physical manga collectors?
 
@@ -192,4 +192,3 @@ Collector's box sets and deluxe hardcover editions feature crisp ink contrast, m
 ### Q. What is the best way to store and protect these volumes?
 
 Keep the volumes away from direct sunlight and high humidity. Storing box sets horizontally or upright with proper bookends prevents spine warping over time.
-

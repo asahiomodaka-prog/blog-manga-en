@@ -125,7 +125,7 @@ The **Berserk Deluxe Edition** sets the gold standard for how legendary manga ou
 
 It honors Kentaro Miura’s unparalleled craftsmanship by giving his artwork room to breathe, shock, and inspire. If you have ever considered experiencing *Berserk*, Volume 1 is the definitive place to begin your pilgrimage.
 
-## Frequently Asked Questions (FAQ)
+##### Frequently Asked Questions (FAQ)
 
 ### Q1. Is it better to buy the Deluxe Edition or read digitally?
 Digital editions are convenient for quick reading, but they cannot replicate the physical gravitas of Miura's hand-drawn lines on oversized matte paper. The Deluxe Edition is engineered specifically as a tactile art gallery you can hold.

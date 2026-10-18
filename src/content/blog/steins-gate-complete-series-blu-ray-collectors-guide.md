@@ -219,7 +219,7 @@ The *Steins;Gate Complete Series Blu-ray* is more than just discs in a box; it's
 
 Regardless of which worldline you choose, owning *Steins;Gate* on Blu-ray ensures that the incredible story of Rintaro Okabe, Kurisu Makise, and the Future Gadget Lab will continue to captivate and challenge you for years to come. It’s an investment in a truly timeless piece of science fiction, an experience that transcends mere entertainment and delves into the very nature of time, fate, and human connection. El Psy Kongroo.
 
-### Frequently Asked Questions (FAQ)
+###### Frequently Asked Questions (FAQ)
 
 **Q: Are Japanese manga editions and Blu-rays compatible with overseas collectors?**
 A: Japanese physical books and manga are completely region-free. Most Japanese Blu-rays are Region A (identical to North America). Check specific retailer listings for English subtitle availability.

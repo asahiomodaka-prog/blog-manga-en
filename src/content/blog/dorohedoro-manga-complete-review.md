@@ -4,6 +4,7 @@ description: Explore the wild, weird world of Dorohedoro with our in-depth revie
 pubDate: '2026-08-20'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600usgk03714/b600usgk03714pl.jpg'
 genre: Sci-Fi & Fantasy
+mediaType: 'comic'
 sidebarProducts:
 - title: ドロヘドロ
   url: https://global.bookwalker.jp/search/?word=Dorohedoro%20Manga%20Complete

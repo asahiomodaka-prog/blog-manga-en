@@ -4,6 +4,7 @@ description: Discover why Blue Lock is redefining sports manga with its intense 
 pubDate: '2026-08-20'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900alds09855/b900alds09855pl.jpg'
 genre: Action & Shonen
+mediaType: 'comic'
 sidebarProducts:
 - title: ブルーロック
   url: https://global.bookwalker.jp/search/?word=Blue%20Lock%20Manga

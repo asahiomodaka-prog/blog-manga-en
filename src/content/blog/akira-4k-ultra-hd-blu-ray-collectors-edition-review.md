@@ -131,7 +131,7 @@ It proves beyond a shadow of a doubt that physical media remains undefeated when
 
 For any home theater owner or lover of sci-fi history, this is an essential reference disc you will proudly revisit for decades to come.
 
-## Frequently Asked Questions (FAQ)
+##### Frequently Asked Questions (FAQ)
 
 ### Q1. Is the disc region-free for international viewers?
 Yes. 4K Ultra HD Blu-ray discs are universally **Region-Free** by international specification standards, meaning the 4K movie disc will play seamlessly on any 4K player worldwide.

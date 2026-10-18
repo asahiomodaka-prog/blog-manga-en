@@ -178,7 +178,7 @@ While not the easiest entry point into anime, *Lain* offers a uniquely rewarding
 
 Whichever path you choose, diving into *Serial Experiments Lain* is an essential journey for anyone fascinated by the intersection of technology, philosophy, and the human spirit. Let's all love Lain.
 
-### Frequently Asked Questions (FAQ)
+###### Frequently Asked Questions (FAQ)
 
 **Q: Are Japanese manga editions and Blu-rays compatible with overseas collectors?**
 A: Japanese physical books and manga are completely region-free. Most Japanese Blu-rays are Region A (identical to North America). Check specific retailer listings for English subtitle availability.

@@ -184,7 +184,7 @@ Given the heavy reliance on visual storytelling and Nihei's extraordinary detail
 
 For international collectors, the availability of these oversized hardcover editions through platforms like Amazon Japan, with their global shipping capabilities, makes owning this essential piece of manga history easier than ever. While digital options provide convenience, the physical Master Edition remains the only way to fully appreciate the monumental scope and intricate artistry of *BLAME!*. It's not just a purchase; it's an investment in a piece of sequential art that transcends its medium, a true monument to sci-fi manga that belongs in every serious collector's library.
 
-### Frequently Asked Questions (FAQ)
+###### Frequently Asked Questions (FAQ)
 
 **Q: Are Japanese manga editions and Blu-rays compatible with overseas collectors?**
 A: Japanese physical books and manga are completely region-free. Most Japanese Blu-rays are Region A (identical to North America). Check specific retailer listings for English subtitle availability.

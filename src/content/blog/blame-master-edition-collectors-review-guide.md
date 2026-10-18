@@ -196,7 +196,7 @@ While *BLAME!* isn't a typical action-packed shonen, it is surprisingly accessib
 
 Whether you choose the substantial presence of the hardcover volumes for your bookshelf or the instant gratification of the official English Kindle releases, experiencing *BLAME!* is a rite of passage. For those who dare to venture into the Megastructure, the rewards are immense: a truly unique, unforgettable narrative and an artistic achievement that continues to resonate decades after its initial release. Don't just read *BLAME!*—immerse yourself in it.
 
-## Frequently Asked Questions (FAQ)
+##### Frequently Asked Questions (FAQ)
 
 ### What makes the Master Edition different from the original release?
 The BLAME! Master Edition features an oversized format, premium paper stock, and high-fidelity reproductions of Tsutomu Nihei's original intricate artwork, making it the definitive collector's edition.

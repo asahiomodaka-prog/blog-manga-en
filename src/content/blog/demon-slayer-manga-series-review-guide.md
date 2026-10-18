@@ -5,6 +5,7 @@ description: Dive deep into the Demon Slayer manga. Discover why Koyoharu Gotoug
 pubDate: '2026-08-20'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes00311/b950ushes00311pl.jpg'
 genre: Action & Shonen
+mediaType: 'comic'
 sidebarProducts:
 - title: 鬼滅の刃
   url: https://global.bookwalker.jp/search/?word=Demon%20Slayer%20Manga%20Box%20Set

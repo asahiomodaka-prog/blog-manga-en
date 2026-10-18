@@ -145,7 +145,7 @@ When buying physical editions, pay attention to reviews that discuss the **paper
 
 The 1990s was an unparalleled decade for anime cinema, producing films that are not only visually stunning but also profoundly thought-provoking. For the international collector, acquiring these masterpieces means more than just owning a movie; it's about preserving a piece of cinematic history and celebrating the incredible artistry that defined an era. Whether you opt for the pristine quality and tangible beauty of a collector's Blu-ray from Amazon US or an imported Japanese edition, or the instant gratification of a digital purchase, these 90s anime movies are essential additions to any discerning fan's collection. Dive in, and rediscover the golden age of anime.
 
-### Frequently Asked Questions (FAQ)
+###### Frequently Asked Questions (FAQ)
 
 **Q: Are Japanese manga editions and Blu-rays compatible with overseas collectors?**
 A: Japanese physical books and manga are completely region-free. Most Japanese Blu-rays are Region A (identical to North America). Check specific retailer listings for English subtitle availability.

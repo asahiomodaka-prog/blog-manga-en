@@ -4,6 +4,7 @@ description: Dive into ''Space Brothers,'' the inspiring manga and anime about t
 pubDate: '2026-08-19'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg'
 genre: Sci-Fi & Fantasy
+mediaType: 'anime'
 sidebarProducts:
 - title: 宇宙兄弟
   url: https://global.bookwalker.jp/search/?word=Space%20Brothers%20Manga

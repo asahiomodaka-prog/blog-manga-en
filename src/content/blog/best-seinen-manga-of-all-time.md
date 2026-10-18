@@ -4,6 +4,7 @@ description: Explore the ultimate list of seinen manga that define the genre. Fr
 pubDate: '2026-08-20'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950ashes00483/b950ashes00483pl.jpg'
 genre: Timeless Classics
+mediaType: 'comic'
 sidebarProducts:
   - title: 'GANTZ'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56848%2Fb950ashes00483%2F&af_id=DMMaria-999&ch=api'

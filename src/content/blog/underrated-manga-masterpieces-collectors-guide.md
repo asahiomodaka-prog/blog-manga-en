@@ -111,7 +111,7 @@ Mainstream popularity rarely correlates directly with artistic longevity. Lesser
 A truly exceptional manga collection reflects personal discovery rather than social media trends. By adding works like *Mushishi* and *Vinland Saga* to your shelf, you secure enduring artistic monuments that offer fresh revelations with every single read.
 
 
-## Frequently Asked Questions (FAQ)
+##### Frequently Asked Questions (FAQ)
 
 ### Q. What makes an underrated manga worth collecting?
 
@@ -124,4 +124,3 @@ Yes! Physical Japanese collector editions are completely region-free, featuring 
 ### Q. Where is the best place to purchase authentic collector editions?
 
 Ordering through verified Japanese merchants such as DMM and Rakuten Books guarantees pristine condition, authentic printing, and collector-grade packaging.
-

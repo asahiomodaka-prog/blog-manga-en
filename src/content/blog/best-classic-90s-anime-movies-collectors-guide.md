@@ -178,7 +178,7 @@ For digital convenience, major platforms like **Amazon Prime Video, Apple TV, Go
 
 The 1990s was a true golden age for anime cinema, producing films that not only pushed the boundaries of animation but also left an indelible mark on global pop culture. *Ghost in the Shell*, *Princess Mononoke*, *Perfect Blue*, and *The End of Evangelion* are more than just movies; they are artistic statements that continue to resonate with audiences worldwide. For the international collector, securing these masterpieces in their finest physical forms, or enjoying them instantly through digital platforms, is a journey into the heart of anime's most innovative decade. Whether you prioritize pristine 4K transfers and lavish bonus features or the sheer convenience of streaming, these 90s classics deserve a place of honor in any collection.
 
-### Frequently Asked Questions (FAQ)
+###### Frequently Asked Questions (FAQ)
 
 **Q: Are Japanese manga editions and Blu-rays compatible with overseas collectors?**
 A: Japanese physical books and manga are completely region-free. Most Japanese Blu-rays are Region A (identical to North America). Check specific retailer listings for English subtitle availability.

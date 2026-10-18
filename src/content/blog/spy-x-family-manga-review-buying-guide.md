@@ -7,6 +7,7 @@ description: Dive into the world of Spy x Family manga! Discover why this hilari
 pubDate: '2026-08-21'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950yshss08129/b950yshss08129pl.jpg'
 genre: Action & Shonen
+mediaType: 'comic'
 sidebarProducts:
 - title: SPY×FAMILY
   url: https://global.bookwalker.jp/search/?word=SPY%20x%20FAMILY%20Manga

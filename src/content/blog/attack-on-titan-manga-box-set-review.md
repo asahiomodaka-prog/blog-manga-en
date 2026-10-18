@@ -128,7 +128,7 @@ If you want to experience the gripping mystery of the Titans from the beginning 
 
 They eliminate the hassle of chasing individual volumes, provide genuine collector extras that expand the lore, and look stunning on any bookshelf.
 
-## Frequently Asked Questions (FAQ)
+##### Frequently Asked Questions (FAQ)
 
 ### Q1. Are the Season Box Sets better than the Attack on Titan Colossal Editions?
 The Colossal Editions offer oversized pages, but their sheer 1,000-page weight makes them prone to spine cracking and awkward to hold. The Season Box Sets offer far superior reading comfort, portability, and include the exclusive bonus booklets that the Colossal Editions omit.

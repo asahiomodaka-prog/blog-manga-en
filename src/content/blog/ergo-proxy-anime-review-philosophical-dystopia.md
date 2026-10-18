@@ -4,6 +4,7 @@ description: Dive into Ergo Proxy, a cyberpunk anime masterpiece exploring ident
 pubDate: '2026-08-20'
 heroImage: 'https://pics.dmm.com/mono/movie/animation/n_605gnxa1277/n_605gnxa1277pl.jpg'
 genre: Sci-Fi & Fantasy
+mediaType: 'anime'
 sidebarProducts:
   - title: 'Ergo Proxy Blu-ray BOX ＜スペシャルプライス版＞ （ブルーレイディスク）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_605gnxa1277%2F&af_id=DMMaria-999&ch=api'

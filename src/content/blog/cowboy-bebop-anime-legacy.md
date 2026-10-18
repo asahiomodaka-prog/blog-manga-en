@@ -5,6 +5,7 @@ description: An in-depth analysis of Shinichiro Watanabe’s Cowboy Bebop. Disco
 pubDate: '2026-08-19'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b867atobk07641/b867atobk07641pl.jpg'
 genre: Sci-Fi & Cyberpunk
+mediaType: 'anime'
 sidebarProducts:
 - title: カウボーイビバップ
   url: https://global.bookwalker.jp/search/?word=Cowboy%20Bebop%20Complete%20Series%20Blu-ray

@@ -4,6 +4,7 @@ description: Dive into the grand adventure of One Piece with these essential man
 pubDate: '2026-08-20'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes32615/b950yshes32615pl.jpg'
 genre: Action & Shonen
+mediaType: 'comic'
 sidebarProducts:
 - title: ONE PIECE学園
   url: https://global.bookwalker.jp/search/?word=One%20Piece%20Manga%20Box%20Set
