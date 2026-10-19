@@ -55,8 +55,6 @@ heroImages:
 </ul>
 </div>
 
-
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -78,7 +76,6 @@ heroImages:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
-
 
 ## Delicious in Dungeon: A Culinary Adventure That's More Than Just Monster Munchies
 
@@ -125,7 +122,6 @@ We learn about the various factions vying for control or survival within the dun
 
 The manga also subtly explores themes of prejudice, survival, community, and what it means to truly understand another creature – even if you plan on eating it. It’s a smart, thoughtful series that doesn't shy away from deeper questions while still keeping things light and entertaining.
 
-
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
 <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📚 Collect Deluxe Editions & Official English Manga</h3>
@@ -136,7 +132,6 @@ The manga also subtly explores themes of prejudice, survival, community, and wha
 👉 Browse English Manga & Collector Sets on Amazon
 </div>
 </div>
-
 
 ## The Art Style: A Feast for the Eyes
 
@@ -179,7 +174,6 @@ Ryoko Kui has also released art books and fan books that delve even deeper into 
 
 *   **Example**: Look for titles like *Dungeon Meshi World Guide: The Adventurer's Bible* or various art collections. These are primarily released in Japanese but can be imported via Amazon JP or other specialty stores. They are fantastic additions for any true fan who wants to explore every nook and cranny of Kui's imaginative world.
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -220,7 +214,6 @@ Ryoko Kui has also released art books and fan books that delve even deeper into 
 </div>
 </div>
 </div>
-
 
 ## Final Thoughts: A True Manga Delicacy
 

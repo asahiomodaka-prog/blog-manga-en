@@ -54,8 +54,6 @@ heroImages:
 </ul>
 </div>
 
-
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -78,7 +76,6 @@ heroImages:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-
 ## Setting Sail with the Straw Hats: Why the One Piece Manga Box Sets Are a Must-Have Treasure
 
 ## The Verdict: Are the One Piece Box Sets Worth Their Weight in Gold?
@@ -86,7 +83,6 @@ heroImages:
 [Absolutely](/blog/unearthing-gems-classic-retro-anime-worth-watching/). Without a shadow of a doubt. The *One Piece Manga Box Sets* are a phenomenal investment for any fan of the series or anyone looking to dive into a truly epic story. The value proposition is unbeatable when you consider the number of volumes, the quality of the packaging, and the exclusive bonus content. You're not just buying books; you're buying a piece of manga history, a curated experience of one of the greatest adventure stories ever told.
 
 From the moment you crack open that first box, you'll feel the excitement of embarking on a grand adventure. The sheer volume of content means countless hours of reading, laughter, tears, and pure excitement. It's a journey that will stay with you long after you've read the final page of each set.
-
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
@@ -99,11 +95,9 @@ From the moment you crack open that first box, you'll feel the excitement of emb
 </div>
 </div>
 
-
 ## Where to Find Your Own Treasure
 
 Ready to set sail? You can typically find all the *One Piece Manga Box Sets* on [Amazon US](https://www.amazon.com/One-Piece-Box-Set-East/dp/1421560747?tag=otakuen-20) or through your regional Amazon store if you're elsewhere in the world. Keep an eye out for sales, as you can often snag these at even better prices during major shopping events. Local comic shops and major bookstores also often carry them, so it's worth checking there to support local businesses!
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -145,7 +139,6 @@ Ready to set sail? You can typically find all the *One Piece Manga Box Sets* on 
 </div>
 </div>
 </div>
-
 
 ## Final Thoughts: The Adventure Never Ends
 

@@ -51,8 +51,6 @@ heroImages:
 </ul>
 </div>
 
-
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -74,7 +72,6 @@ heroImages:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
-
 
 ## Journey to Vinland: Why the Hardcover Manga is a Must-Have for Every Saga Fan
 
@@ -104,7 +101,6 @@ Makoto Yukimura's art is simply stunning. From the sweeping landscapes of Northe
 
 Beneath the layers of battles and political intrigue, *Vinland Saga* tackles universal themes: the futility of violence, the search for meaning, the burden of leadership, and the quest for true peace. It doesn't shy away from the brutality of its setting but constantly questions its necessity, offering a nuanced perspective on what it means to be truly strong. It's a story that challenges your perceptions and encourages deep thought, making it far more than just entertainment.
 
-
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
 <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📚 Collect Deluxe Editions & Official English Manga</h3>
@@ -115,7 +111,6 @@ Beneath the layers of battles and political intrigue, *Vinland Saga* tackles uni
 👉 Browse English Manga & Collector Sets on Amazon
 </div>
 </div>
-
 
 ## Unboxing the Legend: The Vinland Saga Hardcover Manga Experience
 
@@ -169,7 +164,6 @@ Kodansha releases these hardcovers periodically, usually every few months. Stayi
 
 If you're new to the series, this is arguably the best entry point. You're getting the definitive physical edition right from the start. If you're a long-time fan, these hardcovers are a fantastic way to revisit Thorfinn's journey and appreciate the nuanced storytelling and incredible art in a whole new light. They're built to last, designed to impress, and deliver an unparalleled reading experience.
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -210,7 +204,6 @@ If you're new to the series, this is arguably the best entry point. You're getti
 </div>
 </div>
 </div>
-
 
 ## Final Thoughts: A Saga for the Ages, in Editions to Match
 

@@ -153,7 +153,6 @@ Deciding whether *Goodnight Punpun* is right for your collection involves unders
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-
 ### Frequently Asked Questions
 
 **Q1: What makes this story stand out among modern masterpieces?**

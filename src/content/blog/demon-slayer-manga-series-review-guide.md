@@ -56,8 +56,6 @@ Finding the right edition of a classic series can be challenging with so many pr
 </ul>
 </div>
 
-
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -80,7 +78,6 @@ Finding the right edition of a classic series can be challenging with so many pr
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-
 ## Overview & The Core Appeal
 
 At its heart, **Demon Slayer Manga Series** represents a benchmark in its genre. Whether you are revisiting this classic or stepping into the story for the very first time, the narrative craft and thematic ambition immediately set it apart from contemporary works. The pacing balances high-stakes character conflicts with profound psychological and emotional beats.
@@ -97,7 +94,6 @@ For physical collectors, print quality, paper stock, and binding durability are 
 2. **Durability & Shelf Presence**: Premium embossed hardcovers designed to withstand years of reading.
 3. **Exclusive Extras**: Includes color illustration galleries, author commentary, and bonus side chapters.
 
-
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
 <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📚 Collect Deluxe Editions & Official English Manga</h3>
@@ -109,13 +105,11 @@ For physical collectors, print quality, paper stock, and binding durability are 
 </div>
 </div>
 
-
 ## Narrative Depth and Thematic Impact
 
 Beyond the impressive visuals, the enduring legacy of this work lies in its willingness to tackle complex philosophical themes—identity, morality, resilience, and the human condition. The dialogue is sharp, thought-provoking, and emotionally resonant.
 
 Readers who appreciate mature narratives with real consequences will find themselves thoroughly absorbed in the evolving dynamics between key characters.
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -157,8 +151,6 @@ Readers who appreciate mature narratives with real consequences will find themse
 </div>
 </div>
 </div>
-
-
 
 ### Frequently Asked Questions
 

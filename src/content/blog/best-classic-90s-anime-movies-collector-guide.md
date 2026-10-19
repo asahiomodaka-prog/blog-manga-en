@@ -31,8 +31,6 @@ sidebarProducts:
 </ul>
 </div>
 
-
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -55,7 +53,6 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-
 ## Rewind to Glory: Your Essential Collector's Guide to the Best 90s Anime Movies
 
 Hey, fellow anime enthusiasts! If you're anything like me, there's a special place in your heart (and probably on your shelf) for the anime films that defined a generation. The 1990s was a truly magical era for anime cinema, a time when groundbreaking animation, ambitious storytelling, and visionary directors converged to create masterpieces that continue to resonate today. From philosophical sci-fi epics to enchanting fantasy adventures and mind-bending psychological thrillers, the best classic 90s anime movies weren't just entertainment; they were cultural touchstones.
@@ -70,7 +67,6 @@ On the technical front, animators had mastered cel animation to an incredible de
 
 Furthermore, the 90s saw anime begin its significant expansion beyond Japan, especially in the West. Films like *Akira* (an 80s film, but its influence undeniably exploded in the 90s) and *Ghost in the Shell* became gateway drugs for countless fans, proving that animation wasn't just for kids. This growing global interest also meant more resources and attention were being poured into cinematic productions, allowing for bigger budgets and even grander visions. It was a time of fearless experimentation and unparalleled artistry, leaving us with a legacy of films that are not just good, but truly timeless.
 
-
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
 <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📚 Collect Deluxe Editions & Official English Manga</h3>
@@ -81,7 +77,6 @@ Furthermore, the 90s saw anime begin its significant expansion beyond Japan, esp
 👉 Browse English Manga & Collector Sets on Amazon
 </div>
 </div>
-
 
 ## The Essential Classics: Your Collector's Checklist
 
@@ -158,7 +153,6 @@ Beyond specific titles, here are some general tips for building your collection 
 *   **Retailers:** While [Amazon US](https://www.amazon.com/?tag=otakuen-20) and [Amazon JP](https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DAnime%2BBlu-ray%26language%3Den_US) are excellent starting points for new releases, don't forget to check specialty retailers like Right Stuf Anime, Shout! Factory, and Discotek Media's direct stores. For Japanese imports, DMM.com (specifically DMM Japan) can sometimes offer unique editions or better pricing on certain items, especially for digital content or Japanese-specific physical media that might not make it to Amazon's global storefronts.
 *   **Used Market:** eBay, Mercari, and local used media stores can be treasure troves for rare or out-of-print editions. Always check seller ratings and product conditions carefully.
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -199,7 +193,6 @@ Beyond specific titles, here are some general tips for building your collection 
 </div>
 </div>
 </div>
-
 
 ## The Enduring Legacy of 90s Anime Films
 

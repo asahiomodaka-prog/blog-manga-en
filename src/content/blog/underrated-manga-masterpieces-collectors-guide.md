@@ -110,7 +110,6 @@ Mainstream popularity rarely correlates directly with artistic longevity. Lesser
 
 A truly exceptional manga collection reflects personal discovery rather than social media trends. By adding works like *Mushishi* and *Vinland Saga* to your shelf, you secure enduring artistic monuments that offer fresh revelations with every single read.
 
-
 ##### Frequently Asked Questions (FAQ)
 
 ### Q. What makes an underrated manga worth collecting?

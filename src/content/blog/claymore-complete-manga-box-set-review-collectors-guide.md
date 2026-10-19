@@ -209,7 +209,6 @@ If you're a fan of mature, dark fantasy narratives found in series like *Berserk
 </div>
 </div>
 
-
 ### Frequently Asked Questions
 
 **Q1: Does this box set include all original volumes?**

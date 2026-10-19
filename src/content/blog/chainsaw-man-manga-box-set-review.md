@@ -54,8 +54,6 @@ heroImages:
 </ul>
 </div>
 
-
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -78,9 +76,7 @@ heroImages:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-
 ## Chainsaw Man Manga Box Set: Unleash the Devil Hunter in Style
-
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
@@ -93,11 +89,9 @@ heroImages:
 </div>
 </div>
 
-
 ## The Box Set Experience: Packaging, Extras, and Value for Collectors
 
 Tatsuki Fujimoto's bombastic Part 1 arc is gathered in a striking slipcase featuring dynamic cover art, making it an essential display centerpiece.
-
 
 ### Frequently Asked Questions
 
@@ -113,7 +107,6 @@ A3: It serves as both the definitive collector's item for dedicated enthusiasts 
 ## Where to Buy the Chainsaw Man Manga Box Set
 
 Ready to add this incredible collection to your library? The **Chainsaw Man Manga Box Set** is widely available. You can typically find it on [Amazon US](https://www.amazon.com/Chainsaw-Man-Box-Set-Vol/dp/1974744743?tag=otakuen-20) and other major retailers globally. Be sure to check for current pricing and availability, as popular box sets can sometimes sell out quickly!
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -155,7 +148,6 @@ Ready to add this incredible collection to your library? The **Chainsaw Man Mang
 </div>
 </div>
 </div>
-
 
 ## Final Verdict: Don't Hesitate, Unleash Denji!
 

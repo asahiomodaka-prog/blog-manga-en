@@ -183,13 +183,11 @@ For digital English editions, Amazon Kindle is the primary platform. Simply sear
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-
 ## Final Verdict: An Enduring Masterpiece in a Definitive Format
 
 *Blade of the Immortal* is more than just a manga; it's a profound narrative experience, a visual feast, and a testament to the power of sequential art. Hiroaki Samura crafted a world that is both captivating and chilling, populated by characters who linger in your mind long after the final page.
 
 The Deluxe Edition from Dark Horse Comics is an investment, but one that richly rewards the collector. It elevates the reading experience, allowing Samura's extraordinary artwork to truly breathe and impact the reader as intended. Whether you choose the imposing physical hardcovers for your esteemed bookshelf or the convenient digital editions for instant access, experiencing *Blade of the Immortal* is a journey every serious manga fan should undertake. It stands as a pillar of the seinen genre and a timeless classic that continues to resonate with its raw power and intricate beauty.
-
 
 ##### Frequently Asked Questions (FAQ)
 

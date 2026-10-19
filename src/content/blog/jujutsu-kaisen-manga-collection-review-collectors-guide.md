@@ -190,7 +190,6 @@ Always compare prices across different Amazon regions, especially for physical v
 </div>
 </div>
 
-
 ### Frequently Asked Questions
 
 **Q1: Does this box set include all original volumes?**

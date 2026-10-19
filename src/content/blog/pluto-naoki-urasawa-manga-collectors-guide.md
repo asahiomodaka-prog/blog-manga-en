@@ -171,13 +171,11 @@ If you're looking to delve into more mature, thought-provoking manga beyond the 
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-
 ## Final Verdict
 
 Naoki Urasawa's *Pluto* is a triumph of storytelling, a series that pushes the boundaries of its genre and leaves an indelible mark on its readers. For the international collector, the choice between the premium physical editions and the convenient digital versions comes down to personal preference. The Viz Media softcover editions offer a beautiful, tactile experience that truly brings Urasawa's art to life on your shelf, making them the ultimate choice for display and immersive reading. Meanwhile, the Kindle editions provide instant gratification and portability, perfect for diving into the mystery anywhere, anytime.
 
 Regardless of your chosen format, *Pluto* is an indispensable addition to any manga collection. It's a series that demands to be read, discussed, and cherished – a true masterpiece that exemplifies the very best of Japanese sequential art.
-
 
 ##### Frequently Asked Questions (FAQ)
 

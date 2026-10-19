@@ -177,11 +177,9 @@ Always compare prices and shipping costs across different retailers to ensure yo
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-
 ## Conclusion
 
 *Hell's Paradise: Jigokuraku* has solidified its place as a standout series in the modern manga landscape. Its potent blend of thrilling action, profound themes, and stunning artwork creates an unforgettable reading experience. Whether you choose to embark on this journey through the tactile pleasure of its physical volumes – particularly the impressive complete series box set – or the immediate convenience of its official English Kindle releases, *Hell's Paradise* promises a harrowing yet deeply rewarding adventure into a world where beauty and horror intertwine. For any international collector or manga enthusiast, adding this dark fantasy masterpiece to your collection is a decision you won't regret.
-
 
 ##### Frequently Asked Questions (FAQ)
 

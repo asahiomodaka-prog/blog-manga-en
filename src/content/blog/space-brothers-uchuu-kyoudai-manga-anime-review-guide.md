@@ -53,8 +53,6 @@ heroImages:
 </ul>
 </div>
 
-
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -77,7 +75,6 @@ heroImages:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-
 ## Beyond the Stars: Why 'Space Brothers' is a Must-Read Manga and Must-Watch Anime
 
 From the bustling streets of Tokyo to the silent, infinite expanse of the cosmos, the dream of touching the stars has captivated humanity for millennia. Yet, few stories capture this aspiration with the profound human depth, meticulous realism, and sheer emotional resonance of Chūya Koyama's masterpiece, *Space Brothers* (Space Brothers / *Uchuu Kyoudai*). For international manga and anime enthusiasts, collectors, and casual fans alike, this series isn't just a tale about astronauts; it's an inspiring saga of sibling bonds, unwavering perseverance, and the often-messy, always-rewarding journey of chasing a childhood promise into adulthood.
@@ -90,7 +87,6 @@ As an anime critic and manga historian for Midnight Manga Vault, I've seen count
 
 The series has also been praised by real-life astronauts and space enthusiasts for its accuracy and inspiring portrayal of space exploration. Its ability to demystify the rigorous process of becoming an astronaut while emphasizing the human element has resonated with many. Creator Chūya Koyama's dedication to research and his ability to weave complex scientific details into a compelling human drama are key to its enduring popularity. The manga has inspired countless readers, reminding them that it's never too late to pursue a dream, no matter how distant it may seem.
 
-
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
 <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📚 Collect Deluxe Editions & Official English Manga</h3>
@@ -101,7 +97,6 @@ The series has also been praised by real-life astronauts and space enthusiasts f
 👉 Browse English Manga & Collector Sets on Amazon
 </div>
 </div>
-
 
 ## Your Journey to the Stars: A Complete Reading Guide & Watch Order
 
@@ -120,7 +115,6 @@ The *Space Brothers* anime is an excellent entry point, especially for those who
 A live-action film adaptation was released in 2012, starring Shun Oguri as Mutta and Masaki Okada as Hibito. While a valiant effort, it condenses a vast story into a single movie, making it a supplementary experience rather than a replacement for the manga or anime. It's worth a watch for fans curious to see the characters brought to life by actors, but it's not essential for understanding the core narrative.
 
 Whether you choose to read the manga, watch the anime, or both, prepare for a story that will make you laugh, cry, and perhaps even look at your own dreams with renewed determination. *Space Brothers* isn't just entertainment; it's a profound exploration of what it means to be human, to strive for greatness, and to reach for the stars, one step at a time.
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -162,7 +156,6 @@ Whether you choose to read the manga, watch the anime, or both, prepare for a st
 </div>
 </div>
 </div>
-
 
 ## Frequently Asked Questions About *Space Brothers*
 

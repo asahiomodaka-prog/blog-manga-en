@@ -136,7 +136,6 @@ For international manga collectors, the choice between physical and digital ofte
 
 Many collectors opt for a hybrid approach: purchasing deluxe physical editions for their absolute favorite series (like *Berserk* and *Blade of the Immortal*) and enjoying other titles digitally.
 
-
 ### Frequently Asked Questions
 
 **Q1: What makes this story stand out among modern masterpieces?**
@@ -175,7 +174,6 @@ While DMM is a popular digital platform in Japan, for English-language manga, Ki
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
-
 
 ## Embrace the Darkness
 

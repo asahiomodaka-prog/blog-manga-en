@@ -173,11 +173,9 @@ For international collectors, acquiring these masterpieces is easier than ever:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-
 ## Final Thoughts: Investing in Anime History
 
 Collecting retro anime isn't just about owning physical media; it's about preserving and appreciating the foundational works that shaped an entire art form. Whether you opt for the tactile satisfaction of a deluxe hardcover or the immediate pleasure of a digital stream, these timeless treasures offer rich storytelling, unparalleled artistry, and a window into the evolution of Japanese pop culture. Dive in, explore, and let these classic retro anime enrich your collection and your viewing experience. You'll be investing in history, one frame at a time.
-
 
 ##### Frequently Asked Questions (FAQ)
 

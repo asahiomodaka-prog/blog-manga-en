@@ -54,8 +54,6 @@ heroImages:
 </ul>
 </div>
 
-
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -77,7 +75,6 @@ heroImages:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
-
 
 ## Death Note All-in-One Edition: Is This Gigantic Tome Worth It?
 
@@ -125,7 +122,6 @@ Generally, the *All-in-One Edition* is more affordable than buying all twelve st
 
 As mentioned, this edition typically includes the supplementary content from Volume 13, *How to Read*. This means you're not just getting the story, but also the extra insights, character data, and creator commentary that enrich the *Death Note* universe, all within the same binding. It truly feels like a definitive package.
 
-
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
 <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📚 Collect Deluxe Editions & Official English Manga</h3>
@@ -136,7 +132,6 @@ As mentioned, this edition typically includes the supplementary content from Vol
 👉 Browse English Manga & Collector Sets on Amazon
 </div>
 </div>
-
 
 ## The Downsides: Why the All-in-One Might Not Be For Everyone
 
@@ -164,7 +159,6 @@ For serious collectors, the *All-in-One Edition* occupies an interesting space. 
 
 The *All-in-One* is more of a curiosity or a practical solution for space and budget. It's a definitive way to *own* the story, but perhaps not always the definitive way to *display* it for those who prioritize premium editions. However, for a *Death Note* completist, having this giant edition alongside other versions could be a fun addition, showcasing the different ways the series has been presented.
 
-
 ### Frequently Asked Questions
 
 **Q1: Why choose the Deluxe Hardcover Edition over standard paperbacks?**
@@ -185,7 +179,6 @@ Ready to add this monumental tome to your collection? Here are some reliable pla
 *   **DMM**: While DMM is primarily known for digital content and figures, they sometimes carry physical manga as well, especially popular series. It's worth checking their [storefront](https://global.bookwalker.jp/search/?word=Death%20Note%20All-in-One%20Edition) if you're exploring all possible avenues, though Amazon is typically more reliable for physical VIZ Media releases.
 
 Always compare prices and shipping options, especially for a heavy item like this, to get the best deal.
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -227,7 +220,6 @@ Always compare prices and shipping options, especially for a heavy item like thi
 </div>
 </div>
 </div>
-
 
 ## Final Verdict: Is the All-in-One Edition for You?
 

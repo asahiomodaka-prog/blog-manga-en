@@ -188,13 +188,11 @@ DMM (DMM.com) is a major Japanese e-commerce and digital content platform. While
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
 
-
 ## Conclusion: Set Sail with the Straw Hats
 
 *One Piece* stands as a monumental achievement in storytelling, a grand adventure that has captivated generations. The Manga Box Sets offer the definitive physical experience for collectors, providing a beautiful, robust, and comprehensive way to own this legendary series. While digital options like Kindle offer unparalleled convenience, nothing quite matches the satisfaction of holding these volumes, admiring Oda's art, and witnessing the Straw Hats' journey unfold on your bookshelf.
 
 Whether you're a seasoned pirate or a fresh recruit to the Grand Line, investing in the *One Piece* Manga Box Sets is an investment in a timeless saga that will continue to inspire and entertain for years to come. Prepare to laugh, cry, and cheer as Luffy and his crew chase their dreams across the vast, wondrous world of *One Piece*.
-
 
 ##### Frequently Asked Questions (FAQ)
 

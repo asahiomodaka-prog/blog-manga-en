@@ -40,8 +40,6 @@ When Shinichiro Watanabe and Studio Sunrise released *Cowboy Bebop* in 1998, the
 </ul>
 </div>
 
-
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -68,10 +66,8 @@ Shinichiro Watanabe's sci-fi noir masterpiece remains an untouchable pinnacle of
 
 ## Yoko Kanno's Iconic Soundscapes and Genre-Bending Aesthetic
 
-
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
-
 
 ## Living in the Past: The Tragedy of Spike Spiegel
 
@@ -89,7 +85,6 @@ A2: *Cowboy Bebop* features one of the most revered English dub casts in the ind
 
 **Q3: How many episodes are there in the series?**  
 A3: The complete original TV series spans 26 episodes, accompanied by a feature-length theatrical film, *Cowboy Bebop: Knockin' on Heaven's Door* (2001).
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -131,7 +126,6 @@ A3: The complete original TV series spans 26 episodes, accompanied by a feature-
 </div>
 </div>
 </div>
-
 
 ## Final Verdict: Why You Must Experience It Tonight
 
