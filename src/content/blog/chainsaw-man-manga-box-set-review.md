@@ -110,6 +110,8 @@ What elevates *Chainsaw Man* from great manga to enduring masterpiece is Fujimot
 
 Before committing your shelf space and budget, consult this side-by-side comparison between the different formats available for *Chainsaw Man Part 1*.
 
+**Key Takeaway for Readers:** Focus closely on Row 2 (*Effective Cost per Volume*) and Row 4 (*Exclusive Bonus Content*). While digital subscriptions offer instant accessibility, the Box Set provides an unmatched ~30% discount off individual paperback MSRP while securing the official double-sided collector’s poster and custom display housing.
+
 | Feature / Criteria | ① Chainsaw Man Box Set (Vol 1–11) | ② Individual Paperbacks | ③ Digital (Kindle / Manga Plus) | ④ Japanese Tankobon Set |
 | :--- | :--- | :--- | :--- | :--- |
 | **Volumes Included** | **Complete Part 1 (Vols 1–11)** | Buy per volume (1 to 11+) | Individual chapters/volumes | Volumes 1–11 (Japanese text) |
@@ -124,7 +126,9 @@ Before committing your shelf space and budget, consult this side-by-side compari
 
 ## 4. Reading Roadmap & Anime Coverage: Where Does the Box Set Lead?
 
-For readers transitioning from the MAPPA anime adaptation, here is the exact narrative roadmap mapping the TV series and movies to the manga volumes included in this box set.
+For readers transitioning from the MAPPA anime adaptation, here is how the manga volumes map out against the animated releases:
+
+**Key Takeaway for Readers:** If you just finished watching Season 1 of the anime, look directly at Row 3 (*Bomb Girl / Reze Arc, Volumes 5–6*). This is the exact narrative pivot point where the theatrical film picks up, making Volume 5 your immediate reading destination.
 
 | Story Arc Title | Manga Volumes | Anime Season Coverage | Major Plot Milestones & Themes |
 | :--- | :--- | :--- | :--- |

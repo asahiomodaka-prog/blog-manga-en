@@ -118,6 +118,8 @@ Entering the treacherous New World. The Straw Hats forge a pirate alliance with 
 
 When building your physical manga library, understanding the physical trade-offs is essential. Here is how the Box Sets compare against the budget 3-in-1 Omnibus paperbacks and digital subscription services.
 
+**Key Takeaway for Readers:** Pay special attention to Row 3 (*Paper Quality & Durability*) and Row 5 (*Shelf Weight & Display Aesthetic*). The 3-in-1 Omnibus editions use thinner newsprint-grade paper susceptible to bleed-through, whereas the Box Sets contain the definitive tankobon single prints with full-color original covers and sturdy slipcase packaging.
+
 | Feature / Criterion | ① Official Box Sets (1–4) | ② 3-in-1 Omnibus Paperbacks | ③ Digital (Shonen Jump App) | ④ Standalone Singles |
 | :--- | :--- | :--- | :--- | :--- |
 | **Individual Volume Covers** | **Yes (100% Original Covers)** | No (Only 1 cover per 3 vols) | Yes (Digital gallery) | Yes |
@@ -134,7 +136,9 @@ While the 3-in-1 omnibus editions cost slightly less upfront, the paper stock is
 
 ## 3. Comprehensive Reading & Volume Roadmap (Box Sets 1–4)
 
-To plan your epic voyage, use this structural roadmap mapping the chronological volumes to their narrative destinations.
+To plan your epic voyage, use this structural roadmap mapping the chronological volumes to their narrative destinations:
+
+**Key Takeaway for Readers:** Notice the structural milestone in Row 3 (*Box Set 3: Thriller Bark to New World, Vols 47–70*). This box contains the paramount turning point of Marineford and the Two-Year Timeskip, representing the emotional apex and thematic hinge of Oda's entire grand narrative.
 
 | Box Set Collection | Volumes Included | Page Count Approx. | Primary Story Sagas | Crucial Life Milestones |
 | :--- | :--- | :--- | :--- | :--- |

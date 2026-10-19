@@ -109,6 +109,8 @@ Rather than following a simple linear progression, Urasawa constructs *20th Cent
 
 For collectors deciding which version to shelve, here is a detailed breakdown of the enhancements offered by *The Perfect Edition*:
 
+**Key Takeaway for Readers:** Direct your attention to Row 2 (*Page Dimensions & Trim Size*) and Row 4 (*Restored Magazine Color Pages*). The expansive A5 format provides over 40% more visual surface area per page than standard paperbacks, which is vital for appreciating Urasawa's forensic background textures and cinematic wide-angle crowd shots.
+
 | Feature Comparison | The Perfect Edition (11 Vols + Epilogue) | Original Single Tankobon (22 Vols) | Digital Ver. (Kindle / App) |
 | :--- | :--- | :--- | :--- |
 | **Trim Size** | **Oversized A5 (148 x 210 mm)** | Standard B6 (128 x 182 mm) | Device Dependent |
@@ -126,6 +128,8 @@ The primary draw for true enthusiasts is the **revised ending in *21st Century B
 ## 4. Chronological Story Arc Roadmap
 
 Use this master table to orient yourself across the vast narrative terrain:
+
+**Key Takeaway for Readers:** Keep your eye on Row 3 (*Volume 5: Bloody New Year's Eve, Year 2000*) and Row 5 (*Volume 9: The Wall of Tokyo, Year 2017*). These two pivotal volumes mark the catastrophic shifts in geopolitical reality within the story, serving as your anchors when tracking the shifting identities behind "Friend."
 
 | Volume Number | Era Focus | Central Mystery / Turning Point |
 | :--- | :--- | :--- |
