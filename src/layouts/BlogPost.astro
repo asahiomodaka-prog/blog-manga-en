@@ -15,6 +15,9 @@ type Props = CollectionEntry<'blog'>['data'] & {
 
 const { title, description, pubDate, updatedDate, heroImage, heroImages: propHeroImages, genre, sidebarProducts, faq, rating, headings = [], readingTime } = Astro.props;
 
+// Prevent duplicate FAQ rendering when body already has FAQ heading
+const hasBodyFaq = (headings || []).some((h) => /よくある質問|FAQ|Frequently Asked/i.test(h.text || ''));
+
 // Multi-cover image resolution logic
 const extractedSidebarImages = (sidebarProducts || [])
 	.map(p => p.imageUrl)
@@ -1582,7 +1585,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 						</section>
 
 						<!-- FAQ（よくある質問）セクション -->
-						{faq && faq.length > 0 && (
+						{faq && faq.length > 0 && !hasBodyFaq && (
 							<section class="faq-section">
 								<h3 class="faq-section-title">Frequently Asked Questions (FAQ)</h3>
 								<div class="faq-list">
