@@ -78,6 +78,8 @@ This structure offers several undeniable advantages:
 
 Here is how the entire 34-volume journey is structured across Kodansha’s 7 official seasonal box sets:
 
+**Key Takeaway for Readers:** Pay special attention to Row 4 (*Season 3 Part 2*) and Row 5 (*The Final Season Part 1*). These boxes mark the critical transition from the localized survival horror of Paradis Island into the sprawling geopolitical conflict across the ocean, anchoring your reading journey across Hajime Isayama’s grand narrative.
+
 | Box Set Edition | Volumes Included | Corresponding Anime Arc | Exclusive Physical Bonus Item |
 | :--- | :--- | :--- | :--- |
 | **Season 1 Part 1** | Volumes 1–4 | Fall of Shiganshina & Battle of Trost | Exclusive double-sided color poster |
@@ -91,6 +93,8 @@ Here is how the entire 34-volume journey is structured across Kodansha’s 7 off
 ## Buying Singles vs. Season Box Sets: Value & Price Comparison
 
 Is buying the box sets truly cheaper than picking up volumes individually? The numbers speak clearly:
+
+**Key Takeaway for Readers:** Compare Row 2 (*Single Volume Retail Sum*) against Row 3 (*Complete Box Set Bundle Cost*). Bundling the seasonal sets yields an overall savings of approximately 25–30% off standard MSRP, in addition to securing exclusive collectible sticker sheets and premium display packaging unavailable with standalone paperbacks.
 
 | Purchase Method | Retail Price per Unit | Total Series Cost (34 Vols) | Key Perks & Extras |
 | :--- | :--- | :--- | :--- |

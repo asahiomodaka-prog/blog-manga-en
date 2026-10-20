@@ -80,6 +80,8 @@ Dark Horse spared no expense in engineering a physical tome worthy of Kentaro Mi
 
 How does the Deluxe Edition hold up against reading the original single paperbacks? Here is the direct breakdown:
 
+**Key Takeaway for Readers:** Notice Row 1 (*Page Trim Size: 7x10 inches*) and Row 4 (*Binding & Lay-Flat Reading*). The oversized dimensions expand Kentaro Miura’s intricate double-page spreads by roughly 70%, and the sewn ribbon binding allows massive combat scenes like the Battle of Doldrey to lay completely flat without gutter loss.
+
 | Feature / Specification | Standard Dark Horse Paperback | Berserk Deluxe Hardcover Edition | Collector Impact |
 | :--- | :--- | :--- | :--- |
 | **Trim Size** | Standard 5.125" × 7.187" | **Oversized 7" × 10"** | **Approx. 70% larger surface area per panel** |
@@ -91,6 +93,8 @@ How does the Deluxe Edition hold up against reading the original single paperbac
 ## Story Arc Breakdown Across the Deluxe Volumes
 
 Starting your collection is straightforward, as each volume cleanly gathers three original tankobon installments:
+
+**Key Takeaway for Readers:** Focus on Row 2 (*Deluxe Vol 2–4: The Golden Age Arc*) and Row 5 (*Deluxe Vol 5: The Eclipse*). These pivotal volumes encompass the emotional crucible that transformed Guts into the Black Swordsman, making them the ultimate starting destination for both newcomers and seasoned collectors alike.
 
 | Deluxe Volume | Tankobon Covered | Featured Story Arcs & Milestones |
 | :--- | :--- | :--- |
