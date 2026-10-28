@@ -41,15 +41,15 @@ heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg
 ---
 
-> 💡 **PR/Notice**: This site contains affiliate links. We may earn a commission when you make a purchase through our links at no additional cost to you.
+> 💡 <strong>PR/Notice</strong>: This site contains affiliate links. We may earn a commission when you make a purchase through our links at no additional cost to you.
 
-In 1969, against the backdrop of the Apollo moon landing and the upcoming 1970 Osaka Expo, a group of imaginative Japanese elementary school boys built a secret grass hideout in a vacant lot. Inside, they drew up a notebook they titled **"The Book of Prophecy" (Yogen no Sho)**: a childish sci-fi daydream detailing a sinister evil organization destroying humanity with biological weapons, giant laser-firing robots, and atmospheric air-spreaders, only to be stopped by nine heroic defenders.
+In 1969, against the backdrop of the Apollo moon landing and the upcoming 1970 Osaka Expo, a group of imaginative Japanese elementary school boys built a secret grass hideout in a vacant lot. Inside, they drew up a notebook they titled <strong>"The Book of Prophecy" (Yogen no Sho)</strong>: a childish sci-fi daydream detailing a sinister evil organization destroying humanity with biological weapons, giant laser-firing robots, and atmospheric air-spreaders, only to be stopped by nine heroic defenders.
 
-Thirty years later, in 1997, Kenji Endo is an exhausted, failed rock musician running a franchised convenience store and taking care of his vanished sister’s infant daughter, Kanna. When an old childhood companion dies under suspicious circumstances, Kenji uncovers a terrifying reality: a shadowy religious cult led by a masked figure known only as **"Friend" (Tomodachi)** is executing "The Book of Prophecy" step by terrifying step.
+Thirty years later, in 1997, Kenji Endo is an exhausted, failed rock musician running a franchised convenience store and taking care of his vanished sister’s infant daughter, Kanna. When an old childhood companion dies under suspicious circumstances, Kenji uncovers a terrifying reality: a shadowy religious cult led by a masked figure known only as <strong>"Friend" (Tomodachi)</strong> is executing "The Book of Prophecy" step by terrifying step.
 
-Serialized from 1999 to 2006, Naoki Urasawa’s **20th Century Boys** won the Kodansha Manga Award, the Shogakukan Manga Award, and the prestigious Eisner Award. It remains the quintessential gold standard of the mystery-thriller genre.
+Serialized from 1999 to 2006, Naoki Urasawa’s <strong>20th Century Boys</strong> won the Kodansha Manga Award, the Shogakukan Manga Award, and the prestigious Eisner Award. It remains the quintessential gold standard of the mystery-thriller genre.
 
-With VIZ Media’s release of **20th Century Boys: The Perfect Edition**, international collectors have finally received the ultimate archival format. Here is our deep-dive critical analysis of the narrative, the edition’s physical craftsmanship, and the chronological timeline.
+With VIZ Media’s release of <strong>20th Century Boys: The Perfect Edition</strong>, international collectors have finally received the ultimate archival format. Here is our deep-dive critical analysis of the narrative, the edition’s physical craftsmanship, and the chronological timeline.
 
 ---
 
@@ -86,7 +86,7 @@ With VIZ Media’s release of **20th Century Boys: The Perfect Edition**, intern
 
 The brilliance of *20th Century Boys* lies in how Naoki Urasawa subverts universal childhood nostalgia into existential dread. 
 
-Most coming-of-age stories treat memories of youth—treehouse forts, shared transistor radios, comic book trading, and playground rivalries—as an innocent sanctuary. Urasawa inverts this completely: the villain is not an alien conqueror or a demonic deity, but **one of the very kids who played in that secret base**.
+Most coming-of-age stories treat memories of youth—treehouse forts, shared transistor radios, comic book trading, and playground rivalries—as an innocent sanctuary. Urasawa inverts this completely: the villain is not an alien conqueror or a demonic deity, but <strong>one of the very kids who played in that secret base</strong>.
 
 Because Kenji and his childhood friends (Otcho, Yoshitsune, Maruo, Mon-chan, Yukiji, and Donkey) cannot remember every child who drifted through their clubhouse, "Friend’s" identity becomes a waking nightmare of repressed guilt and forgotten playground cruelty. The masked leader weaponizes their childhood symbols—specifically the iconic eye-and-finger emblem drawn by Otcho in 1969—into the global standard of a totalitarian theocracy.
 
@@ -98,11 +98,11 @@ Kenji is not a chosen superhero; he is a tired, flawed, middle-aged slacker conf
 
 Rather than following a simple linear progression, Urasawa constructs *20th Century Boys* as an intricate, temporal jigsaw puzzle moving across five interconnected eras:
 
-1. **1969–1972 (The Foundation)**: The secret clubhouse, the summer vacation, the radio broadcasts of T. Rex’s *"20th Century Boy"*, and the eerie childhood events surrounding the hanging incident at the local school.
-2. **1997–2000 (The Awakening)**: Kenji gathers the scattered remnants of his childhood gang to investigate virus outbreaks in San Francisco and London, building toward the fateful countdown of December 31, 2000: **Bloody New Year’s Eve**.
-3. **2014 (The Dystopian Aftermath)**: The world believes Kenji was a terrorist, while "Friend" is worshipped as the savior of humanity. Kenji’s niece, the charismatic and fearless **Kanna Endo**, rises within the Tokyo underground to organize a resistance against the Universal Goodwill Party.
-4. **2017 (The New Era / Friend Year 3)**: Humanity is decimated by global pathogen dispersion, Tokyo is walled off in an armed quarantine zone, and surviving legends emerge from the wasteland for a final confrontation.
-5. **The Virtual Reality Simulation**: A miraculous memory archive technology allowing characters to walk through a digital recreation of 1969 suburban Tokyo to uncover the forgotten trauma that birthed "Friend."
+1. <strong>1969–1972 (The Foundation)</strong>: The secret clubhouse, the summer vacation, the radio broadcasts of T. Rex’s *"20th Century Boy"*, and the eerie childhood events surrounding the hanging incident at the local school.
+2. <strong>1997–2000 (The Awakening)</strong>: Kenji gathers the scattered remnants of his childhood gang to investigate virus outbreaks in San Francisco and London, building toward the fateful countdown of December 31, 2000: <strong>Bloody New Year’s Eve</strong>.
+3. <strong>2014 (The Dystopian Aftermath)</strong>: The world believes Kenji was a terrorist, while "Friend" is worshipped as the savior of humanity. Kenji’s niece, the charismatic and fearless <strong>Kanna Endo</strong>, rises within the Tokyo underground to organize a resistance against the Universal Goodwill Party.
+4. <strong>2017 (The New Era / Friend Year 3)</strong>: Humanity is decimated by global pathogen dispersion, Tokyo is walled off in an armed quarantine zone, and surviving legends emerge from the wasteland for a final confrontation.
+5. <strong>The Virtual Reality Simulation</strong>: A miraculous memory archive technology allowing characters to walk through a digital recreation of 1969 suburban Tokyo to uncover the forgotten trauma that birthed "Friend."
 
 ---
 
@@ -116,13 +116,13 @@ For collectors deciding which version to shelve, here is a detailed breakdown of
 
 | Feature Comparison | The Perfect Edition (11 Vols + Epilogue) | Original Single Tankobon (22 Vols) | Digital Ver. (Kindle / App) |
 | :--- | :--- | :--- | :--- |
-| **Trim Size** | **Oversized A5 (148 x 210 mm)** | Standard B6 (128 x 182 mm) | Device Dependent |
-| **Color Restorations** | **Full magazine color spreads included** | Grayscale conversions only | Full color on compatible apps |
-| **Paper Stock** | **Heavyweight opaque white stock** | Yellowing newsprint grade | N/A |
-| **Spine Design** | **Uniform minimalist typography** | Variable, aging single logos | N/A |
-| **Ending Version** | **Urasawa’s Revised Expanded Ending** | Original 2006 magazine ending | Revised edition |
-| **Total Shelf Width** | **~24 cm (Saves valuable space)** | ~35 cm (Bulky 22 volumes) | **0 cm** |
-| **Estimated Total Cost**| **~$200 – $240 complete** | ~$150 – $180 (Used market) | ~$120 – $150 |
+| <strong>Trim Size</strong> | <strong>Oversized A5 (148 x 210 mm)</strong> | Standard B6 (128 x 182 mm) | Device Dependent |
+| <strong>Color Restorations</strong> | <strong>Full magazine color spreads included</strong> | Grayscale conversions only | Full color on compatible apps |
+| <strong>Paper Stock</strong> | <strong>Heavyweight opaque white stock</strong> | Yellowing newsprint grade | N/A |
+| <strong>Spine Design</strong> | <strong>Uniform minimalist typography</strong> | Variable, aging single logos | N/A |
+| <strong>Ending Version</strong> | <strong>Urasawa’s Revised Expanded Ending</strong> | Original 2006 magazine ending | Revised edition |
+| <strong>Total Shelf Width</strong> | <strong>~24 cm (Saves valuable space)</strong> | ~35 cm (Bulky 22 volumes) | <strong>0 cm</strong> |
+| <strong>Estimated Total Cost</strong>| <strong>~$200 – $240 complete</strong> | ~$150 – $180 (Used market) | ~$120 – $150 |
 
 The primary draw for true enthusiasts is the **revised ending in *21st Century Boys: The Perfect Edition***. Dissatisfied with the ambiguity of the original serialized finale, Urasawa drew new pages clarifying the fate of key characters and delivering explicit closure on the psychological conflict between Kenji and his shadow self.
 
@@ -136,13 +136,13 @@ Use this master table to orient yourself across the vast narrative terrain:
 
 | Volume Number | Era Focus | Central Mystery / Turning Point |
 | :--- | :--- | :--- |
-| **Perfect Edition Vol 1–2** | 1969 & 1997 | Donkey’s suicide, mysterious virus deaths, assembling the old gang. |
-| **Perfect Edition Vol 3–4** | 2000 | The robot blueprint discovered, Otcho returns from Bangkok, Shinjuku fire. |
-| **Perfect Edition Vol 5–6** | 2014 | Bloody New Year’s Eve revealed, Kanna in Kabukicho, the Father Choper heroics. |
-| **Perfect Edition Vol 7–8** | 2014–2015 | The Virtual Simulation world, the assassination attempt on the Pope. |
-| **Perfect Edition Vol 9–10** | Friend Year 3 (2017) | Tokyo Quarantine Wall, Kenji’s guitar journey, the extraterrestrial hoax. |
-| **Perfect Edition Vol 11** | Climax | The final broadcast, the giant robot returns, saving Tokyo. |
-| **21st Century Boys (Vol 12)**| **Epilogue (Final Closure)** | **The True Identity of the Second Friend, the Rooftop Confession.** |
+| <strong>Perfect Edition Vol 1–2</strong> | 1969 & 1997 | Donkey’s suicide, mysterious virus deaths, assembling the old gang. |
+| <strong>Perfect Edition Vol 3–4</strong> | 2000 | The robot blueprint discovered, Otcho returns from Bangkok, Shinjuku fire. |
+| <strong>Perfect Edition Vol 5–6</strong> | 2014 | Bloody New Year’s Eve revealed, Kanna in Kabukicho, the Father Choper heroics. |
+| <strong>Perfect Edition Vol 7–8</strong> | 2014–2015 | The Virtual Simulation world, the assassination attempt on the Pope. |
+| <strong>Perfect Edition Vol 9–10</strong> | Friend Year 3 (2017) | Tokyo Quarantine Wall, Kenji’s guitar journey, the extraterrestrial hoax. |
+| <strong>Perfect Edition Vol 11</strong> | Climax | The final broadcast, the giant robot returns, saving Tokyo. |
+| <strong>21st Century Boys (Vol 12)</strong>| <strong>Epilogue (Final Closure)</strong> | <strong>The True Identity of the Second Friend, the Rooftop Confession.</strong> |
 
 ---
 
@@ -150,24 +150,24 @@ Use this master table to orient yourself across the vast narrative terrain:
 
 Before embarking on this massive 240-chapter odyssey, consider these reading recommendations:
 
-* **Binge Reading Is Highly Recommended**: Due to the dozens of recurring characters and shifting eras, reading *20th Century Boys* with long gaps between volumes can cause confusion regarding minor characters. Reading through the 11 Perfect Edition volumes within a few weeks maximizes narrative tension and memory retention.
-* **Grounded Realism Over Superheroics**: Even when giant robots and bioweapons appear, they are constructed using crude, dirty technology reflecting the 1960s perspective. The battles are fought with guitars, courage, and desperate foot chases rather than anime power-ups.
+* <strong>Binge Reading Is Highly Recommended</strong>: Due to the dozens of recurring characters and shifting eras, reading *20th Century Boys* with long gaps between volumes can cause confusion regarding minor characters. Reading through the 11 Perfect Edition volumes within a few weeks maximizes narrative tension and memory retention.
+* <strong>Grounded Realism Over Superheroics</strong>: Even when giant robots and bioweapons appear, they are constructed using crude, dirty technology reflecting the 1960s perspective. The battles are fought with guitars, courage, and desperate foot chases rather than anime power-ups.
 
 ---
 
 ### Frequently Asked Questions
 
-**Q1: What is the difference between the Perfect Edition and the original single volumes?**  
+<strong>Q1: What is the difference between the Perfect Edition and the original single volumes?</strong>  
 A1: The Perfect Edition gathers the 22 singles into 11 double-length A5 volumes, restores all original color pages, uses premium non-bleed paper, and includes Urasawa's revised canonical ending.
 
-**Q2: Does "21st Century Boys" need to be purchased separately?**  
+<strong>Q2: Does "21st Century Boys" need to be purchased separately?</strong>  
 A2: Yes. *21st Century Boys: The Perfect Edition* is published as the 12th and final volume of the series. It provides the crucial conclusion and resolves the ultimate identity of "Friend."
 
-**Q3: Is the timeline too convoluted for first-time readers?**  
+<strong>Q3: Is the timeline too convoluted for first-time readers?</strong>  
 A3: While it leaps between 1969, 1997, 2000, 2014, and 2017, Urasawa’s masterful visual storytelling and clear character designs make each era distinct and deeply engrossing.
 
 ---
 
 *20th Century Boys* is a towering testament to the power of memory, the heavy burden of consequence, and the enduring spirit of rock and roll.
 
-Shelving **The Perfect Edition** is not merely adding books to a library—it is installing an architectural marvel of modern suspense that rewards every re-reading with stunning new revelations.
+Shelving <strong>The Perfect Edition</strong> is not merely adding books to a library—it is installing an architectural marvel of modern suspense that rewards every re-reading with stunning new revelations.

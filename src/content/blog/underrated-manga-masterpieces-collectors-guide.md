@@ -28,7 +28,7 @@ heroImages:
 - https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784065355190_1_2.jpg?_ex=600x600
 ---
 
-> 💡 **PR/Notice**: This site contains affiliate links. We may earn a commission when you make a purchase through our links at no additional cost to you.
+> 💡 <strong>PR/Notice</strong>: This site contains affiliate links. We may earn a commission when you make a purchase through our links at no additional cost to you.
 
 While mainstream shonen blockbusters dominate headlines, some of the most profound, artistically breathtaking manga masterpieces quietly reside outside the commercial spotlight. For international collectors, discovering these hidden gems represents the purest thrill of manga appreciation.
 
