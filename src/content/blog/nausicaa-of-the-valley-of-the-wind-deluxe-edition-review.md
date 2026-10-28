@@ -28,40 +28,43 @@ heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b000chftx06446/b000chftx06446pl.jpg
 - https://ebook-assets.dmm.com/digital/e-book/b889ahkdd00125/b889ahkdd00125pl.jpg
 ---
-<!-- Disclosure: This page contains affiliate links. -->
+
+> 💡 **PR/Notice**: This site contains affiliate links. We may earn a commission when you make a purchase through our links at no additional cost to you.
 
 # Nausicaä of the Valley of the Wind Deluxe Edition: The [Definitive](/blog/berserk-deluxe-edition-review-kentaro-miura/) Collector's Guide to Miyazaki's Manga Epic
 
 For many, the name Hayao Miyazaki conjures images of whimsical creatures, flying machines, and enchanting landscapes from Studio Ghibli films like *Spirited Away* or *My Neighbor Totoro*. Yet, long before Ghibli became a global phenomenon, Miyazaki poured his boundless imagination into a sprawling manga epic that would define his artistic vision and cement his legacy as a master storyteller: *Nausicaä of the Valley of the Wind*. While the beloved 1984 animated film adaptation introduced many to its post-apocalyptic world, it barely scratches the surface of the manga's profound narrative and breathtaking artwork. For the discerning international collector, the *Nausicaä of the Valley of the Wind Deluxe Edition* is not just a book; it's an essential journey into a foundational work of modern fantasy and science fiction, offering an unparalleled physical experience that demands a prime spot on any serious enthusiast's shelf.
 
+
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/b000ahftx05776/b000ahftx05776pl.jpg" alt="Nausicaa of the Valley of the Wind Deluxe" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/booxstore/cabinet/00493/bk4198699011.jpg?_ex=600x600" alt="Nausicaä of the Valley of the Wind Deluxe" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Nausicaa of the Valley of the Wind Deluxe</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>Dive deep into the Nausicaä of the Valley of the Wind Deluxe Edition. A collector's guide comparing physical vs. digital</p>
-<div class="live-price-box" data-product-key="nausicaa-of-the-valley-of-the-wind-deluxe" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Nausicaä of the Valley of the Wind Deluxe</h4>
+
+<div class="live-price-box" data-product-key="nausicaä-of-the-valley-of-the-wind-deluxe" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span class="live-stock-badge" style="display: inline-flex; align-items: center; background: #ecfdf5; color: #047857; font-size: 0.75rem; font-weight: 700; padding: 2px 8px; border-radius: 9999px;">🟢 In Stock / Ships Worldwide</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥10,450</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DNausicaa%2520of%2520the%2520Valley%2520of%2520the%2520Wind%2520Deluxe%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DNausica%25C3%25A4%2520of%2520the%2520Valley%2520of%2520the%2520Wind%2520Deluxe%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNausicaa%20of%20the%20Valley%20of%20the%20Wind%20Deluxe%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F805048%2Fb000ahftx05776%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
+<a href="https://www.amazon.co.jp/s?k=Nausica%C3%A4%20of%20the%20Valley%20of%20the%20Wind%20Deluxe+English+Edition&i=digital-text&language=en_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNausica%C3%A4%20of%20the%20Valley%20of%20the%20Wind%20Deluxe%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DNausica%C3%A4%20of%20the%20Valley%20of%20the%20Wind%20Deluxe&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
+
 
 ## The World of Nausicaä: A Visionary Masterpiece Beyond the Screen
 
@@ -124,35 +127,6 @@ Of course, the English *Nausicaä of the Valley of the Wind Deluxe Edition* is a
 *   **Serious Manga [Collectors](/blog/dark-fantasy-manga-like-berserk-collectors-guide/):** For those who appreciate premium physical releases, oversized art books, and definitive editions of seminal works, the *Nausicaä Deluxe Edition* is an essential acquisition. Its build quality and presentation are top-tier.
 *   **Fans of Dark Fantasy & Sci-Fi:** Readers who enjoy epic, thought-provoking stories with rich world-building, complex characters, and profound themes (environmentalism, war, humanity's future) will find *Nausicaä* to be a deeply rewarding read.
 *   **Newcomers to Nausicaä:** If you've never experienced *Nausicaä* before, this Deluxe Edition provides the best possible introduction to Miyazaki's manga vision, allowing you to fully appreciate its artistic and narrative depth from the outset.
-
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
-<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/b000ahftx05776/b000ahftx05776pl.jpg" alt="Nausicaa of the Valley of the Wind Deluxe" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
-</div>
-<div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Nausicaa of the Valley of the Wind Deluxe</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>Dive deep into the Nausicaä of the Valley of the Wind Deluxe Edition. A collector's guide comparing physical vs. digital</p>
-<div class="live-price-box" data-product-key="nausicaa-of-the-valley-of-the-wind-deluxe" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span class="live-stock-badge" style="display: inline-flex; align-items: center; background: #ecfdf5; color: #047857; font-size: 0.75rem; font-weight: 700; padding: 2px 8px; border-radius: 9999px;">🟢 In Stock / Ships Worldwide</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
-</div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
-</div>
-<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DNausicaa%2520of%2520the%2520Valley%2520of%2520the%2520Wind%2520Deluxe%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNausicaa%20of%20the%20Valley%20of%20the%20Wind%20Deluxe%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F805048%2Fb000ahftx05776%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
-</div>
-</div>
-</div>
-</div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
-</div>
 
 ## Conclusion: A Timeless Epic, Beautifully Presented
 

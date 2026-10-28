@@ -26,7 +26,7 @@ sidebarProducts:
     microCopy: 'View on Amazon.com'
 ---
 
-<!-- Disclosure: This page contains affiliate links. As an Amazon Associate, we earn from qualifying purchases. -->
+> 💡 **PR/Notice**: This site contains affiliate links. We may earn a commission when you make a purchase through our links at no additional cost to you.
 
 Released in 1988 with over 160,000 hand-drawn animation cels, Katsuhiro Otomo’s ***Akira*** stands as the undisputed pinnacle of analog Japanese animation.
 
@@ -40,33 +40,36 @@ Is this physical release truly the definitive edition? Does your home theater se
 
 Here is an in-depth collector analysis of its visual restoration, acoustic fidelity, and playback requirements.
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #334155; border-radius: 10px; background: linear-gradient(135deg, #f8fafc, #f1f5f9); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #0f172a; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 Key Takeaways & Quick Verdict</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #334155; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>Core Strength</strong>: HDR10 brings neon reflections and muzzle flashes to blinding life, backed by revolutionary 192kHz audio.</li>
-<li style="margin-bottom: 6px;"><strong>Recommended For</strong>: Home theater enthusiasts, animation purists, and fans wanting the highest-bitrate physical presentation.</li>
-<li><strong>Important Consideration</strong>: Requires a 4K UHD-compatible player (e.g., PS5 or dedicated standalone deck) and an HDR display.</li>
-</ul>
-</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg" alt="Akira 4K Ultra HD Blu-ray Collector Edition" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg" alt="AKIRA 4K" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Audiophile Reference</span><span style="color: #64748b; font-size: 0.75rem;">35mm 4K Scan · HDR10</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Akira 4K Ultra HD Blu-ray (Collector's Edition)</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">AKIRA 4K</h4>
 
+<div class="live-price-box" data-product-key="akira-4k" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥39.99</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
+</div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.com/dp/B085Z87KZX?tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Check Price on Amazon (Worldwide Shipping)</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DAKIRA%25204K%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://www.amazon.com/s?k=Akira+4K+Ultra+HD+Blu-ray&tag=otakuen-20" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1e293b, #0f172a); color: #ffffff !important;">🔍 View All Editions on Amazon</a>
+<a href="https://www.amazon.co.jp/s?k=AKIRA%204K+English+Edition&i=digital-text&language=en_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAKIRA%204K%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DAKIRA%204K&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
 </div>
 </div>
 </div>
 </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
+
 
 ## Why the 4K Ultra HD Transfer of Akira is an Audio-Visual Milestone
 

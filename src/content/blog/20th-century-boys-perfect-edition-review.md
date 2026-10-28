@@ -36,17 +36,7 @@ heroImages:
   - 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk02700/b600bsgk02700pl.jpg'
 ---
 
-<!-- Disclosure: This page contains affiliate links. -->
-
-<div class="summary-box" style="margin: 24px 0; padding: 20px; background: #f8fafc; border-left: 4px solid #0f172a; border-radius: 6px; font-size: 0.95rem; line-height: 1.7;">
-<p style="margin: 0 0 10px 0; font-weight: bold; color: #0f172a; font-size: 1.05rem;">👁️ Quick Verdict: The Apex of Psychological Sci-Fi Mystery</p>
-<ul style="margin: 0; padding-left: 20px;">
-<li><strong>The Masterpiece Premise</strong>: What if the silly apocalyptic science-fiction scenario you dreamed up with your elementary school friends in 1969 was methodically orchestrated into real-world reality by an enigmatic cult leader 30 years later?</li>
-<li><strong>The Definitive Format</strong>: *The Perfect Edition* delivers 11 double-length A5 volumes plus the *21st Century Boys* finale, restoring full-color spreads and Urasawa's revised canonical ending.</li>
-<li><strong>Rock & Roll Soul</strong>: Intertwines T. Rex's classic rock anthems, Cold War nostalgia, the 1970 Osaka World Expo, and an ensemble cast of aging, flawed, ordinary heroes risking everything to save humanity.</li>
-<li><strong>Collector's Recommendation</strong>: An indisputable must-read alongside *Monster* and *Pluto*, representing one of the greatest long-form page-turners ever illustrated.</li>
-</ul>
-</div>
+> 💡 **PR/Notice**: This site contains affiliate links. We may earn a commission when you make a purchase through our links at no additional cost to you.
 
 In 1969, against the backdrop of the Apollo moon landing and the upcoming 1970 Osaka Expo, a group of imaginative Japanese elementary school boys built a secret grass hideout in a vacant lot. Inside, they drew up a notebook they titled **"The Book of Prophecy" (Yogen no Sho)**: a childish sci-fi daydream detailing a sinister evil organization destroying humanity with biological weapons, giant laser-firing robots, and atmospheric air-spreaders, only to be stopped by nine heroic defenders.
 
@@ -57,6 +47,37 @@ Serialized from 1999 to 2006, Naoki Urasawa’s **20th Century Boys** won the Ko
 With VIZ Media’s release of **20th Century Boys: The Perfect Edition**, international collectors have finally received the ultimate archival format. Here is our deep-dive critical analysis of the narrative, the edition’s physical craftsmanship, and the chronological timeline.
 
 ---
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg" alt="" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;"></h4>
+
+<div class="live-price-box" data-product-key="" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥770</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
+<a href="https://www.amazon.co.jp/s?k=+English+Edition&i=digital-text&language=en_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
+</div>
+
 
 ## 1. Nostalgia Weaponized: The Psychological Paranoia of "Friend"
 
@@ -81,27 +102,6 @@ Rather than following a simple linear progression, Urasawa constructs *20th Cent
 5. **The Virtual Reality Simulation**: A miraculous memory archive technology allowing characters to walk through a digital recreation of 1969 suburban Tokyo to uncover the forgotten trauma that birthed "Friend."
 
 ---
-
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
-<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg" alt="20th Century Boys The Perfect Edition" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
-</div>
-<div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Complete 11-Volume Omnibus + Epilogue</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">20th Century Boys: The Perfect Edition</h4>
-
-<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D20th%2520Century%2520Boys%2BThe%2BPerfect%2BEdition%26language%3Den_US" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F20th%20Century%20Boys%20%E5%AE%8C%E5%85%A8%E7%89%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D20%E4%B8%96%E7%B4%80%E5%B0%91%E5%B9%B4%20%E5%AE%8C%E5%85%A8%E7%89%88&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM Japan Official</a>
-</div>
-</div>
-</div>
-</div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
-</div>
 
 ---
 

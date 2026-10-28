@@ -7,7 +7,14 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://en-manga.ariawriter.com',
-	integrations: [mdx(), sitemap()],
+	integrations: [mdx(), sitemap({
+		serialize(item) {
+			item.lastmod = new Date().toISOString();
+			item.changefreq = 'weekly';
+			item.priority = item.url === 'https://coffeegurasi.ariawriter.com/' || item.url === 'https://saikyotakutore.ariawriter.com/' || item.url === 'https://yohukashinomeisakudana.ariawriter.com/' || item.url === 'https://en-manga.ariawriter.com/' ? 1.0 : 0.8;
+			return item;
+		}
+	})],
 	image: {
 		domains: [
 			'thumbnail.image.rakuten.co.jp',
