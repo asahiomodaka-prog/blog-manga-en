@@ -1,29 +1,37 @@
 ---
 title: 'Attack on Titan Manga Box Set Review: Are the Complete Season Sets Worth It?'
-description: 'Looking to collect Hajime Isayama’s masterpiece? Read our comprehensive review of the Attack on Titan Manga Box Sets covering exclusive short story booklets, posters, pricing, and season breakdowns.'
+description: Looking to collect Hajime Isayama’s masterpiece? Read our comprehensive
+  review of the Attack on Titan Manga Box Sets covering exclusive short story booklets,
+  posters, pricing, and season breakdowns.
 pubDate: '2026-08-23'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900wkds06840/b900wkds06840pl.jpg'
-genre: 'Action & Shonen'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b900wkds06840/b900wkds06840pl.jpg
+genre: Action & Shonen
 featured: true
 featuredOrder: 2
-mediaType: 'comic'
+mediaType: comic
 tags:
-  - 'attack-on-titan'
-  - 'box-set'
-  - 'kodansha'
+- attack-on-titan
+- box-set
+- kodansha
 faq:
-  - question: 'Does the box set save money compared to buying individual volumes?'
-    answer: 'Yes, purchasing the season box sets typically saves 20% to 35% compared to purchasing individual paperback volumes at retail MSRP, with the added benefit of sturdy decorative slipcases and exclusive physical bonus items.'
-  - question: 'What exclusive bonus items are included in these sets?'
-    answer: 'Depending on the season box set, Kodansha USA includes exclusive double-sided full-color mini-posters, character sticker sheets, and translated English short story booklets that cannot be purchased separately.'
-  - question: 'How many total box sets are required to complete the full 34-volume series?'
-    answer: 'The complete series is divided into 7 seasonal box sets: Season 1 Part 1 & 2, Season 2, Season 3 Part 1 & 2, and Final Season Part 1 & 2, collecting all 34 tankobon volumes from chapter 1 to the finale.'
+- question: Does the box set save money compared to buying individual volumes?
+  answer: Yes, purchasing the season box sets typically saves 20% to 35% compared
+    to purchasing individual paperback volumes at retail MSRP, with the added benefit
+    of sturdy decorative slipcases and exclusive physical bonus items.
+- question: What exclusive bonus items are included in these sets?
+  answer: Depending on the season box set, Kodansha USA includes exclusive double-sided
+    full-color mini-posters, character sticker sheets, and translated English short
+    story booklets that cannot be purchased separately.
+- question: How many total box sets are required to complete the full 34-volume series?
+  answer: 'The complete series is divided into 7 seasonal box sets: Season 1 Part
+    1 & 2, Season 2, Season 3 Part 1 & 2, and Final Season Part 1 & 2, collecting
+    all 34 tankobon volumes from chapter 1 to the finale.'
 sidebarProducts:
-  - title: 'Attack on Titan Season 1 Part 1 Manga Box Set'
-    url: 'https://www.amazon.com/dp/1632366982?tag=otakuen-20'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900wkds06840/b900wkds06840pl.jpg'
-    price: 43.99
-    microCopy: 'View on Amazon.com'
+- title: Attack on Titan Season 1 Part 1 Manga Box Set
+  url: https://www.amazon.com/dp/1632366982?tag=otakuen-20
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900wkds06840/b900wkds06840pl.jpg
+  price: 43.99
+  microCopy: Check Official Details
 ---
 
 > 💡 **PR/Notice**: This site contains affiliate links. We may earn a commission when you make a purchase through our links at no additional cost to you.
@@ -35,7 +43,6 @@ With the manga officially concluding at 34 volumes, newcomers and veteran fans f
 Beyond simple shelf aesthetics, these box sets come equipped with exclusive bonus items, curated season divisions, and substantial bundle discounts.
 
 Here is an honest, collector’s breakdown of what these box sets deliver, what exclusive extras you get, and whether they represent the best value for your manga budget.
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -65,7 +72,6 @@ Here is an honest, collector’s breakdown of what these box sets deliver, what 
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
-
 
 ## Why the Attack on Titan Season Box Sets Dominated Manga Sales
 

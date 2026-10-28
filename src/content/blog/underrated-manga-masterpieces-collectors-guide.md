@@ -1,33 +1,31 @@
 ---
 title: 'Unearthing Hidden Gems: Your Guide to Underrated Manga Masterpieces'
-description: 'Dive deep into the world of overlooked manga! Discover true masterpieces that deserve more love and how to add them to your collection.'
+description: Dive deep into the world of overlooked manga! Discover true masterpieces
+  that deserve more love and how to add them to your collection.
 pubDate: '2026-08-28'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784065355190_1_2.jpg?_ex=600x600'
-genre: 'manga_en'
-mediaType: 'comic'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784065355190_1_2.jpg?_ex=600x600
+genre: manga_en
+mediaType: comic
 tags:
-  - 'angle:guide'
+- angle:guide
 faq:
-  - question: 'What makes an underrated manga worth collecting?'
-    answer: 'Underrated manga often feature groundbreaking narrative depth, unique artistic visions, and timeless themes that mainstream commercial titles frequently bypass.'
-  - question: 'Are these editions compatible with international readers?'
-    answer: 'Yes! Physical Japanese collector editions are completely region-free, featuring premium paper stock and oversized artwork that elevate the visual experience.'
-  - question: 'Where is the best place to purchase authentic collector editions?'
-    answer: 'Ordering through verified Japanese merchants such as DMM and Rakuten Books guarantees pristine condition, authentic printing, and collector-grade packaging.'
+- question: What makes an underrated manga worth collecting?
+  answer: Underrated manga often feature groundbreaking narrative depth, unique artistic
+    visions, and timeless themes that mainstream commercial titles frequently bypass.
+- question: Are these editions compatible with international readers?
+  answer: Yes! Physical Japanese collector editions are completely region-free, featuring
+    premium paper stock and oversized artwork that elevate the visual experience.
+- question: Where is the best place to purchase authentic collector editions?
+  answer: Ordering through verified Japanese merchants such as DMM and Rakuten Books
+    guarantees pristine condition, authentic printing, and collector-grade packaging.
 sidebarProducts:
-  - title: 'Mushishi Collector Edition'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07313257%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784065355190_1_2.jpg?_ex=600x600'
-    price: 1200
-    microCopy: 'Check Official Details'
-  - title: 'Vinland Saga Collector Edition'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F100792%2Fb900ckds55391%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900ckds55391/b900ckds55391pl.jpg'
-    price: 1450
-    microCopy: 'Check Official Details'
+- title: Mushishi Collector Edition
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07313257%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784065355190_1_2.jpg?_ex=600x600
+  price: 1200
+  microCopy: Check Official Details
 heroImages:
-  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784065355190_1_2.jpg?_ex=600x600'
-  - 'https://ebook-assets.dmm.com/digital/e-book/b900ckds55391/b900ckds55391pl.jpg'
+- https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784065355190_1_2.jpg?_ex=600x600
 ---
 
 > 💡 **PR/Notice**: This site contains affiliate links. We may earn a commission when you make a purchase through our links at no additional cost to you.
@@ -35,7 +33,6 @@ heroImages:
 While mainstream shonen blockbusters dominate headlines, some of the most profound, artistically breathtaking manga masterpieces quietly reside outside the commercial spotlight. For international collectors, discovering these hidden gems represents the purest thrill of manga appreciation.
 
 Here is our curated guide to essential, overlooked manga titles that belong in any serious collector's library.
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -65,7 +62,6 @@ Here is our curated guide to essential, overlooked manga titles that belong in a
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
 </div>
-
 
 ## Mushishi: The Pinnacle of Meditative Atmosphere
 
