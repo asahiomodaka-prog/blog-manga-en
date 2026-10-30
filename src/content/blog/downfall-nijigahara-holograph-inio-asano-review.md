@@ -2,7 +2,7 @@
 title: 'Downfall & Nijigahara Holograph: Inio Asano''s Unflinching Gaze into the Human Psyche'
 description: 'An in-depth collector''s guide to Inio Asano''s Downfall and Nijigahara Holograph, comparing physical editions and digital releases.'
 pubDate: '2026-10-22'
-heroImage: 'https://m.media-amazon.com/images/I/71B9Hq7h7-L._SL1500_.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600ssgk04574/b600ssgk04574pl.jpg'
 genre: 'Mystery & Suspense'
 mediaType: 'comic'
 ---
@@ -16,7 +16,7 @@ For international collectors, both titles present compelling choices for physica
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://m.media-amazon.com/images/I/71B9Hq7h7-L._SL600_.jpg" alt="Downfall & Nijigahara Holograph" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b600ssgk04574/b600ssgk04574pl.jpg" alt="Downfall & Nijigahara Holograph" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
